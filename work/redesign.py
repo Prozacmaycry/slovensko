@@ -1,0 +1,16 @@
+from pathlib import Path
+p=Path('index.html');s=p.read_text();a=s.index('<aside');b=s.index('</aside>',a)+len('</aside>');s=s[:a]+s[b:];a=s.index('<div class="topbar-mobile-brand">');b=s.index('<div class="topbar-spacer">',a);s=s[:a]+'''<a class="brand" href="#today" aria-label="Slovíčko — главная"><img class="brand-mark" src="assets/logo.png" alt="S."><span class="brand-name">slovíčko<span class="brand-sub">словацкий шаг за шагом</span></span></a>'''+s[b:]
+s=s.replace('<link rel="stylesheet" href="style.css">','<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"><link rel="stylesheet" href="style.css">')
+for old,new in [('⌂','calendar-check-fill'),('▤','file-text-fill'),('✳','star-fill'),('≡','journal-bookmark-fill')]:s=s.replace('<span>'+old+'</span>',f'<i class="bi bi-{new}" aria-hidden="true"></i>')
+s=s.replace('<span class="select-chevron">⌄</span>','<i class="bi bi-chevron-down select-chevron" aria-hidden="true"></i>');p.write_text(s)
+p=Path('app.js');s=p.read_text();s=s.replace("$('#reviewBadge').textContent=due().length||''", "if($('#reviewBadge'))$('#reviewBadge').textContent=due().length||''")
+s=s.replace("$('#profileEmoji').textContent=who().emoji", "$('#profileEmoji').innerHTML='<i class=\"bi bi-feather\" aria-hidden=\"true\"></i>'")
+s=s.replace('<span>♨</span>', '<i class="bi bi-fire" aria-hidden="true"></i>').replace('<span>✦</span>', '<i class="bi bi-gem" aria-hidden="true"></i>')
+s=s.replace('<div class="page-heading"><div><p class="eyebrow">ВСЁ ПРОЙДЕННОЕ', '<div class="page-heading dictionary-heading"><div><p class="eyebrow">ВСЁ ПРОЙДЕННОЕ')
+s=s.replace('<button class="primary-button" data-action="add-word">＋ Добавить слово</button>', '<img class="page-illustration" src="assets/dictionary-hero.png" alt="" aria-hidden="true"><button class="primary-button" data-action="add-word"><i class="bi bi-plus-lg" aria-hidden="true"></i> Добавить слово</button>')
+s=s.replace('<span class="search-icon">⌕</span>', '<i class="bi bi-search search-icon" aria-hidden="true"></i>')
+s=s.replace('>◖))</button>', '><i class="bi bi-volume-up-fill" aria-hidden="true"></i></button>')
+s=s.replace("${c.favorite?'★':'☆'}", "<i class=\"bi bi-${c.favorite?'star-fill':'star'}\" aria-hidden=\"true\"></i>")
+s=s.replace('data-favorite="${esc(i.sk)}">', 'data-favorite="${esc(i.sk)}" aria-label="Избранное: ${esc(i.sk)}" aria-pressed="${c.favorite}">')
+s=s.replace('${x}</button>', '${({Все:\'<i class="bi bi-grid-fill" aria-hidden="true"></i>\',Слова:\'<i class="bi bi-book-fill" aria-hidden="true"></i>\',Фразы:\'<i class="bi bi-chat-dots-fill" aria-hidden="true"></i>\',Правила:\'<i class="bi bi-file-text-fill" aria-hidden="true"></i>\',\'Мои слова\':\'<i class="bi bi-star-fill" aria-hidden="true"></i>\'})[x]||\'\'} ${x}</button>')
+p.write_text(s)
