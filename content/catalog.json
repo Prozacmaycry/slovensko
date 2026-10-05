@@ -1,0 +1,791 @@
+{
+  "revision": 4,
+  "packages": [
+    {
+      "schemaVersion": 1,
+      "id": "lesson-2026-10-05",
+      "title": "Род и спряжение",
+      "description": "Новые слова, мужской / женский / средний род и настоящее время.",
+      "status": "published",
+      "words": [
+        {
+          "id": "l2-word-01",
+          "sk": "chyba",
+          "ru": "ошибка",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-02",
+          "sk": "internát",
+          "ru": "общежитие",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-03",
+          "sk": "srdce",
+          "ru": "сердце",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-04",
+          "sk": "tiež",
+          "ru": "тоже",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-05",
+          "sk": "izba",
+          "ru": "комната",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-06",
+          "sk": "stanica",
+          "ru": "станция",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-07",
+          "sk": "balkón",
+          "ru": "балкон",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-08",
+          "sk": "kúpeľňa",
+          "ru": "ванная",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-09",
+          "sk": "centrum",
+          "ru": "центр",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-10",
+          "sk": "dole",
+          "ru": "вниз; внизу",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-11",
+          "sk": "hore",
+          "ru": "наверх; наверху",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-12",
+          "sk": "dnes",
+          "ru": "сегодня",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-13",
+          "sk": "jedáleň",
+          "ru": "столовая",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-14",
+          "sk": "dosť",
+          "ru": "достаточно",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-15",
+          "sk": "čerstvý",
+          "ru": "свежий",
+          "type": "word"
+        }
+      ],
+      "rules": [
+        {
+          "id": "l2-rule-gender",
+          "title": "Rod — род существительных",
+          "text": "Мужской: muž, pes, stôl, počítač, internát, balkón. Женский: žena, kniha, stanica, izba, kúpeľňa, jedáleň, miestnosť. Средний: auto, srdce, centrum, poschodie, dievča.\nОкончания помогают, но не заменяют знание рода: muž и počítač оканчиваются на согласную; žena и stanica — на -a; mesto — на -o, more — на -e, poschodie — на -ie, centrum — на -um.\nИсключения и особые случаи: miestnosť и jedáleň — женский род; dievča — средний; kolega и futbalista — мужской, хотя заканчиваются на -a. Род слова запоминайте вместе со словом.",
+          "visual": {
+            "format": "gender",
+            "columns": [
+              {
+                "latin": "Maskulínum",
+                "code": "M",
+                "label": "Mužský rod — мужской",
+                "examples": [
+                  "muž",
+                  "pes",
+                  "stôl"
+                ],
+                "patterns": [
+                  [
+                    "согласная",
+                    "muž, pes, stôl"
+                  ],
+                  [
+                    "-a (мужчина)",
+                    "kolega, futbalista"
+                  ],
+                  [
+                    "согласная",
+                    "plán, počítač"
+                  ]
+                ]
+              },
+              {
+                "latin": "Feminínum",
+                "code": "F",
+                "label": "Ženský rod — женский",
+                "examples": [
+                  "žena",
+                  "mačka",
+                  "kniha"
+                ],
+                "patterns": [
+                  [
+                    "-a",
+                    "žena, stanica"
+                  ],
+                  [
+                    "согласная",
+                    "loď, miestnosť"
+                  ],
+                  [
+                    "согласная",
+                    "jedáleň, kúpeľňa"
+                  ]
+                ]
+              },
+              {
+                "latin": "Neutrum",
+                "code": "N",
+                "label": "Stredný rod — средний",
+                "examples": [
+                  "dievča",
+                  "auto",
+                  "srdce"
+                ],
+                "patterns": [
+                  [
+                    "-o / -um",
+                    "mesto, centrum"
+                  ],
+                  [
+                    "-e",
+                    "more, srdce"
+                  ],
+                  [
+                    "-ie",
+                    "poschodie"
+                  ],
+                  [
+                    "-a",
+                    "dievča"
+                  ]
+                ]
+              }
+            ],
+            "exceptions": [
+              "dievča → N",
+              "futbalista, kolega → M",
+              "miestnosť, jedáleň → F"
+            ],
+            "image": "rule-rod.png"
+          }
+        },
+        {
+          "id": "l2-rule-verbs",
+          "title": "Slovesá — четыре образца спряжения",
+          "text": "Порядок форм: ja · ty · on/ona/ono · my · vy · oni/ony.\nvolať sa: volám sa · voláš sa · volá sa · voláme sa · voláte sa · volajú sa.\nhovoriť: hovorím · hovoríš · hovorí · hovoríme · hovoríte · hovoria.\nštudovať: študujem · študuješ · študuje · študujeme · študujete · študujú.\nrozumieť: rozumiem · rozumieš · rozumie · rozumieme · rozumiete · rozumejú.\nДругие примеры из задания: robiť → robíš; pracovať → pracujete; čítať → čítajú; učiť sa → učia sa; mať → mám; poznať → poznáme.\nОтрицание этих глаголов пишется слитно с ne-: nehovorím, nerozumieme, nemám, nepoznáme. У byť отрицание устроено иначе: nie som, nie si, nie je.",
+          "visual": {
+            "format": "conjugation",
+            "groups": [
+              {
+                "verb": "VOLAŤ SA",
+                "forms": [
+                  "volám sa",
+                  "voláš sa",
+                  "volá sa",
+                  "voláme sa",
+                  "voláte sa",
+                  "volajú sa"
+                ],
+                "related": [
+                  "mať",
+                  "hľadať",
+                  "poznať",
+                  "hrať",
+                  "čítať",
+                  "plávať",
+                  "počúvať"
+                ]
+              },
+              {
+                "verb": "HOVORIŤ",
+                "forms": [
+                  "hovorím",
+                  "hovoríš",
+                  "hovorí",
+                  "hovoríme",
+                  "hovoríte",
+                  "hovoria"
+                ],
+                "related": [
+                  "robiť",
+                  "učiť sa",
+                  "učiť",
+                  "variť",
+                  "kúpiť",
+                  "ľúbiť"
+                ]
+              },
+              {
+                "verb": "ŠTUDOVAŤ",
+                "forms": [
+                  "študujem",
+                  "študuješ",
+                  "študuje",
+                  "študujeme",
+                  "študujete",
+                  "študujú"
+                ],
+                "related": [
+                  "pracovať",
+                  "tancovať",
+                  "telefonovať",
+                  "fotografovať",
+                  "maľovať"
+                ]
+              },
+              {
+                "verb": "ROZUMIEŤ",
+                "forms": [
+                  "rozumiem",
+                  "rozumieš",
+                  "rozumie",
+                  "rozumieme",
+                  "rozumiete",
+                  "rozumejú"
+                ],
+                "related": [
+                  "rozumieť po slovensky"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "l2-gender-01",
+          "type": "gender",
+          "prompt": "muž",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "muž → mužský rod. "
+        },
+        {
+          "id": "l2-gender-02",
+          "type": "gender",
+          "prompt": "pes",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "pes → mužský rod. "
+        },
+        {
+          "id": "l2-gender-03",
+          "type": "gender",
+          "prompt": "stôl",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "stôl → mužský rod. "
+        },
+        {
+          "id": "l2-gender-04",
+          "type": "gender",
+          "prompt": "počítač",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "počítač → mužský rod. "
+        },
+        {
+          "id": "l2-gender-05",
+          "type": "gender",
+          "prompt": "internát",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "internát → mužský rod. "
+        },
+        {
+          "id": "l2-gender-06",
+          "type": "gender",
+          "prompt": "balkón",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "balkón → mužský rod. "
+        },
+        {
+          "id": "l2-gender-07",
+          "type": "gender",
+          "prompt": "futbalista",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "futbalista → mužský rod. Название мужчины на -a относится к мужскому роду."
+        },
+        {
+          "id": "l2-gender-08",
+          "type": "gender",
+          "prompt": "kolega",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "kolega → mužský rod. Название мужчины на -a относится к мужскому роду."
+        },
+        {
+          "id": "l2-gender-09",
+          "type": "gender",
+          "prompt": "Carlo",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "Carlo → mužský rod. "
+        },
+        {
+          "id": "l2-gender-10",
+          "type": "gender",
+          "prompt": "autobus",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "autobus → mužský rod. "
+        },
+        {
+          "id": "l2-gender-11",
+          "type": "gender",
+          "prompt": "doktor",
+          "answers": [
+            "mužský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "doktor → mužský rod. "
+        },
+        {
+          "id": "l2-gender-12",
+          "type": "gender",
+          "prompt": "žena",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "žena → ženský rod. "
+        },
+        {
+          "id": "l2-gender-13",
+          "type": "gender",
+          "prompt": "kniha",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "kniha → ženský rod. "
+        },
+        {
+          "id": "l2-gender-14",
+          "type": "gender",
+          "prompt": "chyba",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "chyba → ženský rod. "
+        },
+        {
+          "id": "l2-gender-15",
+          "type": "gender",
+          "prompt": "izba",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "izba → ženský rod. "
+        },
+        {
+          "id": "l2-gender-16",
+          "type": "gender",
+          "prompt": "stanica",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "stanica → ženský rod. "
+        },
+        {
+          "id": "l2-gender-17",
+          "type": "gender",
+          "prompt": "kúpeľňa",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "kúpeľňa → ženský rod. "
+        },
+        {
+          "id": "l2-gender-18",
+          "type": "gender",
+          "prompt": "jedáleň",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "jedáleň → ženský rod. Это существительное женского рода на согласную."
+        },
+        {
+          "id": "l2-gender-19",
+          "type": "gender",
+          "prompt": "miestnosť",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "miestnosť → ženský rod. Это существительное женского рода на согласную."
+        },
+        {
+          "id": "l2-gender-20",
+          "type": "gender",
+          "prompt": "adresa",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "adresa → ženský rod. "
+        },
+        {
+          "id": "l2-gender-21",
+          "type": "gender",
+          "prompt": "doktorka",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "doktorka → ženský rod. "
+        },
+        {
+          "id": "l2-gender-22",
+          "type": "gender",
+          "prompt": "slovenčina",
+          "answers": [
+            "ženský rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "slovenčina → ženský rod. "
+        },
+        {
+          "id": "l2-gender-23",
+          "type": "gender",
+          "prompt": "auto",
+          "answers": [
+            "stredný rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "auto → stredný rod. "
+        },
+        {
+          "id": "l2-gender-24",
+          "type": "gender",
+          "prompt": "srdce",
+          "answers": [
+            "stredný rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "srdce → stredný rod. "
+        },
+        {
+          "id": "l2-gender-25",
+          "type": "gender",
+          "prompt": "centrum",
+          "answers": [
+            "stredný rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "centrum → stredný rod. "
+        },
+        {
+          "id": "l2-gender-26",
+          "type": "gender",
+          "prompt": "poschodie",
+          "answers": [
+            "stredný rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "poschodie → stredný rod. "
+        },
+        {
+          "id": "l2-gender-27",
+          "type": "gender",
+          "prompt": "dievča",
+          "answers": [
+            "stredný rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "dievča → stredný rod. Несмотря на обозначение девочки, грамматический род — средний."
+        },
+        {
+          "id": "l2-gender-28",
+          "type": "gender",
+          "prompt": "jablko",
+          "answers": [
+            "stredný rod"
+          ],
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ],
+          "explanation": "jablko → stredný rod. "
+        },
+        {
+          "id": "l2-verb-01",
+          "type": "gap",
+          "prompt": "Čo tu ___? Pracujem tu ako lektor španielčiny.",
+          "answers": [
+            "robíš"
+          ],
+          "explanation": "Вопрос к ty: robiť → robíš."
+        },
+        {
+          "id": "l2-verb-02",
+          "type": "gap",
+          "prompt": "Jana a Peter nepracujú. ___ na Univerzite Komenského v Bratislave.",
+          "answers": [
+            "Študujú"
+          ],
+          "explanation": "Jana a Peter = oni: študovať → študujú."
+        },
+        {
+          "id": "l2-verb-03",
+          "type": "gap",
+          "prompt": "Juan, Martin, Rebeka, rozumiete? Nie, ___.",
+          "answers": [
+            "nerozumieme"
+          ],
+          "explanation": "Отвечают my: rozumieme; отрицание — nerozumieme."
+        },
+        {
+          "id": "l2-verb-04",
+          "type": "gap",
+          "prompt": "Ja ___ (neg.) po slovensky.",
+          "answers": [
+            "nehovorím"
+          ],
+          "explanation": "Ja: hovorím → nehovorím."
+        },
+        {
+          "id": "l2-verb-05",
+          "type": "gap",
+          "prompt": "Klára a Tomáš ___ plynule po slovensky.",
+          "answers": [
+            "hovoria"
+          ],
+          "explanation": "Они: hovoriť → hovoria."
+        },
+        {
+          "id": "l2-verb-06",
+          "type": "gap",
+          "prompt": "Turista z Japonska a turista z Dánska ___ informačný bulletin.",
+          "answers": [
+            "čítajú"
+          ],
+          "explanation": "Два туриста = oni: čítať → čítajú."
+        },
+        {
+          "id": "l2-verb-07",
+          "type": "gap",
+          "prompt": "___ vo firme Ekonom, pani Ivoríková? Áno, pracujem.",
+          "answers": [
+            "Pracujete"
+          ],
+          "explanation": "Вежливое vy: pracovať → pracujete."
+        },
+        {
+          "id": "l2-verb-08",
+          "type": "gap",
+          "prompt": "Prečo Igor ___? Testuje mobil.",
+          "answers": [
+            "telefonuje"
+          ],
+          "explanation": "Igor = on: telefonovať → telefonuje."
+        },
+        {
+          "id": "l2-verb-09",
+          "type": "gap",
+          "prompt": "My ___ (neg.) na univerzite.",
+          "answers": [
+            "neučíme"
+          ],
+          "explanation": "My: učiť → učíme; отрицание — neučíme."
+        },
+        {
+          "id": "l2-verb-10",
+          "type": "gap",
+          "prompt": "Profesor Veselý a profesor Baláž ___ na univerzite.",
+          "answers": [
+            "učia"
+          ],
+          "explanation": "Они преподают: učiť → učia."
+        },
+        {
+          "id": "l2-verb-11",
+          "type": "gap",
+          "prompt": "Prepáč, momentálne ___ (ja, neg.) čas.",
+          "answers": [
+            "nemám"
+          ],
+          "explanation": "Mať → mám; отрицание — nemám."
+        },
+        {
+          "id": "l2-verb-12",
+          "type": "gap",
+          "prompt": "Prepáčte, sme z Talianska. ___ (neg.) Bratislavu. Hľadáme hotel Carlton.",
+          "answers": [
+            "nepoznáme"
+          ],
+          "explanation": "My: poznať → poznáme; отрицание — nepoznáme."
+        },
+        {
+          "id": "l2-verb-13",
+          "type": "gap",
+          "prompt": "Amir a Dimitra nie sú zo Slovenska, ___ po slovensky v kurze.",
+          "answers": [
+            "učia sa"
+          ],
+          "explanation": "Образец: učiť sa → učia sa."
+        }
+      ],
+      "updatedAt": "2026-10-05T14:31:35.765Z"
+    }
+  ]
+}
