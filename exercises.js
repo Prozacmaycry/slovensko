@@ -2,7 +2,7 @@
 const forms=[['Ja','som','nie som'],['Ty','si','nie si'],['On','je','nie je'],['Ona','je','nie je'],['Ono','je','nie je'],['My','sme','nie sme'],['Vy','ste','nie ste'],['Oni','sú','nie sú'],['Ony','sú','nie sú']];
 const gaps=forms.flatMap(([pronoun,yes,no])=>[false,true].map(negative=>({
  sk:`${pronoun} ${negative?no:yes} zo Slovenska.`,ru:negative?'Отрицание: не из Словакии':'Утверждение: из Словакии',
- prompt:`${pronoun} ___ zo Slovenska.`,answers:[negative?no:yes],exercise:'gap',type:'grammar',lessonId:'byt',lessonTitle:'Byť / nebyť',context:negative?'Вставьте отрицательную форму «быть».':'Вставьте утвердительную форму «быть».'
+ prompt:`${pronoun} ___ zo Slovenska.`,answers:[negative?no:yes],exercise:'gap',type:'grammar',lessonId:'byt',lessonTitle:'Byť / nebyť',infinitive:'byť',context:negative?'Глагол: byť · отрицательная форма':'Глагол: byť · утвердительная форма'
 })));
 const scenes=[
  ['В поезде','Вы входите в купе днём. Поздоровайтесь с незнакомым взрослым пассажиром.','Dobrý deň!'],
