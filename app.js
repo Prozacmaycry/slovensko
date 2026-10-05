@@ -1,4 +1,4 @@
-import {ruleCard} from './rule-cards.js';
+import {ruleCard} from './rule-cards.js?v=20261005-red2';
 import {loadContent,runtimeLessons,contentStatus} from './content-store.js';
 import {managerHTML,managerClick,managerSubmit,managerImport,managerError,managerAudio} from './lesson-manager.js';
 import {playAudio, stopAudio,setLessonAudio} from './audio.js';

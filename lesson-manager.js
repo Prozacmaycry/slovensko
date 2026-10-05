@@ -1,4 +1,4 @@
-import {ruleCard} from './rule-cards.js';
+import {ruleCard} from './rule-cards.js?v=20261005-red2';
 import {packages,newPackage,newId,validatePackage,savePackage,savePackages,canEdit,cloudEnabled,signIn,signOut,loadContent} from './content-store.js';
 let editing=null,preview=null,batch=null,message='';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
