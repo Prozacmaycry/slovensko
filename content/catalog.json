@@ -1,5 +1,5 @@
 {
-  "revision": 5,
+  "revision": 6,
   "packages": [
     {
       "schemaVersion": 1,
@@ -670,145 +670,145 @@
         {
           "id": "l2-verb-01",
           "type": "gap",
-          "prompt": "Čo tu ___? Pracujem tu ako lektor španielčiny.",
+          "prompt": "Čo tu ___ (robiť)? Pracujem tu ako lektor španielčiny.",
           "answers": [
             "robíš"
           ],
           "explanation": "Вопрос к ty: robiť → robíš.",
           "infinitive": "robiť",
-          "context": "Глагол: robiť"
+          "context": "Вставьте глагол из скобок в правильной форме."
         },
         {
           "id": "l2-verb-02",
           "type": "gap",
-          "prompt": "Jana a Peter nepracujú. ___ na Univerzite Komenského v Bratislave.",
+          "prompt": "Jana a Peter nepracujú. ___ (študovať) na Univerzite Komenského v Bratislave.",
           "answers": [
             "Študujú"
           ],
           "explanation": "Jana a Peter = oni: študovať → študujú.",
           "infinitive": "študovať",
-          "context": "Глагол: študovať"
+          "context": "Вставьте глагол из скобок в правильной форме."
         },
         {
           "id": "l2-verb-03",
           "type": "gap",
-          "prompt": "Juan, Martin, Rebeka, rozumiete? Nie, ___.",
+          "prompt": "Juan, Martin, Rebeka, rozumiete? Nie, ___ (rozumieť).",
           "answers": [
             "nerozumieme"
           ],
           "explanation": "Отвечают my: rozumieme; отрицание — nerozumieme.",
           "infinitive": "rozumieť",
-          "context": "Глагол: rozumieť · отрицательная форма"
+          "context": "Вставьте глагол из скобок в правильной форме. Используйте отрицание."
         },
         {
           "id": "l2-verb-04",
           "type": "gap",
-          "prompt": "Ja ___ (neg.) po slovensky.",
+          "prompt": "Ja ___ (hovoriť) (neg.) po slovensky.",
           "answers": [
             "nehovorím"
           ],
           "explanation": "Ja: hovorím → nehovorím.",
           "infinitive": "hovoriť",
-          "context": "Глагол: hovoriť · отрицательная форма"
+          "context": "Вставьте глагол из скобок в правильной форме. Используйте отрицание."
         },
         {
           "id": "l2-verb-05",
           "type": "gap",
-          "prompt": "Klára a Tomáš ___ plynule po slovensky.",
+          "prompt": "Klára a Tomáš ___ (hovoriť) plynule po slovensky.",
           "answers": [
             "hovoria"
           ],
           "explanation": "Они: hovoriť → hovoria.",
           "infinitive": "hovoriť",
-          "context": "Глагол: hovoriť"
+          "context": "Вставьте глагол из скобок в правильной форме."
         },
         {
           "id": "l2-verb-06",
           "type": "gap",
-          "prompt": "Turista z Japonska a turista z Dánska ___ informačný bulletin.",
+          "prompt": "Turista z Japonska a turista z Dánska ___ (čítať) informačný bulletin.",
           "answers": [
             "čítajú"
           ],
           "explanation": "Два туриста = oni: čítať → čítajú.",
           "infinitive": "čítať",
-          "context": "Глагол: čítať"
+          "context": "Вставьте глагол из скобок в правильной форме."
         },
         {
           "id": "l2-verb-07",
           "type": "gap",
-          "prompt": "___ vo firme Ekonom, pani Ivoríková? Áno, pracujem.",
+          "prompt": "___ (pracovať) vo firme Ekonom, pani Ivoríková? Áno, pracujem.",
           "answers": [
             "Pracujete"
           ],
           "explanation": "Вежливое vy: pracovať → pracujete.",
           "infinitive": "pracovať",
-          "context": "Глагол: pracovať"
+          "context": "Вставьте глагол из скобок в правильной форме."
         },
         {
           "id": "l2-verb-08",
           "type": "gap",
-          "prompt": "Prečo Igor ___? Testuje mobil.",
+          "prompt": "Prečo Igor ___ (telefonovať)? Testuje mobil.",
           "answers": [
             "telefonuje"
           ],
           "explanation": "Igor = on: telefonovať → telefonuje.",
           "infinitive": "telefonovať",
-          "context": "Глагол: telefonovať"
+          "context": "Вставьте глагол из скобок в правильной форме."
         },
         {
           "id": "l2-verb-09",
           "type": "gap",
-          "prompt": "My ___ (neg.) na univerzite.",
+          "prompt": "My ___ (učiť) (neg.) na univerzite.",
           "answers": [
             "neučíme"
           ],
           "explanation": "My: učiť → učíme; отрицание — neučíme.",
           "infinitive": "učiť",
-          "context": "Глагол: učiť · отрицательная форма"
+          "context": "Вставьте глагол из скобок в правильной форме. Используйте отрицание."
         },
         {
           "id": "l2-verb-10",
           "type": "gap",
-          "prompt": "Profesor Veselý a profesor Baláž ___ na univerzite.",
+          "prompt": "Profesor Veselý a profesor Baláž ___ (učiť) na univerzite.",
           "answers": [
             "učia"
           ],
           "explanation": "Они преподают: učiť → učia.",
           "infinitive": "učiť",
-          "context": "Глагол: učiť"
+          "context": "Вставьте глагол из скобок в правильной форме."
         },
         {
           "id": "l2-verb-11",
           "type": "gap",
-          "prompt": "Prepáč, momentálne ___ (ja, neg.) čas.",
+          "prompt": "Prepáč, momentálne ___ (mať) (ja, neg.) čas.",
           "answers": [
             "nemám"
           ],
           "explanation": "Mať → mám; отрицание — nemám.",
           "infinitive": "mať",
-          "context": "Глагол: mať · отрицательная форма"
+          "context": "Вставьте глагол из скобок в правильной форме. Используйте отрицание."
         },
         {
           "id": "l2-verb-12",
           "type": "gap",
-          "prompt": "Prepáčte, sme z Talianska. ___ (neg.) Bratislavu. Hľadáme hotel Carlton.",
+          "prompt": "Prepáčte, sme z Talianska. ___ (poznať) (neg.) Bratislavu. Hľadáme hotel Carlton.",
           "answers": [
             "nepoznáme"
           ],
           "explanation": "My: poznať → poznáme; отрицание — nepoznáme.",
           "infinitive": "poznať",
-          "context": "Глагол: poznať · отрицательная форма"
+          "context": "Вставьте глагол из скобок в правильной форме. Используйте отрицание."
         },
         {
           "id": "l2-verb-13",
           "type": "gap",
-          "prompt": "Amir a Dimitra nie sú zo Slovenska, ___ po slovensky v kurze.",
+          "prompt": "Amir a Dimitra nie sú zo Slovenska, ___ (učiť sa) po slovensky v kurze.",
           "answers": [
             "učia sa"
           ],
           "explanation": "Образец: učiť sa → učia sa.",
           "infinitive": "učiť sa",
-          "context": "Глагол: učiť sa"
+          "context": "Вставьте глагол из скобок в правильной форме."
         }
       ],
       "updatedAt": "2026-10-05T14:31:35.765Z"
