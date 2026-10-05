@@ -3,6 +3,7 @@ function verbHighlight(text,index,title=false){
  const stems=title?['VOL','HOVOR','ŠTUD','ROZUM']:['vol','hovor','štud','rozum'];
  const value=String(text),stem=stems[index];
  if(!stem||!value.startsWith(stem))return esc(value);
+ if(title){const tail=value.slice(stem.length),cut=tail.indexOf('Ť');if(cut>=0)return `${esc(stem)}<span class="verb-ending">${esc(tail.slice(0,cut))}</span>${esc(tail.slice(cut))}`;}
  const tail=value.slice(stem.length),space=tail.indexOf(' '),ending=space<0?tail:tail.slice(0,space),rest=space<0?'':tail.slice(space);
  return `${esc(stem)}<span class="verb-ending">${esc(ending)}</span>${esc(rest)}`;
 }
