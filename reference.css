@@ -67,3 +67,13 @@ body[data-view] .brand-mark[src]{clip-path:inset(5.6% round 22%)}
 .image-rule>a{display:block;border-radius:12px;overflow:hidden;background:white}.grammar-sheet{display:block;width:100%;height:auto;max-width:100%;object-fit:contain}.image-rule>h3{margin-bottom:14px}.image-rule{padding:24px}.image-rule>a:focus-visible{outline:3px solid #8853e8;outline-offset:4px}@media(max-width:700px){.image-rule{padding:14px}.image-rule>h3{font-size:22px}}
 .verb-task-hint{display:block;font-size:14px;color:#77638c;margin-bottom:8px}.verb-task-hint b{color:#6734a3}
 .conjugation-rule .verb-ending{color:#b52a32;font-weight:inherit;font-size:inherit;display:inline}
+/* Frequent practice actions: subtle feedback and continuity, not decoration. */
+:root{--ease-out:cubic-bezier(0.23,1,0.32,1);--ease-in-out:cubic-bezier(0.77,0,0.175,1)}
+.practice-progress .progress-fill{width:100%;transform-origin:left center;transition:transform 200ms linear}
+.practice-screen .answer-option,.practice-screen .accent-keys button,.practice-actions button{transition:transform 120ms var(--ease-out),background-color 120ms ease,border-color 120ms ease,color 120ms ease}
+.practice-screen .answer-option:active:not(:disabled),.practice-screen .accent-keys button:active:not(:disabled),.practice-actions button:active:not(:disabled){transform:scale(.97)}
+.practice-actions{gap:12px;flex-wrap:wrap}.practice-actions .quiet-button{border:1px solid #dfd2f6;background:white;border-radius:14px;padding:12px 20px;color:#715492;font:700 16px 'Nunito Sans',sans-serif;cursor:pointer}.question-content[inert]{pointer-events:none}
+@media(hover:hover) and (pointer:fine){.practice-screen .answer-option:hover:not(:disabled){transform:translateY(-1px);background:#f7f0ff;border-color:#a774ed}}
+@media(hover:none),(pointer:coarse){.practice-screen .answer-option:hover:not(:disabled){background:white;border-color:#e6d8f7}}
+@media(prefers-reduced-motion:reduce){.practice-screen .answer-option,.practice-screen .accent-keys button,.practice-actions button{transition:background-color 120ms ease,border-color 120ms ease,color 120ms ease}.practice-screen .answer-option:active:not(:disabled),.practice-screen .accent-keys button:active:not(:disabled),.practice-actions button:active:not(:disabled),.practice-screen .answer-option:hover:not(:disabled){transform:none}.practice-progress .progress-fill{transition:none}}
+body[data-practice-input=keyboard] .practice-progress .progress-fill{transition:none}body[data-practice-input=keyboard] .practice-screen .answer-option:active,body[data-practice-input=keyboard] .practice-screen .accent-keys button:active,body[data-practice-input=keyboard] .practice-actions button:active{transform:none}
