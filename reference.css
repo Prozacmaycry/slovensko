@@ -77,3 +77,14 @@ body[data-view] .brand-mark[src]{clip-path:inset(5.6% round 22%)}
 @media(hover:none),(pointer:coarse){.practice-screen .answer-option:hover:not(:disabled){background:white;border-color:#e6d8f7}}
 @media(prefers-reduced-motion:reduce){.practice-screen .answer-option,.practice-screen .accent-keys button,.practice-actions button{transition:background-color 120ms ease,border-color 120ms ease,color 120ms ease}.practice-screen .answer-option:active:not(:disabled),.practice-screen .accent-keys button:active:not(:disabled),.practice-actions button:active:not(:disabled),.practice-screen .answer-option:hover:not(:disabled){transform:none}.practice-progress .progress-fill{transition:none}}
 body[data-practice-input=keyboard] .practice-progress .progress-fill{transition:none}body[data-practice-input=keyboard] .practice-screen .answer-option:active,body[data-practice-input=keyboard] .practice-screen .accent-keys button:active,body[data-practice-input=keyboard] .practice-actions button:active{transform:none}
+/* Site-wide micro-interactions preserve the existing layout and colors. */
+.progress-fill{width:100%;transform-origin:left center;transition:transform 200ms linear}
+button,.lesson-card,.lesson-mini{transition:transform 120ms var(--ease-out),background-color 120ms ease,border-color 120ms ease,color 120ms ease}
+button:active:not(:disabled),.lesson-card:active,.lesson-mini:active{transform:scale(.97)}
+.mobile-nav-item,.filter-tab{transition:background-color 160ms ease,color 160ms ease,transform 120ms var(--ease-out)}
+.star-button{transition:color 120ms ease,transform 120ms var(--ease-out)}
+.toast{transition:opacity 180ms var(--ease-out),transform 180ms var(--ease-out)}
+@media(hover:hover) and (pointer:fine){.lesson-card:hover,.lesson-mini:hover,.training-tile:hover:not(:disabled){transform:translateY(-1px)}.vocab-voice:hover,.star-button:hover{transform:scale(1.03)}}
+@media(hover:none),(pointer:coarse){.lesson-card:hover,.lesson-mini:hover,.training-tile:hover{transform:none}}
+body[data-practice-input=keyboard] button:active,body[data-practice-input=keyboard] .lesson-card:active,body[data-practice-input=keyboard] .lesson-mini:active{transform:none}
+@media(prefers-reduced-motion:reduce){button,.lesson-card,.lesson-mini,.mobile-nav-item,.filter-tab,.star-button{transition:background-color 120ms ease,border-color 120ms ease,color 120ms ease}.progress-fill{transition:none}.toast{transform:translateX(-50%);transition:opacity 120ms ease}button:active:not(:disabled),.lesson-card:active,.lesson-mini:active,.lesson-card:hover,.lesson-mini:hover,.training-tile:hover,.vocab-voice:hover,.star-button:hover{transform:none}}
