@@ -1,5 +1,5 @@
 {
-  "revision": 6,
+  "revision": 8,
   "packages": [
     {
       "schemaVersion": 1,
@@ -812,6 +812,2126 @@
         }
       ],
       "updatedAt": "2026-10-05T14:31:35.765Z"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "lesson-2026-10-06",
+      "title": "Жильё, прилагательные и принадлежность",
+      "description": "Комната и дом, профессии, формы прилагательных, чей / чья / чьё и порядок слов.",
+      "status": "published",
+      "words": [
+        {
+          "id": "l2-word-05",
+          "sk": "izba",
+          "ru": "комната",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-02",
+          "sk": "internát",
+          "ru": "общежитие",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-07",
+          "sk": "balkón",
+          "ru": "балкон",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-08",
+          "sk": "kúpeľňa",
+          "ru": "ванная комната",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-005",
+          "sk": "kuchyňa",
+          "ru": "кухня",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-006",
+          "sk": "práčka",
+          "ru": "стиральная машина",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-007",
+          "sk": "mikrovlnka",
+          "ru": "микроволновка",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-008",
+          "sk": "chladnička",
+          "ru": "холодильник",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-009",
+          "sk": "polica",
+          "ru": "полка",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-010",
+          "sk": "lampa",
+          "ru": "лампа",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-011",
+          "sk": "skriňa",
+          "ru": "шкаф",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-012",
+          "sk": "stôl",
+          "ru": "стол",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-013",
+          "sk": "prízemie",
+          "ru": "наземный этаж (ground floor)",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-014",
+          "sk": "kopírka",
+          "ru": "копировальный аппарат",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-015",
+          "sk": "mobil",
+          "ru": "мобильный телефон",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-016",
+          "sk": "vľavo",
+          "ru": "слева; влево",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-017",
+          "sk": "vpravo",
+          "ru": "справа; вправо",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-018",
+          "sk": "vpredu",
+          "ru": "спереди",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-019",
+          "sk": "vzadu",
+          "ru": "сзади",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-020",
+          "sk": "zapnutý",
+          "ru": "включённый",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-021",
+          "sk": "vypnutý",
+          "ru": "выключенный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-022",
+          "sk": "nabitý",
+          "ru": "заряженный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-023",
+          "sk": "vybitý",
+          "ru": "разряженный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-024",
+          "sk": "Zvoní ti mobil.",
+          "ru": "У тебя звонит телефон.",
+          "type": "phrase"
+        },
+        {
+          "id": "l3-word-025",
+          "sk": "Poďte ďalej.",
+          "ru": "Проходите.",
+          "type": "phrase"
+        },
+        {
+          "id": "l3-word-026",
+          "sk": "starý",
+          "ru": "старый",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-027",
+          "sk": "pekný",
+          "ru": "красивый",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-028",
+          "sk": "veľký",
+          "ru": "большой",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-029",
+          "sk": "malý",
+          "ru": "маленький",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-030",
+          "sk": "pomalý",
+          "ru": "медленный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-031",
+          "sk": "pokazený",
+          "ru": "сломанный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-032",
+          "sk": "zlý",
+          "ru": "плохой",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-033",
+          "sk": "moderný",
+          "ru": "современный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-034",
+          "sk": "svetlý",
+          "ru": "светлый",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-035",
+          "sk": "široký",
+          "ru": "широкий",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-036",
+          "sk": "kvalitný",
+          "ru": "качественный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-037",
+          "sk": "praktický",
+          "ru": "практичный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-038",
+          "sk": "úzky",
+          "ru": "узкий",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-039",
+          "sk": "vysoký",
+          "ru": "высокий",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-040",
+          "sk": "čistý",
+          "ru": "чистый",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-041",
+          "sk": "nový",
+          "ru": "новый",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-042",
+          "sk": "rýchly",
+          "ru": "быстрый",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-043",
+          "sk": "nízky",
+          "ru": "низкий",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-044",
+          "sk": "opravený",
+          "ru": "отремонтированный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-045",
+          "sk": "dom",
+          "ru": "дом",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-046",
+          "sk": "strecha",
+          "ru": "крыша",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-047",
+          "sk": "chodba",
+          "ru": "коридор",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-048",
+          "sk": "schody",
+          "ru": "лестница",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-049",
+          "sk": "dvere",
+          "ru": "дверь; двери",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-050",
+          "sk": "spálňa",
+          "ru": "спальня",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-051",
+          "sk": "detská izba",
+          "ru": "детская комната",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-052",
+          "sk": "obývacia izba",
+          "ru": "гостиная",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-053",
+          "sk": "obývačka",
+          "ru": "гостиная (разговорное)",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-054",
+          "sk": "garáž",
+          "ru": "гараж",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-055",
+          "sk": "práčovňa",
+          "ru": "прачечная",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-056",
+          "sk": "zrkadlo",
+          "ru": "зеркало",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-057",
+          "sk": "vaňa",
+          "ru": "ванна",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-058",
+          "sk": "sprcha",
+          "ru": "душ",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-059",
+          "sk": "umývadlo",
+          "ru": "раковина",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-060",
+          "sk": "obraz",
+          "ru": "картина",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-061",
+          "sk": "televízor",
+          "ru": "телевизор",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-062",
+          "sk": "gauč",
+          "ru": "диван",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-063",
+          "sk": "koberec",
+          "ru": "ковёр",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-064",
+          "sk": "klavír",
+          "ru": "пианино",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-065",
+          "sk": "skrinka",
+          "ru": "шкафчик",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-066",
+          "sk": "kávovar",
+          "ru": "кофеварка",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-067",
+          "sk": "kanvica",
+          "ru": "чайник",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-068",
+          "sk": "sporák",
+          "ru": "плита",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-069",
+          "sk": "umývačka riadu",
+          "ru": "посудомоечная машина",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-070",
+          "sk": "mikrovlnná rúra",
+          "ru": "микроволновая печь",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-071",
+          "sk": "záves",
+          "ru": "занавеска",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-072",
+          "sk": "okno",
+          "ru": "окно",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-073",
+          "sk": "posteľ",
+          "ru": "кровать",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-074",
+          "sk": "podlaha",
+          "ru": "пол",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-075",
+          "sk": "stolička",
+          "ru": "стул",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-076",
+          "sk": "notebook",
+          "ru": "ноутбук",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-077",
+          "sk": "kancelária",
+          "ru": "кабинет; офис",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-078",
+          "sk": "telefón",
+          "ru": "телефон",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-079",
+          "sk": "kôš",
+          "ru": "корзина",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-080",
+          "sk": "tlačiareň",
+          "ru": "принтер",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-081",
+          "sk": "trieda",
+          "ru": "класс (помещение или группа)",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-082",
+          "sk": "tabuľa",
+          "ru": "доска",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-083",
+          "sk": "lavica",
+          "ru": "парта",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-084",
+          "sk": "prenájom",
+          "ru": "аренда",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-085",
+          "sk": "predaj",
+          "ru": "продажа",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-086",
+          "sk": "byt",
+          "ru": "квартира",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-087",
+          "sk": "nábytok",
+          "ru": "мебель",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-088",
+          "sk": "výťah",
+          "ru": "лифт",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-089",
+          "sk": "pivnica",
+          "ru": "подвал",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-090",
+          "sk": "terasa",
+          "ru": "терраса",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-091",
+          "sk": "záhrada",
+          "ru": "сад",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-092",
+          "sk": "cena dohodou",
+          "ru": "цена по договорённости",
+          "type": "phrase"
+        },
+        {
+          "id": "l3-word-093",
+          "sk": "jednoizbový",
+          "ru": "однокомнатный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-094",
+          "sk": "dvojizbový",
+          "ru": "двухкомнатный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-095",
+          "sk": "trojizbový",
+          "ru": "трёхкомнатный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-096",
+          "sk": "štvorizbový",
+          "ru": "четырёхкомнатный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-097",
+          "sk": "centrum mesta",
+          "ru": "центр города",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-098",
+          "sk": "cena",
+          "ru": "цена",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-099",
+          "sk": "mesiac",
+          "ru": "месяц",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-100",
+          "sk": "sídlisko",
+          "ru": "жилой микрорайон",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-101",
+          "sk": "prostredie",
+          "ru": "окружение; среда",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-102",
+          "sk": "park",
+          "ru": "парк",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-103",
+          "sk": "interiér",
+          "ru": "интерьер",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-104",
+          "sk": "parkovanie",
+          "ru": "парковка",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-105",
+          "sk": "spoločný",
+          "ru": "общий",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-106",
+          "sk": "garsónka",
+          "ru": "квартира-студия",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-107",
+          "sk": "luxusný",
+          "ru": "роскошный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-108",
+          "sk": "obchodné centrum",
+          "ru": "торговый центр",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-109",
+          "sk": "šatník",
+          "ru": "гардероб; гардеробная",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-110",
+          "sk": "rekonštrukcia",
+          "ru": "реконструкция; ремонт",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-111",
+          "sk": "bungalov",
+          "ru": "бунгало",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-112",
+          "sk": "periféria",
+          "ru": "окраина",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-113",
+          "sk": "altánok",
+          "ru": "беседка",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-114",
+          "sk": "vila",
+          "ru": "вилла",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-115",
+          "sk": "hala",
+          "ru": "холл",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-116",
+          "sk": "apartmán",
+          "ru": "апартаменты",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-117",
+          "sk": "telefonista",
+          "ru": "телефонист",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-118",
+          "sk": "telefonistka",
+          "ru": "женщина: телефонист",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-119",
+          "sk": "upratovač",
+          "ru": "уборщик",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-120",
+          "sk": "upratovačka",
+          "ru": "женщина: уборщик",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-121",
+          "sk": "učiteľ",
+          "ru": "учитель",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-122",
+          "sk": "učiteľka",
+          "ru": "учительница",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-123",
+          "sk": "študent",
+          "ru": "студент",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-124",
+          "sk": "študentka",
+          "ru": "студентка",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-125",
+          "sk": "maliar",
+          "ru": "художник",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-126",
+          "sk": "maliarka",
+          "ru": "женщина: художник",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-127",
+          "sk": "predavač",
+          "ru": "продавец",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-128",
+          "sk": "predavačka",
+          "ru": "женщина: продавец",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-129",
+          "sk": "lekár",
+          "ru": "врач",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-130",
+          "sk": "lekárka",
+          "ru": "женщина-врач",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-131",
+          "sk": "fotograf",
+          "ru": "фотограф",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-132",
+          "sk": "fotografka",
+          "ru": "женщина: фотограф",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-133",
+          "sk": "riaditeľ",
+          "ru": "директор",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-134",
+          "sk": "riaditeľka",
+          "ru": "женщина-директор",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-135",
+          "sk": "pilot",
+          "ru": "пилот",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-136",
+          "sk": "pilotka",
+          "ru": "женщина: пилот",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-137",
+          "sk": "podnikateľ",
+          "ru": "предприниматель",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-138",
+          "sk": "podnikateľka",
+          "ru": "женщина: предприниматель",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-139",
+          "sk": "programátor",
+          "ru": "программист",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-140",
+          "sk": "programátorka",
+          "ru": "женщина: программист",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-141",
+          "sk": "kuchár",
+          "ru": "повар",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-142",
+          "sk": "kuchárka",
+          "ru": "женщина-повар",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-143",
+          "sk": "telefonovať",
+          "ru": "звонить по телефону",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-144",
+          "sk": "upratovať",
+          "ru": "убирать",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-145",
+          "sk": "učiť",
+          "ru": "учить; преподавать",
+          "type": "word"
+        },
+        {
+          "id": "študovať",
+          "sk": "študovať",
+          "ru": "учиться (в учебном заведении)",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-147",
+          "sk": "maľovať",
+          "ru": "рисовать красками",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-148",
+          "sk": "predávať",
+          "ru": "продавать",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-149",
+          "sk": "liečiť",
+          "ru": "лечить",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-150",
+          "sk": "fotografovať",
+          "ru": "фотографировать",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-151",
+          "sk": "riadiť",
+          "ru": "руководить; управлять",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-152",
+          "sk": "pilotovať",
+          "ru": "пилотировать",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-153",
+          "sk": "podnikať",
+          "ru": "заниматься предпринимательством",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-154",
+          "sk": "programovať",
+          "ru": "программировать",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-155",
+          "sk": "variť",
+          "ru": "готовить еду",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-156",
+          "sk": "šoférovať",
+          "ru": "водить автомобиль",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-157",
+          "sk": "šofér",
+          "ru": "водитель",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-158",
+          "sk": "šoférka",
+          "ru": "женщина-водитель",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-159",
+          "sk": "ovocie",
+          "ru": "фрукты",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-160",
+          "sk": "fotoaparát",
+          "ru": "фотоаппарат",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-161",
+          "sk": "jedlo",
+          "ru": "еда",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-162",
+          "sk": "tovar",
+          "ru": "товар",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-163",
+          "sk": "dedko",
+          "ru": "дедушка",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-164",
+          "sk": "teta",
+          "ru": "тётя",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-165",
+          "sk": "ideálny",
+          "ru": "идеальный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-166",
+          "sk": "prvý",
+          "ru": "первый",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-167",
+          "sk": "ťažký",
+          "ru": "тяжёлый; трудный",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-168",
+          "sk": "skúška",
+          "ru": "экзамен",
+          "type": "word"
+        }
+      ],
+      "rules": [
+        {
+          "id": "l3-rule-adjectives",
+          "title": "Aký? Aká? Aké? — согласование прилагательных",
+          "text": "Прилагательное согласуется с существительным по роду. Для показанных твёрдых прилагательных: мужской -ý, женский -á, средний -é.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Род",
+              "Вопрос",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "M — мужской",
+                "Aký?",
+                "pekný kamarát"
+              ],
+              [
+                "F — женский",
+                "Aká?",
+                "pekná izba"
+              ],
+              [
+                "N — средний",
+                "Aké?",
+                "pekné auto"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l3-rule-negative",
+          "title": "Negácia adjektíva — отрицание",
+          "text": "Сравните две конструкции. nie je + прилагательное; je + отрицательное прилагательное с ne-. Здесь ne- пишется слитно. Это образцы для данных слов, не правило образования всех антонимов.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Отрицание глагола",
+              "Отрицательное прилагательное"
+            ],
+            "rows": [
+              [
+                "nie je moderný",
+                "je nemoderný"
+              ],
+              [
+                "nie je praktický",
+                "je nepraktický"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l3-rule-possessive",
+          "title": "Čí? Čia? Čie? — чей, чья, чьё",
+          "text": "Форма принадлежности зависит от рода предмета. Róbert → Róbertov / Róbertova / Róbertovo; Johanna → Johannin / Johannina / Johannino.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Род предмета",
+              "Róbert",
+              "Johanna"
+            ],
+            "rows": [
+              [
+                "M · Čí?",
+                "Róbertov stôl",
+                "Johannin mobil"
+              ],
+              [
+                "F · Čia?",
+                "Róbertova stolička",
+                "Johannina kniha"
+              ],
+              [
+                "N · Čie?",
+                "Róbertovo umývadlo",
+                "Johannino okno"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l3-rule-order",
+          "title": "Slovosled — порядок слов",
+          "text": "Схемы из урока показывают порядок определений, а не все возможные порядки слов словацкого языка. Без порядкового числительного: который → чей → какой → предмет. С порядковым числительным: чей → который по счёту → какой → предмет.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Схема",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "ktorý? → čí? → aký?",
+                "To je ten Róbertov ideálny dom."
+              ],
+              [
+                "местоположение → je → принадлежность → качество",
+                "Ten vľavo je Róbertov dobrý kamarát."
+              ],
+              [
+                "čí? → который по счёту → aký?",
+                "To je Róbertov prvý moderný byt."
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "l3-task-001",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "telefonista → ___",
+          "answers": [
+            "telefonistka"
+          ],
+          "explanation": "telefonista → telefonistka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-002",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (telefonovať).",
+          "answers": [
+            "telefonujem"
+          ],
+          "explanation": "Ja: telefonovať → telefonujem",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-003",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (telefonovať).",
+          "answers": [
+            "telefonujú"
+          ],
+          "explanation": "Oni: telefonovať → telefonujú",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-004",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "upratovač → ___",
+          "answers": [
+            "upratovačka"
+          ],
+          "explanation": "upratovač → upratovačka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-005",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (upratovať).",
+          "answers": [
+            "upratujem"
+          ],
+          "explanation": "Ja: upratovať → upratujem",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-006",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (upratovať).",
+          "answers": [
+            "upratujú"
+          ],
+          "explanation": "Oni: upratovať → upratujú",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-007",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "učiteľ → ___",
+          "answers": [
+            "učiteľka"
+          ],
+          "explanation": "učiteľ → učiteľka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-008",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (učiť).",
+          "answers": [
+            "učím"
+          ],
+          "explanation": "Ja: učiť → učím",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-009",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (učiť).",
+          "answers": [
+            "učia"
+          ],
+          "explanation": "Oni: učiť → učia",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-010",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "študent → ___",
+          "answers": [
+            "študentka"
+          ],
+          "explanation": "študent → študentka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-011",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (študovať).",
+          "answers": [
+            "študujem"
+          ],
+          "explanation": "Ja: študovať → študujem",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-012",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (študovať).",
+          "answers": [
+            "študujú"
+          ],
+          "explanation": "Oni: študovať → študujú",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-013",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "maliar → ___",
+          "answers": [
+            "maliarka"
+          ],
+          "explanation": "maliar → maliarka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-014",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (maľovať).",
+          "answers": [
+            "maľujem"
+          ],
+          "explanation": "Ja: maľovať → maľujem",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-015",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (maľovať).",
+          "answers": [
+            "maľujú"
+          ],
+          "explanation": "Oni: maľovať → maľujú",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-016",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "predavač → ___",
+          "answers": [
+            "predavačka"
+          ],
+          "explanation": "predavač → predavačka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-017",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (predávať).",
+          "answers": [
+            "predávam"
+          ],
+          "explanation": "Ja: predávať → predávam",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-018",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (predávať).",
+          "answers": [
+            "predávajú"
+          ],
+          "explanation": "Oni: predávať → predávajú",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-019",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "lekár → ___",
+          "answers": [
+            "lekárka"
+          ],
+          "explanation": "lekár → lekárka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-020",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (liečiť).",
+          "answers": [
+            "liečim"
+          ],
+          "explanation": "Ja: liečiť → liečim",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-021",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (liečiť).",
+          "answers": [
+            "liečia"
+          ],
+          "explanation": "Oni: liečiť → liečia",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-022",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "fotograf → ___",
+          "answers": [
+            "fotografka"
+          ],
+          "explanation": "fotograf → fotografka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-023",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (fotografovať).",
+          "answers": [
+            "fotografujem"
+          ],
+          "explanation": "Ja: fotografovať → fotografujem",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-024",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (fotografovať).",
+          "answers": [
+            "fotografujú"
+          ],
+          "explanation": "Oni: fotografovať → fotografujú",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-025",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "riaditeľ → ___",
+          "answers": [
+            "riaditeľka"
+          ],
+          "explanation": "riaditeľ → riaditeľka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-026",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (riadiť).",
+          "answers": [
+            "riadim"
+          ],
+          "explanation": "Ja: riadiť → riadim",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-027",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (riadiť).",
+          "answers": [
+            "riadia"
+          ],
+          "explanation": "Oni: riadiť → riadia",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-028",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "pilot → ___",
+          "answers": [
+            "pilotka"
+          ],
+          "explanation": "pilot → pilotka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-029",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (pilotovať).",
+          "answers": [
+            "pilotujem"
+          ],
+          "explanation": "Ja: pilotovať → pilotujem",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-030",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (pilotovať).",
+          "answers": [
+            "pilotujú"
+          ],
+          "explanation": "Oni: pilotovať → pilotujú",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-031",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "podnikateľ → ___",
+          "answers": [
+            "podnikateľka"
+          ],
+          "explanation": "podnikateľ → podnikateľka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-032",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (podnikať).",
+          "answers": [
+            "podnikám"
+          ],
+          "explanation": "Ja: podnikať → podnikám",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-033",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (podnikať).",
+          "answers": [
+            "podnikajú"
+          ],
+          "explanation": "Oni: podnikať → podnikajú",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-034",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "programátor → ___",
+          "answers": [
+            "programátorka"
+          ],
+          "explanation": "programátor → programátorka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-035",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (programovať).",
+          "answers": [
+            "programujem"
+          ],
+          "explanation": "Ja: programovať → programujem",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-036",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (programovať).",
+          "answers": [
+            "programujú"
+          ],
+          "explanation": "Oni: programovať → programujú",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-037",
+          "type": "translation",
+          "section": "professions",
+          "sectionTitle": "Профессии — напишите женскую форму",
+          "prompt": "kuchár → ___",
+          "answers": [
+            "kuchárka"
+          ],
+          "explanation": "kuchár → kuchárka",
+          "context": "Профессии — напишите женскую форму"
+        },
+        {
+          "id": "l3-task-038",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (variť).",
+          "answers": [
+            "varím"
+          ],
+          "explanation": "Ja: variť → varím",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-039",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni ___ (variť).",
+          "answers": [
+            "varia"
+          ],
+          "explanation": "Oni: variť → varia",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-040",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Oni tiež ___ (šoférovať) auto.",
+          "answers": [
+            "šoférujú"
+          ],
+          "explanation": "Oni: šoférujú.",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-041",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Dana ___ (učiť) deti matematiku.",
+          "answers": [
+            "učí"
+          ],
+          "explanation": "Dana = ona: učí.",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-042",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Tibor a Mária ___ (liečiť) deti.",
+          "answers": [
+            "liečia"
+          ],
+          "explanation": "Tibor a Mária = oni: liečia.",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-043",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Aj vy ___ (šoférovať) auto?",
+          "answers": [
+            "šoférujete"
+          ],
+          "explanation": "Vy: šoférujete.",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-044",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Ja ___ (fotografovať) staré mesto.",
+          "answers": [
+            "fotografujem"
+          ],
+          "explanation": "Ja: fotografujem.",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-045",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Môj dedko ___ (variť) dobré jedlo.",
+          "answers": [
+            "varí"
+          ],
+          "explanation": "Dedko = on: varí.",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-046",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "prompt": "Naša teta ___ (predávať) tovar.",
+          "answers": [
+            "predáva"
+          ],
+          "explanation": "Teta = ona: predáva.",
+          "context": "Вставьте форму глагола"
+        },
+        {
+          "id": "l3-task-047",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "kancelária je ___ (moderný).",
+          "answers": [
+            "moderná"
+          ],
+          "explanation": "kancelária → moderná. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-048",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "kancelária je ___ (svetlý).",
+          "answers": [
+            "svetlá"
+          ],
+          "explanation": "kancelária → svetlá. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-049",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "okno je ___ (široký).",
+          "answers": [
+            "široké"
+          ],
+          "explanation": "okno → široké. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-050",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "stôl je ___ (dlhý).",
+          "answers": [
+            "dlhý"
+          ],
+          "explanation": "stôl → dlhý. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-051",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "stolička je ___ (kvalitný).",
+          "answers": [
+            "kvalitná"
+          ],
+          "explanation": "stolička → kvalitná. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-052",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "polica je ___ (praktický).",
+          "answers": [
+            "praktická"
+          ],
+          "explanation": "polica → praktická. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-053",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "polica je ___ (úzky).",
+          "answers": [
+            "úzka"
+          ],
+          "explanation": "polica → úzka. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-054",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "balkón je ___ (veľký).",
+          "answers": [
+            "veľký"
+          ],
+          "explanation": "balkón → veľký. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-055",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "stôl je ___ (vysoký).",
+          "answers": [
+            "vysoký"
+          ],
+          "explanation": "stôl → vysoký. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-056",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "stôl je ___ (čistý).",
+          "answers": [
+            "čistý"
+          ],
+          "explanation": "stôl → čistý. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-057",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "počítač je ___ (nový).",
+          "answers": [
+            "nový"
+          ],
+          "explanation": "počítač → nový. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-058",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "počítač je ___ (rýchly).",
+          "answers": [
+            "rýchly"
+          ],
+          "explanation": "počítač → rýchly. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-059",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "lampa je ___ (pekný).",
+          "answers": [
+            "pekná"
+          ],
+          "explanation": "lampa → pekná. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-060",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "lampa je ___ (nízky).",
+          "answers": [
+            "nízka"
+          ],
+          "explanation": "lampa → nízka. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-061",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "tlačiareň je ___ (opravený).",
+          "answers": [
+            "opravená"
+          ],
+          "explanation": "tlačiareň → opravená. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-062",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Вставьте форму прилагательного",
+          "prompt": "tlačiareň je ___ (malý).",
+          "answers": [
+            "malá"
+          ],
+          "explanation": "tlačiareň → malá. Прилагательное согласуется с родом существительного.",
+          "context": "Вставьте форму прилагательного"
+        },
+        {
+          "id": "l3-task-063",
+          "type": "gap",
+          "section": "possessive",
+          "sectionTitle": "Вставьте форму принадлежности",
+          "prompt": "Róbert, stolička → ___ stolička",
+          "answers": [
+            "Róbertova"
+          ],
+          "explanation": "Róbertova stolička. Окончание определяется родом предмета.",
+          "context": "Вставьте форму принадлежности"
+        },
+        {
+          "id": "l3-task-064",
+          "type": "gap",
+          "section": "possessive",
+          "sectionTitle": "Вставьте форму принадлежности",
+          "prompt": "Johanna, skrinka → ___ skrinka",
+          "answers": [
+            "Johannina"
+          ],
+          "explanation": "Johannina skrinka. Окончание определяется родом предмета.",
+          "context": "Вставьте форму принадлежности"
+        },
+        {
+          "id": "l3-task-065",
+          "type": "gap",
+          "section": "possessive",
+          "sectionTitle": "Вставьте форму принадлежности",
+          "prompt": "Johanna, okno → ___ okno",
+          "answers": [
+            "Johannino"
+          ],
+          "explanation": "Johannino okno. Окончание определяется родом предмета.",
+          "context": "Вставьте форму принадлежности"
+        },
+        {
+          "id": "l3-task-066",
+          "type": "gap",
+          "section": "possessive",
+          "sectionTitle": "Вставьте форму принадлежности",
+          "prompt": "Róbert, stôl → ___ stôl",
+          "answers": [
+            "Róbertov"
+          ],
+          "explanation": "Róbertov stôl. Окончание определяется родом предмета.",
+          "context": "Вставьте форму принадлежности"
+        },
+        {
+          "id": "l3-task-067",
+          "type": "gap",
+          "section": "possessive",
+          "sectionTitle": "Вставьте форму принадлежности",
+          "prompt": "Róbert, tlačiareň → ___ tlačiareň",
+          "answers": [
+            "Róbertova"
+          ],
+          "explanation": "Róbertova tlačiareň. Окончание определяется родом предмета.",
+          "context": "Вставьте форму принадлежности"
+        },
+        {
+          "id": "l3-task-068",
+          "type": "gap",
+          "section": "possessive",
+          "sectionTitle": "Вставьте форму принадлежности",
+          "prompt": "Róbert, umývadlo → ___ umývadlo",
+          "answers": [
+            "Róbertovo"
+          ],
+          "explanation": "Róbertovo umývadlo. Окончание определяется родом предмета.",
+          "context": "Вставьте форму принадлежности"
+        },
+        {
+          "id": "l3-task-069",
+          "type": "gap",
+          "section": "possessive",
+          "sectionTitle": "Вставьте форму принадлежности",
+          "prompt": "Johanna, kniha → ___ kniha",
+          "answers": [
+            "Johannina"
+          ],
+          "explanation": "Johannina kniha. Окончание определяется родом предмета.",
+          "context": "Вставьте форму принадлежности"
+        },
+        {
+          "id": "l3-task-070",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: Aký? Aká? Aké?",
+          "prompt": "kamarát",
+          "answers": [
+            "Aký?"
+          ],
+          "explanation": "Вопрос согласуется с родом: Aký?",
+          "context": "Определите форму: Aký? Aká? Aké?",
+          "options": [
+            "Aký?",
+            "Aká?",
+            "Aké?"
+          ]
+        },
+        {
+          "id": "l3-task-071",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: Aký? Aká? Aké?",
+          "prompt": "izba",
+          "answers": [
+            "Aká?"
+          ],
+          "explanation": "Вопрос согласуется с родом: Aká?",
+          "context": "Определите форму: Aký? Aká? Aké?",
+          "options": [
+            "Aký?",
+            "Aká?",
+            "Aké?"
+          ]
+        },
+        {
+          "id": "l3-task-072",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: Aký? Aká? Aké?",
+          "prompt": "auto",
+          "answers": [
+            "Aké?"
+          ],
+          "explanation": "Вопрос согласуется с родом: Aké?",
+          "context": "Определите форму: Aký? Aká? Aké?",
+          "options": [
+            "Aký?",
+            "Aká?",
+            "Aké?"
+          ]
+        },
+        {
+          "id": "l3-task-073",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: Aký? Aká? Aké?",
+          "prompt": "stôl",
+          "answers": [
+            "Aký?"
+          ],
+          "explanation": "Вопрос согласуется с родом: Aký?",
+          "context": "Определите форму: Aký? Aká? Aké?",
+          "options": [
+            "Aký?",
+            "Aká?",
+            "Aké?"
+          ]
+        },
+        {
+          "id": "l3-task-074",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: Aký? Aká? Aké?",
+          "prompt": "polica",
+          "answers": [
+            "Aká?"
+          ],
+          "explanation": "Вопрос согласуется с родом: Aká?",
+          "context": "Определите форму: Aký? Aká? Aké?",
+          "options": [
+            "Aký?",
+            "Aká?",
+            "Aké?"
+          ]
+        },
+        {
+          "id": "l3-task-075",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: Aký? Aká? Aké?",
+          "prompt": "okno",
+          "answers": [
+            "Aké?"
+          ],
+          "explanation": "Вопрос согласуется с родом: Aké?",
+          "context": "Определите форму: Aký? Aká? Aké?",
+          "options": [
+            "Aký?",
+            "Aká?",
+            "Aké?"
+          ]
+        },
+        {
+          "id": "l3-task-076",
+          "type": "gap",
+          "section": "negative",
+          "sectionTitle": "Отрицание прилагательных",
+          "prompt": "nie je moderný = je ___",
+          "answers": [
+            "nemoderný"
+          ],
+          "explanation": "ne- + moderný → nemoderný",
+          "context": "Отрицание прилагательных"
+        },
+        {
+          "id": "l3-task-077",
+          "type": "gap",
+          "section": "negative",
+          "sectionTitle": "Отрицание прилагательных",
+          "prompt": "nie je praktický = je ___",
+          "answers": [
+            "nepraktický"
+          ],
+          "explanation": "ne- + praktický → nepraktický",
+          "context": "Отрицание прилагательных"
+        },
+        {
+          "id": "l3-task-078",
+          "type": "translation",
+          "section": "word-order",
+          "sectionTitle": "Соберите предложение — напишите слова по порядку",
+          "prompt": "dom / ideálny / Róbertov / ten / je / To",
+          "answers": [
+            "To je ten Róbertov ideálny dom."
+          ],
+          "explanation": "Правильный порядок: To je ten Róbertov ideálny dom.",
+          "context": "Соберите предложение — напишите слова по порядку"
+        },
+        {
+          "id": "l3-task-079",
+          "type": "translation",
+          "section": "word-order",
+          "sectionTitle": "Соберите предложение — напишите слова по порядку",
+          "prompt": "kamarát / dobrý / Róbertov / je / vľavo / Ten",
+          "answers": [
+            "Ten vľavo je Róbertov dobrý kamarát."
+          ],
+          "explanation": "Правильный порядок: Ten vľavo je Róbertov dobrý kamarát.",
+          "context": "Соберите предложение — напишите слова по порядку"
+        },
+        {
+          "id": "l3-task-080",
+          "type": "translation",
+          "section": "word-order",
+          "sectionTitle": "Соберите предложение — напишите слова по порядку",
+          "prompt": "byt / moderný / prvý / Róbertov / je / To",
+          "answers": [
+            "To je Róbertov prvý moderný byt."
+          ],
+          "explanation": "Правильный порядок: To je Róbertov prvý moderný byt.",
+          "context": "Соберите предложение — напишите слова по порядку"
+        }
+      ],
+      "updatedAt": "2026-10-06T15:00:00Z"
     }
   ]
 }
