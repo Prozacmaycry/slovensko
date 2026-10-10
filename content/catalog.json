@@ -1,5 +1,5 @@
 {
-  "revision": 8,
+  "revision": 10,
   "packages": [
     {
       "schemaVersion": 1,
@@ -2932,6 +2932,3310 @@
         }
       ],
       "updatedAt": "2026-10-06T15:00:00Z"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "lesson-2026-10-09",
+      "title": "Город и множественное число",
+      "description": "Город, žiť / bývať, vedieť, единственное и множественное число, национальности и числительные.",
+      "status": "published",
+      "words": [
+        {
+          "id": "l4-word-001",
+          "sk": "doprava",
+          "ru": "направо",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-002",
+          "sk": "doľava",
+          "ru": "налево",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-10",
+          "sk": "dole",
+          "ru": "вниз, внизу",
+          "type": "word"
+        },
+        {
+          "id": "l2-word-11",
+          "sk": "hore",
+          "ru": "наверх, наверху",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-005",
+          "sk": "veža",
+          "ru": "башня",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-006",
+          "sk": "kostol",
+          "ru": "церковь",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-007",
+          "sk": "ulica",
+          "ru": "улица",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-008",
+          "sk": "pošta",
+          "ru": "почта",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-009",
+          "sk": "reštaurácia",
+          "ru": "ресторан",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-010",
+          "sk": "nemocnica",
+          "ru": "больница",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-011",
+          "sk": "kaviareň",
+          "ru": "кофейня",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-012",
+          "sk": "socha",
+          "ru": "статуя",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-013",
+          "sk": "divadlo",
+          "ru": "театр",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-014",
+          "sk": "banka",
+          "ru": "банк",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-015",
+          "sk": "univerzita",
+          "ru": "университет",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-016",
+          "sk": "polícia",
+          "ru": "полиция",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-017",
+          "sk": "kino",
+          "ru": "кинотеатр",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-018",
+          "sk": "múzeum",
+          "ru": "музей",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-102",
+          "sk": "park",
+          "ru": "парк",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-108",
+          "sk": "obchodné centrum",
+          "ru": "торговый центр",
+          "type": "phrase"
+        },
+        {
+          "id": "l4-word-021",
+          "sk": "auto",
+          "ru": "машина",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-022",
+          "sk": "autobus",
+          "ru": "автобус",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-023",
+          "sk": "lavička",
+          "ru": "скамейка",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-024",
+          "sk": "fontána",
+          "ru": "фонтан",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-025",
+          "sk": "námestie",
+          "ru": "площадь",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-026",
+          "sk": "hotel",
+          "ru": "отель",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-027",
+          "sk": "loď",
+          "ru": "лодка, корабль",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-028",
+          "sk": "rieka",
+          "ru": "река",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-029",
+          "sk": "most",
+          "ru": "мост",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-030",
+          "sk": "strom",
+          "ru": "дерево",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-031",
+          "sk": "cesta",
+          "ru": "дорога",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-032",
+          "sk": "električka",
+          "ru": "трамвай",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-033",
+          "sk": "hrad",
+          "ru": "замок",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-034",
+          "sk": "budova",
+          "ru": "здание",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-035",
+          "sk": "obchodný dom",
+          "ru": "универмаг",
+          "type": "phrase"
+        },
+        {
+          "id": "l4-word-036",
+          "sk": "galéria",
+          "ru": "галерея",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-037",
+          "sk": "film",
+          "ru": "фильм",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-038",
+          "sk": "kvet",
+          "ru": "цветок",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-048",
+          "sk": "schody",
+          "ru": "лестница, ступеньки",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-073",
+          "sk": "posteľ",
+          "ru": "кровать",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-041",
+          "sk": "pivo",
+          "ru": "пиво",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-042",
+          "sk": "euro",
+          "ru": "евро",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-043",
+          "sk": "dolár",
+          "ru": "доллар",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-044",
+          "sk": "libra",
+          "ru": "фунт",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-045",
+          "sk": "žiť",
+          "ru": "жить, быть живым",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-046",
+          "sk": "bývať",
+          "ru": "жить, проживать",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-047",
+          "sk": "vedieť",
+          "ru": "знать, уметь",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-048",
+          "sk": "Už viem.",
+          "ru": "Уже знаю.",
+          "type": "phrase"
+        },
+        {
+          "id": "l4-word-049",
+          "sk": "Jasné.",
+          "ru": "Ясно. / Конечно.",
+          "type": "phrase"
+        },
+        {
+          "id": "l4-word-050",
+          "sk": "rodičia",
+          "ru": "родители",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-051",
+          "sk": "mama",
+          "ru": "мама",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-052",
+          "sk": "otec",
+          "ru": "отец",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-053",
+          "sk": "súrodenci",
+          "ru": "братья и сёстры",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-054",
+          "sk": "brat",
+          "ru": "брат",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-055",
+          "sk": "sestra",
+          "ru": "сестра",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-056",
+          "sk": "Pozri sa!",
+          "ru": "Посмотри!",
+          "type": "phrase"
+        },
+        {
+          "id": "l4-word-057",
+          "sk": "syn",
+          "ru": "сын",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-058",
+          "sk": "asistent",
+          "ru": "ассистент",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-131",
+          "sk": "fotograf",
+          "ru": "фотограф",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-060",
+          "sk": "policajt",
+          "ru": "полицейский",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-061",
+          "sk": "hudobník",
+          "ru": "музыкант",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-141",
+          "sk": "kuchár",
+          "ru": "повар",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-063",
+          "sk": "práca",
+          "ru": "работа",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-064",
+          "sk": "šéf",
+          "ru": "начальник",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-065",
+          "sk": "kaderník",
+          "ru": "парикмахер",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-066",
+          "sk": "klient",
+          "ru": "клиент",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-067",
+          "sk": "peniaze",
+          "ru": "деньги",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-068",
+          "sk": "zajtra",
+          "ru": "завтра",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-069",
+          "sk": "pozajtra",
+          "ru": "послезавтра",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-070",
+          "sk": "niekedy",
+          "ru": "иногда",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-161",
+          "sk": "jedlo",
+          "ru": "еда",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-072",
+          "sk": "štíhly",
+          "ru": "стройный",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-073",
+          "sk": "tučný",
+          "ru": "толстый",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-074",
+          "sk": "plný",
+          "ru": "полный",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-075",
+          "sk": "ľahký",
+          "ru": "лёгкий",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-167",
+          "sk": "ťažký",
+          "ru": "тяжёлый, трудный",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-077",
+          "sk": "hektický",
+          "ru": "суетливый, напряжённый",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-078",
+          "sk": "nervózny",
+          "ru": "нервный",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-079",
+          "sk": "kreatívny",
+          "ru": "творческий",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-080",
+          "sk": "dynamický",
+          "ru": "динамичный",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-081",
+          "sk": "zaujímavý",
+          "ru": "интересный",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-082",
+          "sk": "historický",
+          "ru": "исторический",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-083",
+          "sk": "obľúbený",
+          "ru": "популярный, любимый",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-084",
+          "sk": "zeleninový",
+          "ru": "овощной",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-085",
+          "sk": "šalát",
+          "ru": "салат",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-086",
+          "sk": "sladký",
+          "ru": "сладкий",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-087",
+          "sk": "veselý",
+          "ru": "весёлый",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-088",
+          "sk": "silný",
+          "ru": "сильный",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-089",
+          "sk": "bohatý",
+          "ru": "богатый",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-090",
+          "sk": "sused",
+          "ru": "сосед",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-091",
+          "sk": "gitarista",
+          "ru": "гитарист",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-092",
+          "sk": "technik",
+          "ru": "техник",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-093",
+          "sk": "taxikár",
+          "ru": "таксист",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-094",
+          "sk": "sudca",
+          "ru": "судья",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-095",
+          "sk": "prezident",
+          "ru": "президент",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-096",
+          "sk": "dôchodca",
+          "ru": "пенсионер",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-097",
+          "sk": "pianista",
+          "ru": "пианист",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-098",
+          "sk": "dedo",
+          "ru": "дедушка",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-099",
+          "sk": "priateľ",
+          "ru": "друг",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-100",
+          "sk": "čašník",
+          "ru": "официант",
+          "type": "word"
+        },
+        {
+          "id": "l3-word-135",
+          "sk": "pilot",
+          "ru": "пилот",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-102",
+          "sk": "hokejista",
+          "ru": "хоккеист",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-103",
+          "sk": "modelka",
+          "ru": "модель (женщина)",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-104",
+          "sk": "Európan",
+          "ru": "европеец",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-105",
+          "sk": "Fínsko",
+          "ru": "Финляндия",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-106",
+          "sk": "Slovinsko",
+          "ru": "Словения",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-107",
+          "sk": "Srbsko",
+          "ru": "Сербия",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-108",
+          "sk": "Holandsko",
+          "ru": "Нидерланды",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-109",
+          "sk": "Chorvátsko",
+          "ru": "Хорватия",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-110",
+          "sk": "Švajčiarsko",
+          "ru": "Швейцария",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-111",
+          "sk": "Fín",
+          "ru": "финн",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-112",
+          "sk": "Fíni",
+          "ru": "финны",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-113",
+          "sk": "Fínka",
+          "ru": "финка",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-114",
+          "sk": "Fínky",
+          "ru": "финки",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-115",
+          "sk": "Slovinec",
+          "ru": "словенец",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-116",
+          "sk": "Slovinci",
+          "ru": "словенцы",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-117",
+          "sk": "Slovinka",
+          "ru": "словенка",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-118",
+          "sk": "Slovinky",
+          "ru": "словенки",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-119",
+          "sk": "Srb",
+          "ru": "серб",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-120",
+          "sk": "Srbi",
+          "ru": "сербы",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-121",
+          "sk": "Srbka",
+          "ru": "сербка",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-122",
+          "sk": "Srbky",
+          "ru": "сербки",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-123",
+          "sk": "Holanďan",
+          "ru": "нидерландец",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-124",
+          "sk": "Holanďania",
+          "ru": "нидерландцы",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-125",
+          "sk": "Holanďanka",
+          "ru": "нидерландка",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-126",
+          "sk": "Holanďanky",
+          "ru": "нидерландки",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-127",
+          "sk": "Chorvát",
+          "ru": "хорват",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-128",
+          "sk": "Chorváti",
+          "ru": "хорваты",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-129",
+          "sk": "Chorvátka",
+          "ru": "хорватка",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-130",
+          "sk": "Chorvátky",
+          "ru": "хорватки",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-131",
+          "sk": "Švajčiar",
+          "ru": "швейцарец",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-132",
+          "sk": "Švajčiari",
+          "ru": "швейцарцы",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-133",
+          "sk": "Švajčiarka",
+          "ru": "швейцарка",
+          "type": "word"
+        },
+        {
+          "id": "l4-word-134",
+          "sk": "Švajčiarky",
+          "ru": "швейцарки",
+          "type": "word"
+        }
+      ],
+      "rules": [
+        {
+          "id": "l4-rule-live",
+          "title": "Žiť / bývať — как сказать «жить»",
+          "text": "Žiť — жить, быть живым. Bývať — проживать в конкретном месте. О жизни в стране можно сказать žijem или bývam; о проживании в отеле — bývam.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Значение",
+              "Пример",
+              "Перевод"
+            ],
+            "rows": [
+              [
+                "Быть живым",
+                "Syn žije.",
+                "Сын жив."
+              ],
+              [
+                "Не быть живым",
+                "Jeho otec nežije.",
+                "Его отец не жив."
+              ],
+              [
+                "Жить в стране",
+                "Žijem / bývam na Slovensku.",
+                "Я живу в Словакии."
+              ],
+              [
+                "Проживать",
+                "Bývam na internáte.",
+                "Я живу в общежитии."
+              ],
+              [
+                "Отрицание",
+                "Nebývam v hoteli.",
+                "Я не живу в отеле."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l4-rule-verbs",
+          "title": "Žiť, bývať, vedieť — настоящее время",
+          "text": "Отрицание пишется слитно: nežijem, nebývam, neviem. Vedieť означает знать или уметь: viem po slovensky.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Местоимение",
+              "žiť",
+              "bývať",
+              "vedieť"
+            ],
+            "rows": [
+              [
+                "ja",
+                "žijem",
+                "bývam",
+                "viem"
+              ],
+              [
+                "ty",
+                "žiješ",
+                "bývaš",
+                "vieš"
+              ],
+              [
+                "on / ona / ono",
+                "žije",
+                "býva",
+                "vie"
+              ],
+              [
+                "my",
+                "žijeme",
+                "bývame",
+                "vieme"
+              ],
+              [
+                "vy",
+                "žijete",
+                "bývate",
+                "viete"
+              ],
+              [
+                "oni / ony",
+                "žijú",
+                "bývajú",
+                "vedia"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l4-rule-plural",
+          "title": "Množné číslo — предметы и женщины",
+          "text": "Это модели именительного падежа. Tie и прилагательное на -é используются для женского и среднего рода, а также мужского рода неодушевлённых существительных. Окончание существительного зависит от модели.",
+          "visual": {
+            "format": "nominative",
+            "personal": false
+          }
+        },
+        {
+          "id": "l4-rule-men",
+          "title": "Мужчины во множественном числе",
+          "text": "Для людей мужского рода: ten → tí, pekný → pekní. Формы существительных нужно запоминать: -i, -ia или -ovia; возможны изменения согласных.",
+          "visual": {
+            "format": "nominative",
+            "personal": true
+          }
+        },
+        {
+          "id": "l4-rule-numbers",
+          "title": "Два, три, четыре и пять",
+          "text": "Для мужчин: dvaja, traja, štyria. Для мужского неодушевлённого рода — dva, для женского и среднего — dve: dva stoly, dve mapy, dve eurá. После 5 и выше в этих сочетаниях используется родительный падеж множественного числа: päť libier.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Количество",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "2 мужчины",
+                "dvaja kamaráti"
+              ],
+              [
+                "3 мужчины",
+                "traja susedia"
+              ],
+              [
+                "4 мужчины",
+                "štyria muži"
+              ],
+              [
+                "2 предмета, M",
+                "dva stoly"
+              ],
+              [
+                "2 предмета, F",
+                "dve mapy"
+              ],
+              [
+                "2 предмета, N",
+                "dve eurá"
+              ],
+              [
+                "5",
+                "päť libier"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l4-rule-national",
+          "title": "Национальности — один и несколько",
+          "text": "Названия национальностей пишутся с большой буквы. Slovinsko — Словения; Slovensko — Словакия.",
+          "visual": {
+            "format": "nationalities",
+            "headers": [
+              "SLOVENSKO",
+              "SLOVÁK",
+              "SLOVÁCI",
+              "SLOVENKA",
+              "SLOVENKY"
+            ],
+            "rows": [
+              [
+                "Fínsko",
+                "Fín",
+                "Fíni",
+                "Fínka",
+                "Fínky"
+              ],
+              [
+                "Slovinsko",
+                "Slovinec",
+                "Slovinci",
+                "Slovinka",
+                "Slovinky"
+              ],
+              [
+                "Srbsko",
+                "Srb",
+                "Srbi",
+                "Srbka",
+                "Srbky"
+              ],
+              [
+                "Holandsko",
+                "Holanďan",
+                "Holanďania",
+                "Holanďanka",
+                "Holanďanky"
+              ],
+              [
+                "Chorvátsko",
+                "Chorvát",
+                "Chorváti",
+                "Chorvátka",
+                "Chorvátky"
+              ],
+              [
+                "Švajčiarsko",
+                "Švajčiar",
+                "Švajčiari",
+                "Švajčiarka",
+                "Švajčiarky"
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "l4-task-001",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "ja ___ (žiť)",
+          "answers": [
+            "žijem"
+          ],
+          "explanation": "ja → žijem."
+        },
+        {
+          "id": "l4-task-002",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "ja ___ (bývať)",
+          "answers": [
+            "bývam"
+          ],
+          "explanation": "ja → bývam."
+        },
+        {
+          "id": "l4-task-003",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "ja ___ (vedieť)",
+          "answers": [
+            "viem"
+          ],
+          "explanation": "ja → viem."
+        },
+        {
+          "id": "l4-task-004",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "ty ___ (žiť)",
+          "answers": [
+            "žiješ"
+          ],
+          "explanation": "ty → žiješ."
+        },
+        {
+          "id": "l4-task-005",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "ty ___ (bývať)",
+          "answers": [
+            "bývaš"
+          ],
+          "explanation": "ty → bývaš."
+        },
+        {
+          "id": "l4-task-006",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "ty ___ (vedieť)",
+          "answers": [
+            "vieš"
+          ],
+          "explanation": "ty → vieš."
+        },
+        {
+          "id": "l4-task-007",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "on / ona / ono ___ (žiť)",
+          "answers": [
+            "žije"
+          ],
+          "explanation": "on / ona / ono → žije."
+        },
+        {
+          "id": "l4-task-008",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "on / ona / ono ___ (bývať)",
+          "answers": [
+            "býva"
+          ],
+          "explanation": "on / ona / ono → býva."
+        },
+        {
+          "id": "l4-task-009",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "on / ona / ono ___ (vedieť)",
+          "answers": [
+            "vie"
+          ],
+          "explanation": "on / ona / ono → vie."
+        },
+        {
+          "id": "l4-task-010",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "my ___ (žiť)",
+          "answers": [
+            "žijeme"
+          ],
+          "explanation": "my → žijeme."
+        },
+        {
+          "id": "l4-task-011",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "my ___ (bývať)",
+          "answers": [
+            "bývame"
+          ],
+          "explanation": "my → bývame."
+        },
+        {
+          "id": "l4-task-012",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "my ___ (vedieť)",
+          "answers": [
+            "vieme"
+          ],
+          "explanation": "my → vieme."
+        },
+        {
+          "id": "l4-task-013",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "vy ___ (žiť)",
+          "answers": [
+            "žijete"
+          ],
+          "explanation": "vy → žijete."
+        },
+        {
+          "id": "l4-task-014",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "vy ___ (bývať)",
+          "answers": [
+            "bývate"
+          ],
+          "explanation": "vy → bývate."
+        },
+        {
+          "id": "l4-task-015",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "vy ___ (vedieť)",
+          "answers": [
+            "viete"
+          ],
+          "explanation": "vy → viete."
+        },
+        {
+          "id": "l4-task-016",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "oni / ony ___ (žiť)",
+          "answers": [
+            "žijú"
+          ],
+          "explanation": "oni / ony → žijú."
+        },
+        {
+          "id": "l4-task-017",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "oni / ony ___ (bývať)",
+          "answers": [
+            "bývajú"
+          ],
+          "explanation": "oni / ony → bývajú."
+        },
+        {
+          "id": "l4-task-018",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "oni / ony ___ (vedieť)",
+          "answers": [
+            "vedia"
+          ],
+          "explanation": "oni / ony → vedia."
+        },
+        {
+          "id": "l4-task-019",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "Kde ___ (bývať, ty)? Na internáte alebo v hoteli?",
+          "answers": [
+            "bývaš"
+          ],
+          "explanation": "Kde bývaš (bývať, ty)? Na internáte alebo v hoteli?"
+        },
+        {
+          "id": "l4-task-020",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "Tomášova mama ___ (žiť, отрицание). Tomáš nemá mamu.",
+          "answers": [
+            "nežije"
+          ],
+          "explanation": "Tomášova mama nežije (žiť, отрицание). Tomáš nemá mamu."
+        },
+        {
+          "id": "l4-task-021",
+          "type": "gap",
+          "section": "live-verbs",
+          "sectionTitle": "Вставьте форму: žiť, bývať, vedieť",
+          "context": "Вставьте форму: žiť, bývať, vedieť",
+          "prompt": "Jana je študentka. Prečo ___ (bývať) v luxusnom apartmáne?",
+          "answers": [
+            "býva"
+          ],
+          "explanation": "Jana je študentka. Prečo býva (bývať) v luxusnom apartmáne?"
+        },
+        {
+          "id": "l4-task-022",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "ten moderný hotel → ___",
+          "answers": [
+            "tie moderné hotely"
+          ],
+          "explanation": "ten moderný hotel → tie moderné hotely. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-023",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "to európske mesto → ___",
+          "answers": [
+            "tie európske mestá"
+          ],
+          "explanation": "to európske mesto → tie európske mestá. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-024",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "tá luxusná kaviareň → ___",
+          "answers": [
+            "tie luxusné kaviarne"
+          ],
+          "explanation": "tá luxusná kaviareň → tie luxusné kaviarne. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-025",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "to zaujímavé námestie → ___",
+          "answers": [
+            "tie zaujímavé námestia"
+          ],
+          "explanation": "to zaujímavé námestie → tie zaujímavé námestia. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-026",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "ten slovenský hrad → ___",
+          "answers": [
+            "tie slovenské hrady"
+          ],
+          "explanation": "ten slovenský hrad → tie slovenské hrady. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-027",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "tá autobusová stanica → ___",
+          "answers": [
+            "tie autobusové stanice"
+          ],
+          "explanation": "tá autobusová stanica → tie autobusové stanice. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-028",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "tá nová kolegyňa → ___",
+          "answers": [
+            "tie nové kolegyne"
+          ],
+          "explanation": "tá nová kolegyňa → tie nové kolegyne. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-029",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "ten nemoderný počítač → ___",
+          "answers": [
+            "tie nemoderné počítače"
+          ],
+          "explanation": "ten nemoderný počítač → tie nemoderné počítače. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-030",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "to malé dieťa → ___",
+          "answers": [
+            "tie malé deti"
+          ],
+          "explanation": "to malé dieťa → tie malé deti. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-031",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "to pekné dievča → ___",
+          "answers": [
+            "tie pekné dievčatá"
+          ],
+          "explanation": "to pekné dievča → tie pekné dievčatá. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-032",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "zeleninový šalát → ___",
+          "answers": [
+            "zeleninové šaláty"
+          ],
+          "explanation": "zeleninový šalát → zeleninové šaláty. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-033",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "moderný mobil → ___",
+          "answers": [
+            "moderné mobily"
+          ],
+          "explanation": "moderný mobil → moderné mobily. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-034",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "malý obchod → ___",
+          "answers": [
+            "malé obchody"
+          ],
+          "explanation": "malý obchod → malé obchody. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-035",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "bohatá žena → ___",
+          "answers": [
+            "bohaté ženy"
+          ],
+          "explanation": "bohatá žena → bohaté ženy. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-036",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "dobrá univerzita → ___",
+          "answers": [
+            "dobré univerzity"
+          ],
+          "explanation": "dobrá univerzita → dobré univerzity. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-037",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "lacná mapa → ___",
+          "answers": [
+            "lacné mapy"
+          ],
+          "explanation": "lacná mapa → lacné mapy. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-038",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "veľké mesto → ___",
+          "answers": [
+            "veľké mestá"
+          ],
+          "explanation": "veľké mesto → veľké mestá. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-039",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "sladké jablko → ___",
+          "answers": [
+            "sladké jablká"
+          ],
+          "explanation": "sladké jablko → sladké jablká. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-040",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "veselý muž → ___",
+          "answers": [
+            "veselí muži"
+          ],
+          "explanation": "veselý muž → veselí muži. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-041",
+          "type": "gap",
+          "section": "plural-phrases",
+          "sectionTitle": "Поставьте словосочетание во множественное число",
+          "context": "Поставьте словосочетание во множественное число",
+          "prompt": "silný policajt → ___",
+          "answers": [
+            "silní policajti"
+          ],
+          "explanation": "silný policajt → silní policajti. Меняются все согласуемые слова."
+        },
+        {
+          "id": "l4-task-042",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "gitarista → ___",
+          "answers": [
+            "gitaristi"
+          ],
+          "explanation": "gitarista → gitaristi."
+        },
+        {
+          "id": "l4-task-043",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "technik → ___",
+          "answers": [
+            "technici"
+          ],
+          "explanation": "technik → technici."
+        },
+        {
+          "id": "l4-task-044",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "taxikár → ___",
+          "answers": [
+            "taxikári"
+          ],
+          "explanation": "taxikár → taxikári."
+        },
+        {
+          "id": "l4-task-045",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "sudca → ___",
+          "answers": [
+            "sudcovia"
+          ],
+          "explanation": "sudca → sudcovia."
+        },
+        {
+          "id": "l4-task-046",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "prezident → ___",
+          "answers": [
+            "prezidenti"
+          ],
+          "explanation": "prezident → prezidenti."
+        },
+        {
+          "id": "l4-task-047",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "dôchodca → ___",
+          "answers": [
+            "dôchodcovia"
+          ],
+          "explanation": "dôchodca → dôchodcovia."
+        },
+        {
+          "id": "l4-task-048",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "kuchár → ___",
+          "answers": [
+            "kuchári"
+          ],
+          "explanation": "kuchár → kuchári."
+        },
+        {
+          "id": "l4-task-049",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "pianista → ___",
+          "answers": [
+            "pianisti"
+          ],
+          "explanation": "pianista → pianisti."
+        },
+        {
+          "id": "l4-task-050",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "dedo → ___",
+          "answers": [
+            "dedovia"
+          ],
+          "explanation": "dedo → dedovia."
+        },
+        {
+          "id": "l4-task-051",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "priateľ → ___",
+          "answers": [
+            "priatelia"
+          ],
+          "explanation": "priateľ → priatelia."
+        },
+        {
+          "id": "l4-task-052",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "brat → ___",
+          "answers": [
+            "bratia"
+          ],
+          "explanation": "brat → bratia."
+        },
+        {
+          "id": "l4-task-053",
+          "type": "gap",
+          "section": "plural-men",
+          "sectionTitle": "Мужчины — напишите множественное число",
+          "context": "Мужчины — напишите множественное число",
+          "prompt": "čašník → ___",
+          "answers": [
+            "čašníci"
+          ],
+          "explanation": "čašník → čašníci."
+        },
+        {
+          "id": "l4-task-054",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "múzeum",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-055",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "galéria",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-056",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "film",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-057",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "kniha",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-058",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "námestie",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-059",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "rieka",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-060",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "most",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-061",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "divadlo",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-062",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "loď",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-063",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "park",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-064",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "reštaurácia",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-065",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "stôl",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-066",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "električka",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-067",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "auto",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-068",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "Talian",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-069",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "strom",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-070",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "obchodný dom",
+          "answers": [
+            "singulár"
+          ],
+          "explanation": "Единственное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-071",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "izby",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-072",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "manažéri",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-073",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "Poliaci",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-074",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "modelky",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-075",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "policajti",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-076",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "eurá",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-077",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "sochy",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-078",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "hokejisti",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-079",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "Európania",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-080",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "ulice",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-081",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "kolegyne",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-082",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "mobily",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-083",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "pivá",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-084",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "kvety",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-085",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "schody",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-086",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "mestá",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-087",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "učitelia",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-088",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "postele",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-089",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "lavičky",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-090",
+          "type": "choice",
+          "section": "number-identify",
+          "sectionTitle": "Определите число: singulár / plurál",
+          "context": "Определите число: singulár / plurál",
+          "prompt": "doláre",
+          "answers": [
+            "plurál"
+          ],
+          "explanation": "Множественное число.",
+          "options": [
+            "singulár",
+            "plurál"
+          ]
+        },
+        {
+          "id": "l4-task-091",
+          "type": "choice",
+          "section": "numerals",
+          "sectionTitle": "Числительные — выберите правильную форму",
+          "context": "Числительные — выберите правильную форму",
+          "prompt": "2 kamarát",
+          "answers": [
+            "dvaja kamaráti"
+          ],
+          "explanation": "Правильно: dvaja kamaráti",
+          "options": [
+            "dva kamaráti",
+            "dvaja kamaráti",
+            "dva kamarátov"
+          ]
+        },
+        {
+          "id": "l4-task-092",
+          "type": "choice",
+          "section": "numerals",
+          "sectionTitle": "Числительные — выберите правильную форму",
+          "context": "Числительные — выберите правильную форму",
+          "prompt": "5 libra",
+          "answers": [
+            "päť libier"
+          ],
+          "explanation": "Правильно: päť libier",
+          "options": [
+            "päť libry",
+            "päť librov",
+            "päť libier"
+          ]
+        },
+        {
+          "id": "l4-task-093",
+          "type": "choice",
+          "section": "numerals",
+          "sectionTitle": "Числительные — выберите правильную форму",
+          "context": "Числительные — выберите правильную форму",
+          "prompt": "2 stôl",
+          "answers": [
+            "dva stoly"
+          ],
+          "explanation": "Правильно: dva stoly",
+          "options": [
+            "dva stoly",
+            "dve stoly",
+            "dvaja stoly"
+          ]
+        },
+        {
+          "id": "l4-task-094",
+          "type": "choice",
+          "section": "numerals",
+          "sectionTitle": "Числительные — выберите правильную форму",
+          "context": "Числительные — выберите правильную форму",
+          "prompt": "3 sused",
+          "answers": [
+            "traja susedia"
+          ],
+          "explanation": "Правильно: traja susedia",
+          "options": [
+            "traja susedia",
+            "tri susedy",
+            "traja susedy"
+          ]
+        },
+        {
+          "id": "l4-task-095",
+          "type": "choice",
+          "section": "numerals",
+          "sectionTitle": "Числительные — выберите правильную форму",
+          "context": "Числительные — выберите правильную форму",
+          "prompt": "2 euro",
+          "answers": [
+            "dve eurá"
+          ],
+          "explanation": "Правильно: dve eurá",
+          "options": [
+            "dva euro",
+            "dve eurá",
+            "dve eúr"
+          ]
+        },
+        {
+          "id": "l4-task-096",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Fín → мужчины: ___",
+          "answers": [
+            "Fíni"
+          ],
+          "explanation": "Правильно: Fíni"
+        },
+        {
+          "id": "l4-task-097",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Fínka → женщины: ___",
+          "answers": [
+            "Fínky"
+          ],
+          "explanation": "Правильно: Fínky"
+        },
+        {
+          "id": "l4-task-098",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Fínsko → мужчина: ___",
+          "answers": [
+            "Fín"
+          ],
+          "explanation": "Правильно: Fín"
+        },
+        {
+          "id": "l4-task-099",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Fínsko → женщина: ___",
+          "answers": [
+            "Fínka"
+          ],
+          "explanation": "Правильно: Fínka"
+        },
+        {
+          "id": "l4-task-100",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Slovinec → мужчины: ___",
+          "answers": [
+            "Slovinci"
+          ],
+          "explanation": "Правильно: Slovinci"
+        },
+        {
+          "id": "l4-task-101",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Slovinka → женщины: ___",
+          "answers": [
+            "Slovinky"
+          ],
+          "explanation": "Правильно: Slovinky"
+        },
+        {
+          "id": "l4-task-102",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Slovinsko → мужчина: ___",
+          "answers": [
+            "Slovinec"
+          ],
+          "explanation": "Правильно: Slovinec"
+        },
+        {
+          "id": "l4-task-103",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Slovinsko → женщина: ___",
+          "answers": [
+            "Slovinka"
+          ],
+          "explanation": "Правильно: Slovinka"
+        },
+        {
+          "id": "l4-task-104",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Srb → мужчины: ___",
+          "answers": [
+            "Srbi"
+          ],
+          "explanation": "Правильно: Srbi"
+        },
+        {
+          "id": "l4-task-105",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Srbka → женщины: ___",
+          "answers": [
+            "Srbky"
+          ],
+          "explanation": "Правильно: Srbky"
+        },
+        {
+          "id": "l4-task-106",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Srbsko → мужчина: ___",
+          "answers": [
+            "Srb"
+          ],
+          "explanation": "Правильно: Srb"
+        },
+        {
+          "id": "l4-task-107",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Srbsko → женщина: ___",
+          "answers": [
+            "Srbka"
+          ],
+          "explanation": "Правильно: Srbka"
+        },
+        {
+          "id": "l4-task-108",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Holanďan → мужчины: ___",
+          "answers": [
+            "Holanďania"
+          ],
+          "explanation": "Правильно: Holanďania"
+        },
+        {
+          "id": "l4-task-109",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Holanďanka → женщины: ___",
+          "answers": [
+            "Holanďanky"
+          ],
+          "explanation": "Правильно: Holanďanky"
+        },
+        {
+          "id": "l4-task-110",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Holandsko → мужчина: ___",
+          "answers": [
+            "Holanďan"
+          ],
+          "explanation": "Правильно: Holanďan"
+        },
+        {
+          "id": "l4-task-111",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Holandsko → женщина: ___",
+          "answers": [
+            "Holanďanka"
+          ],
+          "explanation": "Правильно: Holanďanka"
+        },
+        {
+          "id": "l4-task-112",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Chorvát → мужчины: ___",
+          "answers": [
+            "Chorváti"
+          ],
+          "explanation": "Правильно: Chorváti"
+        },
+        {
+          "id": "l4-task-113",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Chorvátka → женщины: ___",
+          "answers": [
+            "Chorvátky"
+          ],
+          "explanation": "Правильно: Chorvátky"
+        },
+        {
+          "id": "l4-task-114",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Chorvátsko → мужчина: ___",
+          "answers": [
+            "Chorvát"
+          ],
+          "explanation": "Правильно: Chorvát"
+        },
+        {
+          "id": "l4-task-115",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Chorvátsko → женщина: ___",
+          "answers": [
+            "Chorvátka"
+          ],
+          "explanation": "Правильно: Chorvátka"
+        },
+        {
+          "id": "l4-task-116",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Švajčiar → мужчины: ___",
+          "answers": [
+            "Švajčiari"
+          ],
+          "explanation": "Правильно: Švajčiari"
+        },
+        {
+          "id": "l4-task-117",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Švajčiarka → женщины: ___",
+          "answers": [
+            "Švajčiarky"
+          ],
+          "explanation": "Правильно: Švajčiarky"
+        },
+        {
+          "id": "l4-task-118",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Švajčiarsko → мужчина: ___",
+          "answers": [
+            "Švajčiar"
+          ],
+          "explanation": "Правильно: Švajčiar"
+        },
+        {
+          "id": "l4-task-119",
+          "type": "gap",
+          "section": "nationalities",
+          "sectionTitle": "Национальности — вставьте форму",
+          "context": "Национальности — вставьте форму",
+          "prompt": "Švajčiarsko → женщина: ___",
+          "answers": [
+            "Švajčiarka"
+          ],
+          "explanation": "Правильно: Švajčiarka"
+        },
+        {
+          "id": "l4-task-120",
+          "type": "choice",
+          "section": "profession-reading",
+          "sectionTitle": "Профессии — определите по описанию",
+          "context": "Профессии — определите по описанию",
+          "prompt": "Копирует материалы, звонит и готовит кофе начальнику. Кто это?",
+          "answers": [
+            "asistent"
+          ],
+          "explanation": "Это asistent.",
+          "options": [
+            "asistent",
+            "fotograf",
+            "hudobník",
+            "policajt",
+            "kuchár"
+          ]
+        },
+        {
+          "id": "l4-task-121",
+          "type": "choice",
+          "section": "profession-reading",
+          "sectionTitle": "Профессии — определите по описанию",
+          "context": "Профессии — определите по описанию",
+          "prompt": "Работает с камерой и клиентами. Кто это?",
+          "answers": [
+            "fotograf"
+          ],
+          "explanation": "Это fotograf.",
+          "options": [
+            "asistent",
+            "fotograf",
+            "hudobník",
+            "policajt",
+            "kuchár"
+          ]
+        },
+        {
+          "id": "l4-task-122",
+          "type": "choice",
+          "section": "profession-reading",
+          "sectionTitle": "Профессии — определите по описанию",
+          "context": "Профессии — определите по описанию",
+          "prompt": "Играет на концертах и ездит на гастроли. Кто это?",
+          "answers": [
+            "hudobník"
+          ],
+          "explanation": "Это hudobník.",
+          "options": [
+            "asistent",
+            "fotograf",
+            "hudobník",
+            "policajt",
+            "kuchár"
+          ]
+        },
+        {
+          "id": "l4-task-123",
+          "type": "choice",
+          "section": "profession-reading",
+          "sectionTitle": "Профессии — определите по описанию",
+          "context": "Профессии — определите по описанию",
+          "prompt": "Следит за порядком в городе. Кто это?",
+          "answers": [
+            "policajt"
+          ],
+          "explanation": "Это policajt.",
+          "options": [
+            "asistent",
+            "fotograf",
+            "hudobník",
+            "policajt",
+            "kuchár"
+          ]
+        },
+        {
+          "id": "l4-task-124",
+          "type": "choice",
+          "section": "profession-reading",
+          "sectionTitle": "Профессии — определите по описанию",
+          "context": "Профессии — определите по описанию",
+          "prompt": "Готовит блюда в ресторане. Кто это?",
+          "answers": [
+            "kuchár"
+          ],
+          "explanation": "Это kuchár.",
+          "options": [
+            "asistent",
+            "fotograf",
+            "hudobník",
+            "policajt",
+            "kuchár"
+          ]
+        },
+        {
+          "id": "l4-task-125",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "Ja ___ (byť) Angličan.",
+          "answers": [
+            "som"
+          ],
+          "explanation": "Ja som (byť) Angličan."
+        },
+        {
+          "id": "l4-task-126",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "Ja ___ (byť) Nemka.",
+          "answers": [
+            "som"
+          ],
+          "explanation": "Ja som (byť) Nemka."
+        },
+        {
+          "id": "l4-task-127",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "Ty ___ (byť) Talianka.",
+          "answers": [
+            "si"
+          ],
+          "explanation": "Ty si (byť) Talianka."
+        },
+        {
+          "id": "l4-task-128",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "Ty ___ (byť) Švéd.",
+          "answers": [
+            "si"
+          ],
+          "explanation": "Ty si (byť) Švéd."
+        },
+        {
+          "id": "l4-task-129",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "On ___ (byť) Poliak.",
+          "answers": [
+            "je"
+          ],
+          "explanation": "On je (byť) Poliak."
+        },
+        {
+          "id": "l4-task-130",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "My ___ (byť) študenti.",
+          "answers": [
+            "sme"
+          ],
+          "explanation": "My sme (byť) študenti."
+        },
+        {
+          "id": "l4-task-131",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "Oni ___ (byť) doktori.",
+          "answers": [
+            "sú"
+          ],
+          "explanation": "Oni sú (byť) doktori."
+        },
+        {
+          "id": "l4-task-132",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "Ja ___ (študovať) medicínu.",
+          "answers": [
+            "študujem"
+          ],
+          "explanation": "Ja študujem (študovať) medicínu."
+        },
+        {
+          "id": "l4-task-133",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "Ty ___ (pracovať) na univerzite.",
+          "answers": [
+            "pracuješ"
+          ],
+          "explanation": "Ty pracuješ (pracovať) na univerzite."
+        },
+        {
+          "id": "l4-task-134",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "Peter ___ (telefonovať) kamarátke.",
+          "answers": [
+            "telefonuje"
+          ],
+          "explanation": "Peter telefonuje (telefonovať) kamarátke."
+        },
+        {
+          "id": "l4-task-135",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "Vy ___ (cestovať) do Španielska.",
+          "answers": [
+            "cestujete"
+          ],
+          "explanation": "Vy cestujete (cestovať) do Španielska."
+        },
+        {
+          "id": "l4-task-136",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "Oni ___ (kopírovať) knihu.",
+          "answers": [
+            "kopírujú"
+          ],
+          "explanation": "Oni kopírujú (kopírovať) knihu."
+        },
+        {
+          "id": "l4-task-137",
+          "type": "gap",
+          "section": "review-verbs",
+          "sectionTitle": "Повторение — вставьте форму глагола",
+          "context": "Повторение — вставьте форму глагола",
+          "prompt": "My ___ (fotografovať).",
+          "answers": [
+            "fotografujeme"
+          ],
+          "explanation": "My fotografujeme (fotografovať)."
+        },
+        {
+          "id": "l4-task-138",
+          "type": "gap",
+          "section": "review-adjectives",
+          "sectionTitle": "Повторение — вставьте прилагательное",
+          "context": "Повторение — вставьте прилагательное",
+          "prompt": "___ (nový) slovník",
+          "answers": [
+            "nový"
+          ],
+          "explanation": "Прилагательное согласуется с существительным: nový."
+        },
+        {
+          "id": "l4-task-139",
+          "type": "gap",
+          "section": "review-adjectives",
+          "sectionTitle": "Повторение — вставьте прилагательное",
+          "context": "Повторение — вставьте прилагательное",
+          "prompt": "___ (mladý) dievča",
+          "answers": [
+            "mladé"
+          ],
+          "explanation": "Прилагательное согласуется с существительным: mladé."
+        },
+        {
+          "id": "l4-task-140",
+          "type": "gap",
+          "section": "review-adjectives",
+          "sectionTitle": "Повторение — вставьте прилагательное",
+          "context": "Повторение — вставьте прилагательное",
+          "prompt": "___ (rýchly) počítač",
+          "answers": [
+            "rýchly"
+          ],
+          "explanation": "Прилагательное согласуется с существительным: rýchly."
+        },
+        {
+          "id": "l4-task-141",
+          "type": "gap",
+          "section": "review-adjectives",
+          "sectionTitle": "Повторение — вставьте прилагательное",
+          "context": "Повторение — вставьте прилагательное",
+          "prompt": "___ (hrubý) kniha",
+          "answers": [
+            "hrubá"
+          ],
+          "explanation": "Прилагательное согласуется с существительным: hrubá."
+        },
+        {
+          "id": "l4-task-142",
+          "type": "gap",
+          "section": "review-adjectives",
+          "sectionTitle": "Повторение — вставьте прилагательное",
+          "context": "Повторение — вставьте прилагательное",
+          "prompt": "___ (čierny) tabuľa",
+          "answers": [
+            "čierna"
+          ],
+          "explanation": "Прилагательное согласуется с существительным: čierna."
+        },
+        {
+          "id": "l4-task-143",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "efekt",
+          "answers": [
+            "mužský rod"
+          ],
+          "explanation": "efekt — mužský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-144",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "mobil",
+          "answers": [
+            "mužský rod"
+          ],
+          "explanation": "mobil — mužský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-145",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "koncert",
+          "answers": [
+            "mužský rod"
+          ],
+          "explanation": "koncert — mužský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-146",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "lektor",
+          "answers": [
+            "mužský rod"
+          ],
+          "explanation": "lektor — mužský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-147",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "hotel",
+          "answers": [
+            "mužský rod"
+          ],
+          "explanation": "hotel — mužský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-148",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "futbalista",
+          "answers": [
+            "mužský rod"
+          ],
+          "explanation": "futbalista — mužský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-149",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "tréning",
+          "answers": [
+            "mužský rod"
+          ],
+          "explanation": "tréning — mužský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-150",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "doktor",
+          "answers": [
+            "mužský rod"
+          ],
+          "explanation": "doktor — mužský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-151",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "cigareta",
+          "answers": [
+            "ženský rod"
+          ],
+          "explanation": "cigareta — ženský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-152",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "mapa",
+          "answers": [
+            "ženský rod"
+          ],
+          "explanation": "mapa — ženský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-153",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "banka",
+          "answers": [
+            "ženský rod"
+          ],
+          "explanation": "banka — ženský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-154",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "televízia",
+          "answers": [
+            "ženský rod"
+          ],
+          "explanation": "televízia — ženský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-155",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "gramatika",
+          "answers": [
+            "ženský rod"
+          ],
+          "explanation": "gramatika — ženský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-156",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "doktorka",
+          "answers": [
+            "ženský rod"
+          ],
+          "explanation": "doktorka — ženský rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-157",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "kino",
+          "answers": [
+            "stredný rod"
+          ],
+          "explanation": "kino — stredný rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-158",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "mesto",
+          "answers": [
+            "stredný rod"
+          ],
+          "explanation": "mesto — stredný rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-159",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "more",
+          "answers": [
+            "stredný rod"
+          ],
+          "explanation": "more — stredný rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-160",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "centrum",
+          "answers": [
+            "stredný rod"
+          ],
+          "explanation": "centrum — stredný rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-161",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "číslo",
+          "answers": [
+            "stredný rod"
+          ],
+          "explanation": "číslo — stredný rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-162",
+          "type": "choice",
+          "section": "review-gender",
+          "sectionTitle": "Повторение — определите род",
+          "context": "Повторение — определите род",
+          "prompt": "rádio",
+          "answers": [
+            "stredný rod"
+          ],
+          "explanation": "rádio — stredný rod.",
+          "options": [
+            "mužský rod",
+            "ženský rod",
+            "stredný rod"
+          ]
+        },
+        {
+          "id": "l4-task-163",
+          "type": "gap",
+          "section": "spelling",
+          "sectionTitle": "Соберите слово — напишите целиком",
+          "context": "Соберите слово — напишите целиком",
+          "prompt": "p · r · e · č · o",
+          "answers": [
+            "prečo"
+          ],
+          "explanation": "Правильно: prečo."
+        },
+        {
+          "id": "l4-task-164",
+          "type": "gap",
+          "section": "spelling",
+          "sectionTitle": "Соберите слово — напишите целиком",
+          "context": "Соберите слово — напишите целиком",
+          "prompt": "S · l · o · v · e · n · s · k · o",
+          "answers": [
+            "Slovensko"
+          ],
+          "explanation": "Правильно: Slovensko."
+        }
+      ]
     }
   ]
 }
