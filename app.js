@@ -1,6 +1,6 @@
 import {cancelPracticeMotion,enterQuestion,exitQuestion,answerFeedback,enterSurface,modalMotion} from './practice-motion.js?v=cards3';
 import {ruleCard} from './rule-cards.js?v=20261010-publish';
-import {loadContent,runtimeLessons,contentStatus} from './content-store.js';
+import {loadContent,runtimeLessons,contentStatus} from './content-store.js?v=20261010-publish';
 import {managerHTML,managerClick,managerSubmit,managerImport,managerError,managerAudio} from './lesson-manager.js';
 import {playAudio, stopAudio,setLessonAudio} from './audio.js';
 import{lessons,emptyState,freshProfiles}from'./data.js';

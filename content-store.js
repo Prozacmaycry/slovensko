@@ -22,7 +22,7 @@ export function validatePackage(raw){
  if(!p.words.length&&!p.rules.length&&!p.exercises.length)throw Error('Урок пока пустой.');
  p.title=p.title.trim();p.description=p.description||'';return p;
 }
-async function request(path,options={}){const r=await fetch(path,options);if(!r.ok){if(r.status===401){token=null;editorVerified=false;sessionStorage.removeItem('slovicko-editor-token')}const msg=await r.json().catch(()=>({}));throw Error(msg.message||msg.error_description||'Не удалось сохранить. Проверьте подключение.');}return r.status===204?null:r.json()}
+async function request(path,options={}){const r=await fetch(path,{cache:"no-cache",...options});if(!r.ok){if(r.status===401){token=null;editorVerified=false;sessionStorage.removeItem('slovicko-editor-token')}const msg=await r.json().catch(()=>({}));throw Error(msg.message||msg.error_description||'Не удалось сохранить. Проверьте подключение.');}return r.status===204?null:r.json()}
 const headers=()=>({'Content-Type':'application/json',apikey:config.publishableKey,Authorization:`Bearer ${token||config.publishableKey}`});
 export async function loadContent(){
  try{config=await request('settings.json');if(location.hostname.endsWith('github.io'))config={backend:'static'};if(config.backend==='supabase'){
