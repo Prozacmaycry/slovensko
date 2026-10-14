@@ -1,5 +1,5 @@
 {
-  "revision": 10,
+  "revision": 11,
   "packages": [
     {
       "schemaVersion": 1,
@@ -6234,6 +6234,3504 @@
             "Slovensko"
           ],
           "explanation": "Правильно: Slovensko."
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "lesson-2026-10-14",
+      "title": "Поездки, описания и хобби",
+      "description": "Билеты, транспорт, прилагательные, ten / tá / to, новые глаголы и любимые занятия.",
+      "status": "published",
+      "words": [
+        {
+          "id": "l5-word-001",
+          "sk": "lístok",
+          "ru": "билет",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-002",
+          "sk": "cestovný lístok",
+          "ru": "проездной билет",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-003",
+          "sk": "študentský",
+          "ru": "студенческий",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-004",
+          "sk": "cestovať",
+          "ru": "путешествовать, ездить",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-005",
+          "sk": "metro",
+          "ru": "метро",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-006",
+          "sk": "loď",
+          "ru": "корабль, лодка",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-007",
+          "sk": "vlak",
+          "ru": "поезд",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-008",
+          "sk": "lietadlo",
+          "ru": "самолёт",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-009",
+          "sk": "Rakúsko",
+          "ru": "Австрия",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-010",
+          "sk": "Maďarsko",
+          "ru": "Венгрия",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-011",
+          "sk": "Česko",
+          "ru": "Чехия",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-012",
+          "sk": "Poľsko",
+          "ru": "Польша",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-013",
+          "sk": "Ukrajina",
+          "ru": "Украина",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-014",
+          "sk": "Slovensko",
+          "ru": "Словакия",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-015",
+          "sk": "pekný",
+          "ru": "красивый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-016",
+          "sk": "moderný",
+          "ru": "современный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-017",
+          "sk": "dobrý",
+          "ru": "хороший",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-018",
+          "sk": "zlý",
+          "ru": "плохой",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-019",
+          "sk": "nemoderný",
+          "ru": "несовременный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-020",
+          "sk": "škaredý",
+          "ru": "некрасивый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-021",
+          "sk": "drahý",
+          "ru": "дорогой",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-022",
+          "sk": "lacný",
+          "ru": "дешёвый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-023",
+          "sk": "veľký",
+          "ru": "большой",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-024",
+          "sk": "malý",
+          "ru": "маленький",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-025",
+          "sk": "vysoký",
+          "ru": "высокий",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-026",
+          "sk": "nízky",
+          "ru": "низкий",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-027",
+          "sk": "široký",
+          "ru": "широкий",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-028",
+          "sk": "úzky",
+          "ru": "узкий",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-029",
+          "sk": "hrubý",
+          "ru": "толстый (о толщине)",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-030",
+          "sk": "tenký",
+          "ru": "тонкий",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-031",
+          "sk": "pomalý",
+          "ru": "медленный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-032",
+          "sk": "rýchly",
+          "ru": "быстрый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-033",
+          "sk": "krátky",
+          "ru": "короткий",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-034",
+          "sk": "dlhý",
+          "ru": "длинный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-035",
+          "sk": "tučný",
+          "ru": "толстый (о телосложении)",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-036",
+          "sk": "chudý",
+          "ru": "худой",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-037",
+          "sk": "voľný",
+          "ru": "свободный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-038",
+          "sk": "obsadený",
+          "ru": "занятый (о месте)",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-039",
+          "sk": "nabitý",
+          "ru": "заряженный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-040",
+          "sk": "vybitý",
+          "ru": "разряженный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-041",
+          "sk": "zapnutý",
+          "ru": "включённый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-042",
+          "sk": "vypnutý",
+          "ru": "выключенный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-043",
+          "sk": "pokazený",
+          "ru": "сломанный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-044",
+          "sk": "opravený",
+          "ru": "отремонтированный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-045",
+          "sk": "prenajatý",
+          "ru": "арендованный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-046",
+          "sk": "vlastný",
+          "ru": "собственный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-047",
+          "sk": "mokrý",
+          "ru": "мокрый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-048",
+          "sk": "suchý",
+          "ru": "сухой",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-049",
+          "sk": "mäkký",
+          "ru": "мягкий",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-050",
+          "sk": "tvrdý",
+          "ru": "твёрдый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-051",
+          "sk": "silný",
+          "ru": "сильный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-052",
+          "sk": "slabý",
+          "ru": "слабый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-053",
+          "sk": "ľahký",
+          "ru": "лёгкий",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-054",
+          "sk": "ťažký",
+          "ru": "тяжёлый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-055",
+          "sk": "zaujímavý",
+          "ru": "интересный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-056",
+          "sk": "náročný",
+          "ru": "сложный, требовательный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-057",
+          "sk": "obľúbený",
+          "ru": "любимый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-058",
+          "sk": "výborný",
+          "ru": "отличный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-059",
+          "sk": "smutný",
+          "ru": "грустный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-060",
+          "sk": "múdry",
+          "ru": "мудрый, умный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-061",
+          "sk": "krásny",
+          "ru": "прекрасный",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-062",
+          "sk": "vždy",
+          "ru": "всегда",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-063",
+          "sk": "často",
+          "ru": "часто",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-064",
+          "sk": "zvyčajne",
+          "ru": "обычно",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-065",
+          "sk": "obyčajne",
+          "ru": "обычно",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-066",
+          "sk": "niekedy",
+          "ru": "иногда",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-067",
+          "sk": "zriedka",
+          "ru": "редко",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-068",
+          "sk": "málokedy",
+          "ru": "редко",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-069",
+          "sk": "nikdy",
+          "ru": "никогда",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-070",
+          "sk": "centrum",
+          "ru": "центр",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-071",
+          "sk": "múzeum",
+          "ru": "музей",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-072",
+          "sk": "štúdium",
+          "ru": "учёба, обучение",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-073",
+          "sk": "štipendium",
+          "ru": "стипендия",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-074",
+          "sk": "dátum",
+          "ru": "дата",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-075",
+          "sk": "kaviareň",
+          "ru": "кофейня",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-076",
+          "sk": "lekáreň",
+          "ru": "аптека",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-077",
+          "sk": "zmenáreň",
+          "ru": "обменный пункт",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-078",
+          "sk": "cukráreň",
+          "ru": "кондитерская",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-079",
+          "sk": "krajina",
+          "ru": "страна",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-080",
+          "sk": "mobil",
+          "ru": "мобильный телефон",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-081",
+          "sk": "univerzita",
+          "ru": "университет",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-082",
+          "sk": "námestie",
+          "ru": "площадь",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-083",
+          "sk": "kostol",
+          "ru": "церковь",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-084",
+          "sk": "dom",
+          "ru": "дом",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-085",
+          "sk": "cvičenie",
+          "ru": "упражнение",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-086",
+          "sk": "čas",
+          "ru": "время",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-087",
+          "sk": "človek",
+          "ru": "человек",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-088",
+          "sk": "študent",
+          "ru": "студент",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-089",
+          "sk": "kôň",
+          "ru": "лошадь",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-090",
+          "sk": "týždeň",
+          "ru": "неделя",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-091",
+          "sk": "more",
+          "ru": "море",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-092",
+          "sk": "plán",
+          "ru": "план",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-093",
+          "sk": "stanica",
+          "ru": "станция, вокзал",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-094",
+          "sk": "miestnosť",
+          "ru": "помещение",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-095",
+          "sk": "mesto",
+          "ru": "город",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-096",
+          "sk": "obchod",
+          "ru": "магазин",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-097",
+          "sk": "pošta",
+          "ru": "почта",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-098",
+          "sk": "hrad",
+          "ru": "замок",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-099",
+          "sk": "prednáška",
+          "ru": "лекция",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-100",
+          "sk": "prvý",
+          "ru": "первый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-101",
+          "sk": "druhý",
+          "ru": "второй",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-102",
+          "sk": "tretí",
+          "ru": "третий",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-103",
+          "sk": "štvrtý",
+          "ru": "четвёртый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-104",
+          "sk": "nový",
+          "ru": "новый",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-105",
+          "sk": "čakať",
+          "ru": "ждать",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-106",
+          "sk": "hľadať",
+          "ru": "искать",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-107",
+          "sk": "poznať",
+          "ru": "знать, быть знакомым",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-108",
+          "sk": "pozerať sa",
+          "ru": "смотреть",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-109",
+          "sk": "platiť",
+          "ru": "платить",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-110",
+          "sk": "vedieť",
+          "ru": "знать информацию, уметь",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-111",
+          "sk": "cestovanie",
+          "ru": "путешествия",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-112",
+          "sk": "kreslenie",
+          "ru": "рисование",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-113",
+          "sk": "spievanie",
+          "ru": "пение",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-114",
+          "sk": "počítačové hry",
+          "ru": "компьютерные игры",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-115",
+          "sk": "športovanie",
+          "ru": "занятия спортом",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-116",
+          "sk": "zbieranie",
+          "ru": "коллекционирование",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-117",
+          "sk": "tance",
+          "ru": "танцы",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-118",
+          "sk": "lyžovanie",
+          "ru": "катание на лыжах",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-119",
+          "sk": "Prosím si jeden lístok.",
+          "ru": "Мне, пожалуйста, один билет.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-120",
+          "sk": "Prosím si dva lístky.",
+          "ru": "Мне, пожалуйста, два билета.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-121",
+          "sk": "Prosím si päť lístkov.",
+          "ru": "Мне, пожалуйста, пять билетов.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-122",
+          "sk": "Koľko stojí jeden lístok?",
+          "ru": "Сколько стоит один билет?",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-123",
+          "sk": "Koľko stoja štyri lístky?",
+          "ru": "Сколько стоят четыре билета?",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-124",
+          "sk": "Cestujem metrom.",
+          "ru": "Я еду на метро.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-125",
+          "sk": "Cestujem loďou.",
+          "ru": "Я путешествую на корабле.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-126",
+          "sk": "Z Rakúska do Poľska.",
+          "ru": "Из Австрии в Польшу.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-127",
+          "sk": "Z Česka na Ukrajinu.",
+          "ru": "Из Чехии в Украину.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-128",
+          "sk": "Z Poľska na Slovensko.",
+          "ru": "Из Польши в Словакию.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-129",
+          "sk": "Aký je ten muž?",
+          "ru": "Какой этот мужчина?",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-130",
+          "sk": "Aká je tá žena?",
+          "ru": "Какая эта женщина?",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-131",
+          "sk": "Aké je to mesto?",
+          "ru": "Какой этот город?",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-132",
+          "sk": "Akí sú tí muži?",
+          "ru": "Какие эти мужчины?",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-133",
+          "sk": "Ktoré je to auto?",
+          "ru": "Которая это машина?",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-134",
+          "sk": "To je dobrý kamarát.",
+          "ru": "Это хороший друг.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-135",
+          "sk": "Ten kamarát je dobrý.",
+          "ru": "Этот друг хороший.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-136",
+          "sk": "Idem do obchodu.",
+          "ru": "Я иду в магазин.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-137",
+          "sk": "Idem do kaviarne.",
+          "ru": "Я иду в кофейню.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-138",
+          "sk": "Idem na poštu.",
+          "ru": "Я иду на почту.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-139",
+          "sk": "Idem na univerzitu.",
+          "ru": "Я иду в университет.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-140",
+          "sk": "Idem na hrad.",
+          "ru": "Я иду в замок.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-141",
+          "sk": "Idem na stanicu.",
+          "ru": "Я иду на вокзал.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-142",
+          "sk": "Mám rád cestovanie.",
+          "ru": "Я люблю путешествия (говорит мужчина).",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-143",
+          "sk": "Mám rada cestovanie.",
+          "ru": "Я люблю путешествия (говорит женщина).",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-144",
+          "sk": "Moje obľúbené hobby je kreslenie.",
+          "ru": "Моё любимое хобби — рисование.",
+          "type": "phrase"
+        },
+        {
+          "id": "l5-word-145",
+          "sk": "celý",
+          "ru": "полный (о билете: по полному тарифу)",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-146",
+          "sk": "polovičný",
+          "ru": "половинный (о тарифе)",
+          "type": "word"
+        },
+        {
+          "id": "l5-word-147",
+          "sk": "žiacky",
+          "ru": "ученический",
+          "type": "word"
+        }
+      ],
+      "rules": [
+        {
+          "id": "l5-rule-tickets",
+          "title": "Билеты: lístok / lístky / lístkov",
+          "text": "После 1: один билет; после 2–4: lístky; после 5: lístkov. Один билет stojí, несколько билетов stoja. На слайде показаны виды тарифов. Условия скидок зависят от перевозчика; здесь изучаем названия, а не действующие тарифные правила.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Количество",
+              "Фраза"
+            ],
+            "rows": [
+              [
+                "1",
+                "Prosím si jeden lístok."
+              ],
+              [
+                "2",
+                "Prosím si dva lístky."
+              ],
+              [
+                "3",
+                "Prosím si tri lístky."
+              ],
+              [
+                "4",
+                "Prosím si štyri lístky."
+              ],
+              [
+                "5",
+                "Prosím si päť lístkov."
+              ],
+              [
+                "Цена одного",
+                "Koľko stojí jeden lístok?"
+              ],
+              [
+                "Цена нескольких",
+                "Koľko stoja štyri lístky?"
+              ],
+              [
+                "celý lístok",
+                "Билет по полному тарифу"
+              ],
+              [
+                "polovičný lístok",
+                "Билет по половинному тарифу"
+              ],
+              [
+                "žiacky lístok",
+                "Ученический билет"
+              ],
+              [
+                "študentský lístok",
+                "Студенческий билет"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l5-rule-travel",
+          "title": "Поездки: откуда, куда и на чём",
+          "text": "Z + родительный: откуда. Do + родительный: направление. Со Slovensko и Ukrajina в этих примерах используется na + винительный. Способ передвижения — творительный.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Вопрос",
+              "Примеры"
+            ],
+            "rows": [
+              [
+                "Odkiaľ?",
+                "z Rakúska, z Maďarska, z Česka, z Poľska, z Ukrajiny, zo Slovenska"
+              ],
+              [
+                "Kam?",
+                "do Rakúska, do Maďarska, do Česka, do Poľska, na Ukrajinu, na Slovensko"
+              ],
+              [
+                "Čím?",
+                "Cestujem metrom. Cestujem loďou."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l5-rule-adjectives",
+          "title": "Aký? Aká? Aké? Akí?",
+          "text": "Прилагательное согласуется с существительным. Во множественном числе личные существительные мужского рода: tí pekní muži; остальные: tie pekné ženy / mestá / vlaky.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Род / число",
+              "Вопрос",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Мужской ед.",
+                "Aký?",
+                "ten pekný / moderný / dobrý muž"
+              ],
+              [
+                "Женский ед.",
+                "Aká?",
+                "tá pekná / moderná / dobrá žena"
+              ],
+              [
+                "Средний ед.",
+                "Aké?",
+                "to pekné / moderné / dobré mesto"
+              ],
+              [
+                "Мужской личный мн.",
+                "Akí?",
+                "tí pekní / moderní / dobrí muži"
+              ],
+              [
+                "Остальные мн.",
+                "Aké?",
+                "tie pekné ženy / mestá / vlaky"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l5-rule-gender",
+          "title": "Ten / tá / to — определите род",
+          "text": "Слова на -um обычно среднего рода, но dátum — мужского. Слова kaviareň, lekáreň, zmenáreň, cukráreň — женского рода.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Ten — мужской",
+              "Tá — женский",
+              "To — средний"
+            ],
+            "rows": [
+              [
+                "mobil, počítač, kostol, dom",
+                "krajina, univerzita, stanica",
+                "auto, centrum, Slovensko"
+              ],
+              [
+                "čas, človek, študent, vlak",
+                "kaviareň, lekáreň, loď",
+                "múzeum, štipendium, štúdium"
+              ],
+              [
+                "kôň, týždeň, plán, dátum",
+                "zmenáreň, cukráreň, miestnosť",
+                "námestie, cvičenie, more, mesto"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l5-rule-which",
+          "title": "Ktorý? Ktorá? Ktoré?",
+          "text": "Aký спрашивает о свойстве («какой?»), ktorý — о конкретном предмете («который?»). Tretí / tretia / tretie отличаются от prvý / prvá / prvé.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Мужской",
+              "Женский",
+              "Средний"
+            ],
+            "rows": [
+              [
+                "Ktorý?",
+                "Ktorá?",
+                "Ktoré?"
+              ],
+              [
+                "prvý",
+                "prvá",
+                "prvé"
+              ],
+              [
+                "druhý",
+                "druhá",
+                "druhé"
+              ],
+              [
+                "tretí",
+                "tretia",
+                "tretie"
+              ],
+              [
+                "štvrtý",
+                "štvrtá",
+                "štvrté"
+              ],
+              [
+                "nový",
+                "nová",
+                "nové"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l5-rule-frequency",
+          "title": "Как часто?",
+          "text": "Проценты на слайде — иллюстрация частотности, а не точные определения. Никогда не делаю: Nikdy necestujem...",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Слово",
+              "Перевод"
+            ],
+            "rows": [
+              [
+                "vždy",
+                "всегда"
+              ],
+              [
+                "často",
+                "часто"
+              ],
+              [
+                "zvyčajne / obyčajne",
+                "обычно"
+              ],
+              [
+                "niekedy",
+                "иногда"
+              ],
+              [
+                "zriedka / málokedy",
+                "редко"
+              ],
+              [
+                "nikdy",
+                "никогда"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l5-rule-direction",
+          "title": "Idem: do + родительный / na + винительный",
+          "text": "На исходном слайде do obchodu ошибочно объединено с винительным падежом. Do требует родительного; na при направлении — винительного.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Do + родительный",
+              "Na + винительный"
+            ],
+            "rows": [
+              [
+                "Idem do obchodu.",
+                "Idem na poštu."
+              ],
+              [
+                "Idem do kaviarne.",
+                "Idem na univerzitu."
+              ],
+              [
+                "",
+                "Idem na hrad."
+              ],
+              [
+                "",
+                "Idem na stanicu."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l5-rule-verbs",
+          "title": "Новые глаголы — настоящее время",
+          "text": "Глагол для спряжения указан в скобках каждого задания. Hľadať / poznať + винительный; čakať na / pozerať sa na / platiť za + винительный.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Местоимение",
+              "hľadať",
+              "čakať",
+              "poznať",
+              "pozerať sa",
+              "platiť"
+            ],
+            "rows": [
+              [
+                "ja",
+                "hľadám",
+                "čakám",
+                "poznám",
+                "pozerám sa",
+                "platím"
+              ],
+              [
+                "ty",
+                "hľadáš",
+                "čakáš",
+                "poznáš",
+                "pozeráš sa",
+                "platíš"
+              ],
+              [
+                "on / ona",
+                "hľadá",
+                "čaká",
+                "pozná",
+                "pozerá sa",
+                "platí"
+              ],
+              [
+                "my",
+                "hľadáme",
+                "čakáme",
+                "poznáme",
+                "pozeráme sa",
+                "platíme"
+              ],
+              [
+                "vy",
+                "hľadáte",
+                "čakáte",
+                "poznáte",
+                "pozeráte sa",
+                "platíte"
+              ],
+              [
+                "oni / ony",
+                "hľadajú",
+                "čakajú",
+                "poznajú",
+                "pozerajú sa",
+                "platia"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l5-rule-know",
+          "title": "Vedieť или poznať?",
+          "text": "Vedieť — знать информацию, уметь что-то делать. Poznať — быть знакомым с человеком, местом, знать дорогу.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Глагол",
+              "Пример",
+              "Значение"
+            ],
+            "rows": [
+              [
+                "vedieť",
+                "Viem, kde je stanica.",
+                "Знаю информацию"
+              ],
+              [
+                "vedieť",
+                "Viem plávať.",
+                "Умею плавать"
+              ],
+              [
+                "poznať",
+                "Poznám toho človeka.",
+                "Знаком с человеком"
+              ],
+              [
+                "poznať",
+                "Poznám Bratislavu.",
+                "Знаком с городом"
+              ],
+              [
+                "poznať",
+                "Poznám cestu.",
+                "Знаю дорогу"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l5-rule-order",
+          "title": "To je dobrý kamarát / Ten kamarát je dobrý",
+          "text": "To je... представляет кого-то. Ten kamarát... указывает на конкретного друга. Не переставляйте слова механически: эти две конструкции имеют разное начало.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Представляем",
+              "Описываем"
+            ],
+            "rows": [
+              [
+                "To je dobrý kamarát.",
+                "Ten kamarát je dobrý."
+              ],
+              [
+                "To je pekná žena.",
+                "Tá žena je pekná."
+              ],
+              [
+                "To je moderné mesto.",
+                "To mesto je moderné."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l5-rule-hobbies",
+          "title": "Mám rád / mám rada — хобби",
+          "text": "Мужчина: mám rád. Женщина: mám rada. После выражения идёт винительный: Mám rád slovenčinu. Для нескольких хобби: Moje obľúbené hobby sú počítačové hry / tance.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Фраза",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "Mám rád / rada...",
+                "cestovanie, Slovensko, slovenský jazyk"
+              ],
+              [
+                "Moje obľúbené hobby je...",
+                "kreslenie, spievanie, športovanie, zbieranie, lyžovanie"
+              ],
+              [
+                "Moje obľúbené hobby sú...",
+                "počítačové hry, tance"
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "l5-task-001",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "Prosím si ___ (1; lístok).",
+          "answers": [
+            "jeden lístok"
+          ],
+          "explanation": "1 → jeden lístok."
+        },
+        {
+          "id": "l5-task-002",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "Prosím si ___ (2; lístok).",
+          "answers": [
+            "dva lístky"
+          ],
+          "explanation": "2 → dva lístky."
+        },
+        {
+          "id": "l5-task-003",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "Prosím si ___ (3; lístok).",
+          "answers": [
+            "tri lístky"
+          ],
+          "explanation": "3 → tri lístky."
+        },
+        {
+          "id": "l5-task-004",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "Prosím si ___ (4; lístok).",
+          "answers": [
+            "štyri lístky"
+          ],
+          "explanation": "4 → štyri lístky."
+        },
+        {
+          "id": "l5-task-005",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "Prosím si ___ (5; lístok).",
+          "answers": [
+            "päť lístkov"
+          ],
+          "explanation": "5 → päť lístkov."
+        },
+        {
+          "id": "l5-task-006",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "Koľko ___ jeden lístok? (stáť)",
+          "answers": [
+            "stojí"
+          ],
+          "explanation": "Единственное число: stojí; множественное: stoja."
+        },
+        {
+          "id": "l5-task-007",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "Koľko ___ dva lístky? (stáť)",
+          "answers": [
+            "stoja"
+          ],
+          "explanation": "Единственное число: stojí; множественное: stoja."
+        },
+        {
+          "id": "l5-task-008",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "Koľko ___ štyri lístky? (stáť)",
+          "answers": [
+            "stoja"
+          ],
+          "explanation": "Единственное число: stojí; множественное: stoja."
+        },
+        {
+          "id": "l5-task-009",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "Cestujem ___ (metro).",
+          "answers": [
+            "metrom"
+          ],
+          "explanation": "Čím? Используем творительный падеж."
+        },
+        {
+          "id": "l5-task-010",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "Cestujem ___ (loď).",
+          "answers": [
+            "loďou"
+          ],
+          "explanation": "Čím? Используем творительный падеж."
+        },
+        {
+          "id": "l5-task-011",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "z ___ (Rakúsko)",
+          "answers": [
+            "Rakúska"
+          ],
+          "explanation": "После z — родительный падеж."
+        },
+        {
+          "id": "l5-task-012",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "do ___ (Rakúsko)",
+          "answers": [
+            "Rakúska"
+          ],
+          "explanation": "После do — родительный падеж."
+        },
+        {
+          "id": "l5-task-013",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "z ___ (Maďarsko)",
+          "answers": [
+            "Maďarska"
+          ],
+          "explanation": "После z — родительный падеж."
+        },
+        {
+          "id": "l5-task-014",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "do ___ (Maďarsko)",
+          "answers": [
+            "Maďarska"
+          ],
+          "explanation": "После do — родительный падеж."
+        },
+        {
+          "id": "l5-task-015",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "z ___ (Česko)",
+          "answers": [
+            "Česka"
+          ],
+          "explanation": "После z — родительный падеж."
+        },
+        {
+          "id": "l5-task-016",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "do ___ (Česko)",
+          "answers": [
+            "Česka"
+          ],
+          "explanation": "После do — родительный падеж."
+        },
+        {
+          "id": "l5-task-017",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "z ___ (Poľsko)",
+          "answers": [
+            "Poľska"
+          ],
+          "explanation": "После z — родительный падеж."
+        },
+        {
+          "id": "l5-task-018",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "do ___ (Poľsko)",
+          "answers": [
+            "Poľska"
+          ],
+          "explanation": "После do — родительный падеж."
+        },
+        {
+          "id": "l5-task-019",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "na ___ (Ukrajina)",
+          "answers": [
+            "Ukrajinu"
+          ],
+          "explanation": "После na при направлении — винительный падеж."
+        },
+        {
+          "id": "l5-task-020",
+          "type": "gap",
+          "section": "travel",
+          "sectionTitle": "Поездки: вставьте форму",
+          "context": "Поездки: вставьте форму",
+          "prompt": "na ___ (Slovensko)",
+          "answers": [
+            "Slovensko"
+          ],
+          "explanation": "После na при направлении — винительный падеж."
+        },
+        {
+          "id": "l5-task-021",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Ten muž je ___ (pekný).",
+          "answers": [
+            "pekný"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-022",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tá žena je ___ (pekný).",
+          "answers": [
+            "pekná"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-023",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "To mesto je ___ (pekný).",
+          "answers": [
+            "pekné"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-024",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tí muži sú ___ (pekný).",
+          "answers": [
+            "pekní"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-025",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tie ženy sú ___ (pekný).",
+          "answers": [
+            "pekné"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-026",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Ten muž je ___ (moderný).",
+          "answers": [
+            "moderný"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-027",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tá žena je ___ (moderný).",
+          "answers": [
+            "moderná"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-028",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "To mesto je ___ (moderný).",
+          "answers": [
+            "moderné"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-029",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tí muži sú ___ (moderný).",
+          "answers": [
+            "moderní"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-030",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tie ženy sú ___ (moderný).",
+          "answers": [
+            "moderné"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-031",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Ten muž je ___ (dobrý).",
+          "answers": [
+            "dobrý"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-032",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tá žena je ___ (dobrý).",
+          "answers": [
+            "dobrá"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-033",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "To mesto je ___ (dobrý).",
+          "answers": [
+            "dobré"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-034",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tí muži sú ___ (dobrý).",
+          "answers": [
+            "dobrí"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-035",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tie ženy sú ___ (dobrý).",
+          "answers": [
+            "dobré"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-036",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Ten muž je ___ (vysoký).",
+          "answers": [
+            "vysoký"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-037",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tá žena je ___ (vysoký).",
+          "answers": [
+            "vysoká"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-038",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "To mesto je ___ (vysoký).",
+          "answers": [
+            "vysoké"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-039",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tí muži sú ___ (vysoký).",
+          "answers": [
+            "vysokí"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-040",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tie ženy sú ___ (vysoký).",
+          "answers": [
+            "vysoké"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-041",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Ten muž je ___ (múdry).",
+          "answers": [
+            "múdry"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-042",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tá žena je ___ (múdry).",
+          "answers": [
+            "múdra"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-043",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "To mesto je ___ (múdry).",
+          "answers": [
+            "múdre"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-044",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tí muži sú ___ (múdry).",
+          "answers": [
+            "múdri"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-045",
+          "type": "gap",
+          "section": "adjectives",
+          "sectionTitle": "Прилагательные: вставьте форму",
+          "context": "Прилагательные: вставьте форму",
+          "prompt": "Tie ženy sú ___ (múdry).",
+          "answers": [
+            "múdre"
+          ],
+          "explanation": "Согласуйте прилагательное с родом и числом существительного; учитывайте долготу гласных."
+        },
+        {
+          "id": "l5-task-046",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "auto",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to auto.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-047",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "krajina",
+          "answers": [
+            "tá"
+          ],
+          "explanation": "tá krajina.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-048",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "mobil",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten mobil.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-049",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "kaviareň",
+          "answers": [
+            "tá"
+          ],
+          "explanation": "tá kaviareň.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-050",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "univerzita",
+          "answers": [
+            "tá"
+          ],
+          "explanation": "tá univerzita.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-051",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "centrum",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to centrum.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-052",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "Slovensko",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to Slovensko.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-053",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "počítač",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten počítač.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-054",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "námestie",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to námestie.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-055",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "kostol",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten kostol.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-056",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "dom",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten dom.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-057",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "cvičenie",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to cvičenie.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-058",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "čas",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten čas.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-059",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "človek",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten človek.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-060",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "študent",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten študent.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-061",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "múzeum",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to múzeum.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-062",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "štipendium",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to štipendium.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-063",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "vlak",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten vlak.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-064",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "štúdium",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to štúdium.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-065",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "lietadlo",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to lietadlo.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-066",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "loď",
+          "answers": [
+            "tá"
+          ],
+          "explanation": "tá loď.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-067",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "kôň",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten kôň.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-068",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "týždeň",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten týždeň.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-069",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "more",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to more.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-070",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "plán",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten plán.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-071",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "stanica",
+          "answers": [
+            "tá"
+          ],
+          "explanation": "tá stanica.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-072",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "miestnosť",
+          "answers": [
+            "tá"
+          ],
+          "explanation": "tá miestnosť.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-073",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "mesto",
+          "answers": [
+            "to"
+          ],
+          "explanation": "to mesto.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-074",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "dátum",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "ten dátum.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-075",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "lekáreň",
+          "answers": [
+            "tá"
+          ],
+          "explanation": "tá lekáreň.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-076",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "zmenáreň",
+          "answers": [
+            "tá"
+          ],
+          "explanation": "tá zmenáreň.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-077",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму: ten / tá / to",
+          "context": "Определите форму: ten / tá / to",
+          "prompt": "cukráreň",
+          "answers": [
+            "tá"
+          ],
+          "explanation": "tá cukráreň.",
+          "options": [
+            "ten",
+            "tá",
+            "to"
+          ]
+        },
+        {
+          "id": "l5-task-078",
+          "type": "choice",
+          "section": "identify-adj",
+          "sectionTitle": "Определите форму: aký / aká / aké / akí",
+          "context": "Определите форму: aký / aká / aké / akí",
+          "prompt": "___? (muž)",
+          "answers": [
+            "Aký"
+          ],
+          "explanation": "Akí — только для личных существительных мужского рода во множественном числе.",
+          "options": [
+            "Aký",
+            "Aká",
+            "Aké",
+            "Akí"
+          ]
+        },
+        {
+          "id": "l5-task-079",
+          "type": "choice",
+          "section": "identify-adj",
+          "sectionTitle": "Определите форму: aký / aká / aké / akí",
+          "context": "Определите форму: aký / aká / aké / akí",
+          "prompt": "___? (žena)",
+          "answers": [
+            "Aká"
+          ],
+          "explanation": "Akí — только для личных существительных мужского рода во множественном числе.",
+          "options": [
+            "Aký",
+            "Aká",
+            "Aké",
+            "Akí"
+          ]
+        },
+        {
+          "id": "l5-task-080",
+          "type": "choice",
+          "section": "identify-adj",
+          "sectionTitle": "Определите форму: aký / aká / aké / akí",
+          "context": "Определите форму: aký / aká / aké / akí",
+          "prompt": "___? (mesto)",
+          "answers": [
+            "Aké"
+          ],
+          "explanation": "Akí — только для личных существительных мужского рода во множественном числе.",
+          "options": [
+            "Aký",
+            "Aká",
+            "Aké",
+            "Akí"
+          ]
+        },
+        {
+          "id": "l5-task-081",
+          "type": "choice",
+          "section": "identify-adj",
+          "sectionTitle": "Определите форму: aký / aká / aké / akí",
+          "context": "Определите форму: aký / aká / aké / akí",
+          "prompt": "___? (muži)",
+          "answers": [
+            "Akí"
+          ],
+          "explanation": "Akí — только для личных существительных мужского рода во множественном числе.",
+          "options": [
+            "Aký",
+            "Aká",
+            "Aké",
+            "Akí"
+          ]
+        },
+        {
+          "id": "l5-task-082",
+          "type": "choice",
+          "section": "identify-adj",
+          "sectionTitle": "Определите форму: aký / aká / aké / akí",
+          "context": "Определите форму: aký / aká / aké / akí",
+          "prompt": "___? (ženy)",
+          "answers": [
+            "Aké"
+          ],
+          "explanation": "Akí — только для личных существительных мужского рода во множественном числе.",
+          "options": [
+            "Aký",
+            "Aká",
+            "Aké",
+            "Akí"
+          ]
+        },
+        {
+          "id": "l5-task-083",
+          "type": "choice",
+          "section": "identify-adj",
+          "sectionTitle": "Определите форму: aký / aká / aké / akí",
+          "context": "Определите форму: aký / aká / aké / akí",
+          "prompt": "___? (vlaky)",
+          "answers": [
+            "Aké"
+          ],
+          "explanation": "Akí — только для личных существительных мужского рода во множественном числе.",
+          "options": [
+            "Aký",
+            "Aká",
+            "Aké",
+            "Akí"
+          ]
+        },
+        {
+          "id": "l5-task-084",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ vlak (prvý)",
+          "answers": [
+            "prvý"
+          ],
+          "explanation": "prvý vlak."
+        },
+        {
+          "id": "l5-task-085",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ stanica (prvý)",
+          "answers": [
+            "prvá"
+          ],
+          "explanation": "prvá stanica."
+        },
+        {
+          "id": "l5-task-086",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ auto (prvý)",
+          "answers": [
+            "prvé"
+          ],
+          "explanation": "prvé auto."
+        },
+        {
+          "id": "l5-task-087",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ vlak (druhý)",
+          "answers": [
+            "druhý"
+          ],
+          "explanation": "druhý vlak."
+        },
+        {
+          "id": "l5-task-088",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ stanica (druhý)",
+          "answers": [
+            "druhá"
+          ],
+          "explanation": "druhá stanica."
+        },
+        {
+          "id": "l5-task-089",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ auto (druhý)",
+          "answers": [
+            "druhé"
+          ],
+          "explanation": "druhé auto."
+        },
+        {
+          "id": "l5-task-090",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ vlak (tretí)",
+          "answers": [
+            "tretí"
+          ],
+          "explanation": "tretí vlak."
+        },
+        {
+          "id": "l5-task-091",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ stanica (tretí)",
+          "answers": [
+            "tretia"
+          ],
+          "explanation": "tretia stanica."
+        },
+        {
+          "id": "l5-task-092",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ auto (tretí)",
+          "answers": [
+            "tretie"
+          ],
+          "explanation": "tretie auto."
+        },
+        {
+          "id": "l5-task-093",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ vlak (štvrtý)",
+          "answers": [
+            "štvrtý"
+          ],
+          "explanation": "štvrtý vlak."
+        },
+        {
+          "id": "l5-task-094",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ stanica (štvrtý)",
+          "answers": [
+            "štvrtá"
+          ],
+          "explanation": "štvrtá stanica."
+        },
+        {
+          "id": "l5-task-095",
+          "type": "gap",
+          "section": "which",
+          "sectionTitle": "Вставьте форму: порядковые числительные",
+          "context": "Вставьте форму: порядковые числительные",
+          "prompt": "___ auto (štvrtý)",
+          "answers": [
+            "štvrté"
+          ],
+          "explanation": "štvrté auto."
+        },
+        {
+          "id": "l5-task-096",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (hľadať)",
+          "answers": [
+            "hľadám"
+          ],
+          "explanation": "ja → hľadám."
+        },
+        {
+          "id": "l5-task-097",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (hľadať)",
+          "answers": [
+            "hľadáš"
+          ],
+          "explanation": "ty → hľadáš."
+        },
+        {
+          "id": "l5-task-098",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ona ___ (hľadať)",
+          "answers": [
+            "hľadá"
+          ],
+          "explanation": "ona → hľadá."
+        },
+        {
+          "id": "l5-task-099",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (hľadať)",
+          "answers": [
+            "hľadáme"
+          ],
+          "explanation": "my → hľadáme."
+        },
+        {
+          "id": "l5-task-100",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (hľadať)",
+          "answers": [
+            "hľadáte"
+          ],
+          "explanation": "vy → hľadáte."
+        },
+        {
+          "id": "l5-task-101",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni ___ (hľadať)",
+          "answers": [
+            "hľadajú"
+          ],
+          "explanation": "oni → hľadajú."
+        },
+        {
+          "id": "l5-task-102",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (čakať)",
+          "answers": [
+            "čakám"
+          ],
+          "explanation": "ja → čakám."
+        },
+        {
+          "id": "l5-task-103",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (čakať)",
+          "answers": [
+            "čakáš"
+          ],
+          "explanation": "ty → čakáš."
+        },
+        {
+          "id": "l5-task-104",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ona ___ (čakať)",
+          "answers": [
+            "čaká"
+          ],
+          "explanation": "ona → čaká."
+        },
+        {
+          "id": "l5-task-105",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (čakať)",
+          "answers": [
+            "čakáme"
+          ],
+          "explanation": "my → čakáme."
+        },
+        {
+          "id": "l5-task-106",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (čakať)",
+          "answers": [
+            "čakáte"
+          ],
+          "explanation": "vy → čakáte."
+        },
+        {
+          "id": "l5-task-107",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni ___ (čakať)",
+          "answers": [
+            "čakajú"
+          ],
+          "explanation": "oni → čakajú."
+        },
+        {
+          "id": "l5-task-108",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (poznať)",
+          "answers": [
+            "poznám"
+          ],
+          "explanation": "ja → poznám."
+        },
+        {
+          "id": "l5-task-109",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (poznať)",
+          "answers": [
+            "poznáš"
+          ],
+          "explanation": "ty → poznáš."
+        },
+        {
+          "id": "l5-task-110",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ona ___ (poznať)",
+          "answers": [
+            "pozná"
+          ],
+          "explanation": "ona → pozná."
+        },
+        {
+          "id": "l5-task-111",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (poznať)",
+          "answers": [
+            "poznáme"
+          ],
+          "explanation": "my → poznáme."
+        },
+        {
+          "id": "l5-task-112",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (poznať)",
+          "answers": [
+            "poznáte"
+          ],
+          "explanation": "vy → poznáte."
+        },
+        {
+          "id": "l5-task-113",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni ___ (poznať)",
+          "answers": [
+            "poznajú"
+          ],
+          "explanation": "oni → poznajú."
+        },
+        {
+          "id": "l5-task-114",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (pozerať sa)",
+          "answers": [
+            "pozerám sa"
+          ],
+          "explanation": "ja → pozerám sa."
+        },
+        {
+          "id": "l5-task-115",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (pozerať sa)",
+          "answers": [
+            "pozeráš sa"
+          ],
+          "explanation": "ty → pozeráš sa."
+        },
+        {
+          "id": "l5-task-116",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ona ___ (pozerať sa)",
+          "answers": [
+            "pozerá sa"
+          ],
+          "explanation": "ona → pozerá sa."
+        },
+        {
+          "id": "l5-task-117",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (pozerať sa)",
+          "answers": [
+            "pozeráme sa"
+          ],
+          "explanation": "my → pozeráme sa."
+        },
+        {
+          "id": "l5-task-118",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (pozerať sa)",
+          "answers": [
+            "pozeráte sa"
+          ],
+          "explanation": "vy → pozeráte sa."
+        },
+        {
+          "id": "l5-task-119",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni ___ (pozerať sa)",
+          "answers": [
+            "pozerajú sa"
+          ],
+          "explanation": "oni → pozerajú sa."
+        },
+        {
+          "id": "l5-task-120",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (platiť)",
+          "answers": [
+            "platím"
+          ],
+          "explanation": "ja → platím."
+        },
+        {
+          "id": "l5-task-121",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (platiť)",
+          "answers": [
+            "platíš"
+          ],
+          "explanation": "ty → platíš."
+        },
+        {
+          "id": "l5-task-122",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ona ___ (platiť)",
+          "answers": [
+            "platí"
+          ],
+          "explanation": "ona → platí."
+        },
+        {
+          "id": "l5-task-123",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (platiť)",
+          "answers": [
+            "platíme"
+          ],
+          "explanation": "my → platíme."
+        },
+        {
+          "id": "l5-task-124",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (platiť)",
+          "answers": [
+            "platíte"
+          ],
+          "explanation": "vy → platíte."
+        },
+        {
+          "id": "l5-task-125",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni ___ (platiť)",
+          "answers": [
+            "platia"
+          ],
+          "explanation": "oni → platia."
+        },
+        {
+          "id": "l5-task-126",
+          "type": "gap",
+          "section": "know",
+          "sectionTitle": "Vedieť / poznať: вставьте форму",
+          "context": "Vedieť / poznať: вставьте форму",
+          "prompt": "___, kde je stanica. (ja: vedieť / poznať)",
+          "answers": [
+            "Viem"
+          ],
+          "explanation": "Знаю информацию."
+        },
+        {
+          "id": "l5-task-127",
+          "type": "gap",
+          "section": "know",
+          "sectionTitle": "Vedieť / poznať: вставьте форму",
+          "context": "Vedieť / poznať: вставьте форму",
+          "prompt": "___ Bratislavu. (ja: vedieť / poznať)",
+          "answers": [
+            "Poznám"
+          ],
+          "explanation": "Знаком с городом."
+        },
+        {
+          "id": "l5-task-128",
+          "type": "gap",
+          "section": "know",
+          "sectionTitle": "Vedieť / poznať: вставьте форму",
+          "context": "Vedieť / poznať: вставьте форму",
+          "prompt": "___ plávať. (ja: vedieť / poznať)",
+          "answers": [
+            "Viem"
+          ],
+          "explanation": "Умею выполнять действие."
+        },
+        {
+          "id": "l5-task-129",
+          "type": "gap",
+          "section": "know",
+          "sectionTitle": "Vedieť / poznať: вставьте форму",
+          "context": "Vedieť / poznať: вставьте форму",
+          "prompt": "___ toho človeka. (ja: vedieť / poznať)",
+          "answers": [
+            "Poznám"
+          ],
+          "explanation": "Знаком с человеком."
+        },
+        {
+          "id": "l5-task-130",
+          "type": "gap",
+          "section": "direction",
+          "sectionTitle": "Направление: вставьте форму",
+          "context": "Направление: вставьте форму",
+          "prompt": "Idem do ___ (obchod).",
+          "answers": [
+            "obchodu"
+          ],
+          "explanation": "Do + родительный; na при направлении + винительный."
+        },
+        {
+          "id": "l5-task-131",
+          "type": "gap",
+          "section": "direction",
+          "sectionTitle": "Направление: вставьте форму",
+          "context": "Направление: вставьте форму",
+          "prompt": "Idem do ___ (kaviareň).",
+          "answers": [
+            "kaviarne"
+          ],
+          "explanation": "Do + родительный; na при направлении + винительный."
+        },
+        {
+          "id": "l5-task-132",
+          "type": "gap",
+          "section": "direction",
+          "sectionTitle": "Направление: вставьте форму",
+          "context": "Направление: вставьте форму",
+          "prompt": "Idem na ___ (pošta).",
+          "answers": [
+            "poštu"
+          ],
+          "explanation": "Do + родительный; na при направлении + винительный."
+        },
+        {
+          "id": "l5-task-133",
+          "type": "gap",
+          "section": "direction",
+          "sectionTitle": "Направление: вставьте форму",
+          "context": "Направление: вставьте форму",
+          "prompt": "Idem na ___ (univerzita).",
+          "answers": [
+            "univerzitu"
+          ],
+          "explanation": "Do + родительный; na при направлении + винительный."
+        },
+        {
+          "id": "l5-task-134",
+          "type": "gap",
+          "section": "direction",
+          "sectionTitle": "Направление: вставьте форму",
+          "context": "Направление: вставьте форму",
+          "prompt": "Idem na ___ (hrad).",
+          "answers": [
+            "hrad"
+          ],
+          "explanation": "Do + родительный; na при направлении + винительный."
+        },
+        {
+          "id": "l5-task-135",
+          "type": "gap",
+          "section": "direction",
+          "sectionTitle": "Направление: вставьте форму",
+          "context": "Направление: вставьте форму",
+          "prompt": "Idem na ___ (stanica).",
+          "answers": [
+            "stanicu"
+          ],
+          "explanation": "Do + родительный; na при направлении + винительный."
+        },
+        {
+          "id": "l5-task-136",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Мы ищем вокзал.",
+          "answers": [
+            "Hľadáme stanicu."
+          ],
+          "explanation": "Hľadáme stanicu."
+        },
+        {
+          "id": "l5-task-137",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Они ждут поезд.",
+          "answers": [
+            "Čakajú na vlak."
+          ],
+          "explanation": "Čakajú na vlak."
+        },
+        {
+          "id": "l5-task-138",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Я плачу за билет.",
+          "answers": [
+            "Platím za lístok."
+          ],
+          "explanation": "Platím za lístok."
+        },
+        {
+          "id": "l5-task-139",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Это хороший друг.",
+          "answers": [
+            "To je dobrý kamarát."
+          ],
+          "explanation": "To je dobrý kamarát."
+        },
+        {
+          "id": "l5-task-140",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Этот друг хороший.",
+          "answers": [
+            "Ten kamarát je dobrý."
+          ],
+          "explanation": "Ten kamarát je dobrý."
+        },
+        {
+          "id": "l5-task-141",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Я еду на метро.",
+          "answers": [
+            "Cestujem metrom."
+          ],
+          "explanation": "Cestujem metrom."
+        },
+        {
+          "id": "l5-task-142",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Мне, пожалуйста, пять билетов.",
+          "answers": [
+            "Prosím si päť lístkov."
+          ],
+          "explanation": "Prosím si päť lístkov."
+        },
+        {
+          "id": "l5-task-143",
+          "type": "translation",
+          "section": "frequency",
+          "sectionTitle": "Частотность: напишите слово",
+          "context": "Частотность: напишите слово",
+          "prompt": "всегда",
+          "answers": [
+            "vždy"
+          ],
+          "explanation": "Ответ: vždy"
+        },
+        {
+          "id": "l5-task-144",
+          "type": "translation",
+          "section": "frequency",
+          "sectionTitle": "Частотность: напишите слово",
+          "context": "Частотность: напишите слово",
+          "prompt": "часто",
+          "answers": [
+            "často"
+          ],
+          "explanation": "Ответ: často"
+        },
+        {
+          "id": "l5-task-145",
+          "type": "translation",
+          "section": "frequency",
+          "sectionTitle": "Частотность: напишите слово",
+          "context": "Частотность: напишите слово",
+          "prompt": "обычно",
+          "answers": [
+            "zvyčajne",
+            "obyčajne"
+          ],
+          "explanation": "Ответ: zvyčajne / obyčajne"
+        },
+        {
+          "id": "l5-task-146",
+          "type": "translation",
+          "section": "frequency",
+          "sectionTitle": "Частотность: напишите слово",
+          "context": "Частотность: напишите слово",
+          "prompt": "иногда",
+          "answers": [
+            "niekedy"
+          ],
+          "explanation": "Ответ: niekedy"
+        },
+        {
+          "id": "l5-task-147",
+          "type": "translation",
+          "section": "frequency",
+          "sectionTitle": "Частотность: напишите слово",
+          "context": "Частотность: напишите слово",
+          "prompt": "редко",
+          "answers": [
+            "zriedka",
+            "málokedy"
+          ],
+          "explanation": "Ответ: zriedka / málokedy"
+        },
+        {
+          "id": "l5-task-148",
+          "type": "translation",
+          "section": "frequency",
+          "sectionTitle": "Частотность: напишите слово",
+          "context": "Частотность: напишите слово",
+          "prompt": "никогда",
+          "answers": [
+            "nikdy"
+          ],
+          "explanation": "Ответ: nikdy"
+        },
+        {
+          "id": "l5-task-149",
+          "type": "gap",
+          "section": "hobbies",
+          "sectionTitle": "Хобби: вставьте форму",
+          "context": "Хобби: вставьте форму",
+          "prompt": "Mám ___ cestovanie. (говорит мужчина)",
+          "answers": [
+            "rád"
+          ],
+          "explanation": "Rád / rada зависит от говорящего; je / sú — от числа."
+        },
+        {
+          "id": "l5-task-150",
+          "type": "gap",
+          "section": "hobbies",
+          "sectionTitle": "Хобби: вставьте форму",
+          "context": "Хобби: вставьте форму",
+          "prompt": "Mám ___ cestovanie. (говорит женщина)",
+          "answers": [
+            "rada"
+          ],
+          "explanation": "Rád / rada зависит от говорящего; je / sú — от числа."
+        },
+        {
+          "id": "l5-task-151",
+          "type": "gap",
+          "section": "hobbies",
+          "sectionTitle": "Хобби: вставьте форму",
+          "context": "Хобби: вставьте форму",
+          "prompt": "Moje obľúbené hobby ___ kreslenie. (byť)",
+          "answers": [
+            "je"
+          ],
+          "explanation": "Rád / rada зависит от говорящего; je / sú — от числа."
+        },
+        {
+          "id": "l5-task-152",
+          "type": "gap",
+          "section": "hobbies",
+          "sectionTitle": "Хобби: вставьте форму",
+          "context": "Хобби: вставьте форму",
+          "prompt": "Moje obľúbené hobby ___ počítačové hry. (byť)",
+          "answers": [
+            "sú"
+          ],
+          "explanation": "Rád / rada зависит от говорящего; je / sú — от числа."
+        },
+        {
+          "id": "l5-task-153",
+          "type": "situation",
+          "section": "situations",
+          "sectionTitle": "Живые ситуации",
+          "context": "Живые ситуации",
+          "prompt": "В кассе попросите два билета.",
+          "answers": [
+            "Prosím si dva lístky."
+          ],
+          "explanation": "Prosím si dva lístky."
+        },
+        {
+          "id": "l5-task-154",
+          "type": "situation",
+          "section": "situations",
+          "sectionTitle": "Живые ситуации",
+          "context": "Живые ситуации",
+          "prompt": "Спросите, сколько стоит один билет.",
+          "answers": [
+            "Koľko stojí jeden lístok?"
+          ],
+          "explanation": "Koľko stojí jeden lístok?"
+        },
+        {
+          "id": "l5-task-155",
+          "type": "situation",
+          "section": "situations",
+          "sectionTitle": "Живые ситуации",
+          "context": "Живые ситуации",
+          "prompt": "Скажите, что любите путешествия (вы — женщина).",
+          "answers": [
+            "Mám rada cestovanie."
+          ],
+          "explanation": "Mám rada cestovanie."
+        },
+        {
+          "id": "l5-task-156",
+          "type": "situation",
+          "section": "situations",
+          "sectionTitle": "Живые ситуации",
+          "context": "Живые ситуации",
+          "prompt": "Скажите, что ваше любимое хобби — пение.",
+          "answers": [
+            "Moje obľúbené hobby je spievanie."
+          ],
+          "explanation": "Moje obľúbené hobby je spievanie."
+        },
+        {
+          "id": "l5-task-157",
+          "type": "gap",
+          "section": "context-adj",
+          "sectionTitle": "Прилагательные в контексте: вставьте форму",
+          "context": "Прилагательные в контексте: вставьте форму",
+          "prompt": "Slovensko je ___ krajina. (pekný)",
+          "answers": [
+            "pekná"
+          ],
+          "explanation": "В исходном задании прилагательное можно было выбирать; здесь оно дано в скобках для однозначной проверки."
+        },
+        {
+          "id": "l5-task-158",
+          "type": "gap",
+          "section": "context-adj",
+          "sectionTitle": "Прилагательные в контексте: вставьте форму",
+          "context": "Прилагательные в контексте: вставьте форму",
+          "prompt": "Chcem si kúpiť ___ auto. (nový)",
+          "answers": [
+            "nové"
+          ],
+          "explanation": "В исходном задании прилагательное можно было выбирать; здесь оно дано в скобках для однозначной проверки."
+        },
+        {
+          "id": "l5-task-159",
+          "type": "gap",
+          "section": "context-adj",
+          "sectionTitle": "Прилагательные в контексте: вставьте форму",
+          "context": "Прилагательные в контексте: вставьте форму",
+          "prompt": "Nemôžem zavolať. Môj mobil je ___. (vybitý)",
+          "answers": [
+            "vybitý"
+          ],
+          "explanation": "В исходном задании прилагательное можно было выбирать; здесь оно дано в скобках для однозначной проверки."
+        },
+        {
+          "id": "l5-task-160",
+          "type": "gap",
+          "section": "context-adj",
+          "sectionTitle": "Прилагательные в контексте: вставьте форму",
+          "context": "Прилагательные в контексте: вставьте форму",
+          "prompt": "Nepôjdem vlakom. Vlak je ___. (obsadený)",
+          "answers": [
+            "obsadený"
+          ],
+          "explanation": "В исходном задании прилагательное можно было выбирать; здесь оно дано в скобках для однозначной проверки."
+        },
+        {
+          "id": "l5-task-161",
+          "type": "gap",
+          "section": "context-adj",
+          "sectionTitle": "Прилагательные в контексте: вставьте форму",
+          "context": "Прилагательные в контексте: вставьте форму",
+          "prompt": "Prednáška sa rýchlo ukončila, pretože prednáška je ___. (krátky)",
+          "answers": [
+            "krátka"
+          ],
+          "explanation": "В исходном задании прилагательное можно было выбирать; здесь оно дано в скобках для однозначной проверки."
+        },
+        {
+          "id": "l5-task-162",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "___ lístok (полный)",
+          "answers": [
+            "celý"
+          ],
+          "explanation": "celý lístok."
+        },
+        {
+          "id": "l5-task-163",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "___ lístok (половинный)",
+          "answers": [
+            "polovičný"
+          ],
+          "explanation": "polovičný lístok."
+        },
+        {
+          "id": "l5-task-164",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "___ lístok (ученический)",
+          "answers": [
+            "žiacky"
+          ],
+          "explanation": "žiacky lístok."
+        },
+        {
+          "id": "l5-task-165",
+          "type": "gap",
+          "section": "tickets",
+          "sectionTitle": "Билеты: вставьте форму",
+          "context": "Билеты: вставьте форму",
+          "prompt": "___ lístok (студенческий)",
+          "answers": [
+            "študentský"
+          ],
+          "explanation": "študentský lístok."
         }
       ]
     }

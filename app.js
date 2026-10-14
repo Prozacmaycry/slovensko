@@ -1,16 +1,16 @@
 import {cancelPracticeMotion,enterQuestion,exitQuestion,answerFeedback,enterSurface,modalMotion} from './practice-motion.js?v=cards3';
-import {ruleCard} from './rule-cards.js?v=20261010-publish';
-import {loadContent,runtimeLessons,contentStatus} from './content-store.js?v=20261010-publish';
+import {ruleCard} from './rule-cards.js?v=20261014-publish';
+import {loadContent,runtimeLessons,contentStatus} from './content-store.js?v=20261014-publish';
 import {managerHTML,managerClick,managerSubmit,managerImport,managerError,managerAudio} from './lesson-manager.js';
 import {playAudio, stopAudio,setLessonAudio} from './audio.js';
 import{lessons,emptyState,freshProfiles}from'./data.js';
-import {exerciseItems, makeQuestion, normalizeAnswer, trainingMenu, questionHTML} from './exercises.js?v=20261010-publish';
+import {exerciseItems, makeQuestion, normalizeAnswer, trainingMenu, questionHTML} from './exercises.js?v=20261014-publish';
 const baseLessons=[...lessons];
 let practiceTopic='all';
 function syncContent(){lessons.splice(0,lessons.length,...baseLessons,...runtimeLessons());setLessonAudio(lessons.flatMap(l=>l.items))}
 const itemKey=i=>i.id||i.sk;
 const illustrationRoot='src/assets/illustrations/';
-const lessonArt={hello:'greetings',people:'people',pronouns:'pronouns',byt:'byt',ukazovacie:'toto',family:'family',countries:'countries',everyday:'everyday',verbs:'verbs',adjectives:'adjectives','lesson-2026-10-05':'gender-conjugation','lesson-2026-10-06':'home-possessive','lesson-2026-10-09':'countries'};
+const lessonArt={hello:'greetings',people:'people',pronouns:'pronouns',byt:'byt',ukazovacie:'toto',family:'family',countries:'countries',everyday:'everyday',verbs:'verbs',adjectives:'adjectives','lesson-2026-10-05':'gender-conjugation','lesson-2026-10-06':'home-possessive','lesson-2026-10-09':'countries','lesson-2026-10-14':'adjectives'};
 const lessonImage=l=>`<img loading="lazy" decoding="async" src="${illustrationRoot}lesson-${lessonArt[l.id]||'people'}.webp" alt="" aria-hidden="true">`;
 const KEY='slovicko-mvp-v1',$=s=>document.querySelector(s),esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let db;try{db=JSON.parse(localStorage.getItem(KEY))}catch{}if(!db||db.version!==1)db={version:1,profileId:'learner1',profiles:freshProfiles().map(p=>({...p,state:emptyState()}))};for(const p of db.profiles)p.state={...emptyState(),...p.state,stats:{...emptyState().stats,...p.state?.stats},cards:p.state?.cards||{},answers:p.state?.answers||[],learnedLessons:p.state?.learnedLessons||{},customItems:p.state?.customItems||[]};if(!db.profiles.length)db.profiles=freshProfiles().map(p=>({...p,state:emptyState()}));
