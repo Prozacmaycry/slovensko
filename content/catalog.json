@@ -1,5 +1,5 @@
 {
-  "revision": 11,
+  "revision": 12,
   "packages": [
     {
       "schemaVersion": 1,
@@ -9732,6 +9732,2656 @@
             "študentský"
           ],
           "explanation": "študentský lístok."
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "lesson-2026-10-18",
+      "title": "Покупки, цвета и винительный падеж",
+      "description": "Одежда, магазины, еда и напитки, цвета и формы akuzatív.",
+      "status": "published",
+      "words": [
+        {
+          "id": "l6-word-001",
+          "sk": "nakupovať",
+          "ru": "делать покупки",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-002",
+          "sk": "obchodné centrum",
+          "ru": "торговый центр",
+          "type": "phrase"
+        },
+        {
+          "id": "l6-word-003",
+          "sk": "vchod",
+          "ru": "вход",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-004",
+          "sk": "elektro",
+          "ru": "электротовары",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-005",
+          "sk": "odevy",
+          "ru": "одежда",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-006",
+          "sk": "obuv",
+          "ru": "обувь",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-007",
+          "sk": "lekáreň",
+          "ru": "аптека",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-008",
+          "sk": "drogéria",
+          "ru": "магазин бытовой химии и косметики",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-009",
+          "sk": "papierníctvo",
+          "ru": "канцелярский магазин",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-010",
+          "sk": "kníhkupectvo",
+          "ru": "книжный магазин",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-011",
+          "sk": "kvetinárstvo",
+          "ru": "цветочный магазин",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-012",
+          "sk": "trafika",
+          "ru": "табачный и газетный киоск",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-013",
+          "sk": "optická myš",
+          "ru": "оптическая мышь",
+          "type": "phrase"
+        },
+        {
+          "id": "l6-word-014",
+          "sk": "batéria",
+          "ru": "батарейка, аккумулятор",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-015",
+          "sk": "televízor",
+          "ru": "телевизор",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-016",
+          "sk": "rádio",
+          "ru": "радио",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-017",
+          "sk": "žiarovka",
+          "ru": "лампочка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-018",
+          "sk": "USB kľúč",
+          "ru": "флешка",
+          "type": "phrase"
+        },
+        {
+          "id": "l6-word-019",
+          "sk": "blúzka",
+          "ru": "блузка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-020",
+          "sk": "čiapka",
+          "ru": "шапка, кепка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-021",
+          "sk": "sveter",
+          "ru": "свитер",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-022",
+          "sk": "pulóver",
+          "ru": "пуловер",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-023",
+          "sk": "kabát",
+          "ru": "пальто",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-024",
+          "sk": "šál",
+          "ru": "шарф",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-025",
+          "sk": "sako",
+          "ru": "пиджак",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-026",
+          "sk": "kravata",
+          "ru": "галстук",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-027",
+          "sk": "košeľa",
+          "ru": "рубашка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-028",
+          "sk": "tričko",
+          "ru": "футболка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-029",
+          "sk": "krátke nohavice",
+          "ru": "шорты",
+          "type": "phrase"
+        },
+        {
+          "id": "l6-word-030",
+          "sk": "sukňa",
+          "ru": "юбка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-031",
+          "sk": "opasok",
+          "ru": "ремень",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-032",
+          "sk": "oblek",
+          "ru": "костюм",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-033",
+          "sk": "nohavice",
+          "ru": "брюки",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-034",
+          "sk": "topánka",
+          "ru": "туфля, ботинок",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-035",
+          "sk": "ponožka",
+          "ru": "носок",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-036",
+          "sk": "čižma",
+          "ru": "сапог",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-037",
+          "sk": "papuča",
+          "ru": "тапочек",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-038",
+          "sk": "lodička",
+          "ru": "туфля-лодочка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-039",
+          "sk": "teniska",
+          "ru": "кроссовка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-040",
+          "sk": "sandála",
+          "ru": "сандалия",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-041",
+          "sk": "tabletka",
+          "ru": "таблетка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-042",
+          "sk": "sirup",
+          "ru": "сироп",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-043",
+          "sk": "lieky",
+          "ru": "лекарства",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-044",
+          "sk": "sprchovací gél",
+          "ru": "гель для душа",
+          "type": "phrase"
+        },
+        {
+          "id": "l6-word-045",
+          "sk": "šampón",
+          "ru": "шампунь",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-046",
+          "sk": "sviečka",
+          "ru": "свеча",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-047",
+          "sk": "servítka",
+          "ru": "салфетка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-048",
+          "sk": "zubná pasta",
+          "ru": "зубная паста",
+          "type": "phrase"
+        },
+        {
+          "id": "l6-word-049",
+          "sk": "toaletný papier",
+          "ru": "туалетная бумага",
+          "type": "phrase"
+        },
+        {
+          "id": "l6-word-050",
+          "sk": "mydlo",
+          "ru": "мыло",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-051",
+          "sk": "časopis",
+          "ru": "журнал",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-052",
+          "sk": "jedlo",
+          "ru": "еда",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-053",
+          "sk": "nápoj",
+          "ru": "напиток",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-054",
+          "sk": "alkoholický",
+          "ru": "алкогольный",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-055",
+          "sk": "nealkoholický",
+          "ru": "безалкогольный",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-056",
+          "sk": "maslo",
+          "ru": "сливочное масло",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-057",
+          "sk": "šunka",
+          "ru": "ветчина",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-058",
+          "sk": "med",
+          "ru": "мёд",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-059",
+          "sk": "saláma",
+          "ru": "колбаса",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-060",
+          "sk": "džem",
+          "ru": "джем",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-061",
+          "sk": "párok",
+          "ru": "сосиска",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-062",
+          "sk": "chlieb",
+          "ru": "хлеб",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-063",
+          "sk": "čokoláda",
+          "ru": "шоколад",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-064",
+          "sk": "soľ",
+          "ru": "соль",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-065",
+          "sk": "cukor",
+          "ru": "сахар",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-066",
+          "sk": "korenie",
+          "ru": "специи, перец",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-067",
+          "sk": "vajce",
+          "ru": "яйцо",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-068",
+          "sk": "vajíčko",
+          "ru": "яичко, яйцо",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-069",
+          "sk": "smotana",
+          "ru": "сливки",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-070",
+          "sk": "jogurt",
+          "ru": "йогурт",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-071",
+          "sk": "syr",
+          "ru": "сыр",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-072",
+          "sk": "müsli",
+          "ru": "мюсли",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-073",
+          "sk": "pečivo",
+          "ru": "хлебобулочные изделия",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-074",
+          "sk": "rožok",
+          "ru": "рогалик",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-075",
+          "sk": "žemľa",
+          "ru": "булочка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-076",
+          "sk": "bageta",
+          "ru": "багет",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-077",
+          "sk": "minerálka",
+          "ru": "минеральная вода",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-078",
+          "sk": "pivo",
+          "ru": "пиво",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-079",
+          "sk": "kola",
+          "ru": "кола",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-080",
+          "sk": "džús",
+          "ru": "сок",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-081",
+          "sk": "čaj",
+          "ru": "чай",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-082",
+          "sk": "káva",
+          "ru": "кофе",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-083",
+          "sk": "víno",
+          "ru": "вино",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-084",
+          "sk": "limonáda",
+          "ru": "лимонад",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-085",
+          "sk": "mlieko",
+          "ru": "молоко",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-086",
+          "sk": "ovocie",
+          "ru": "фрукты",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-087",
+          "sk": "zelenina",
+          "ru": "овощи",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-088",
+          "sk": "pomaranč",
+          "ru": "апельсин",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-089",
+          "sk": "melón",
+          "ru": "арбуз, дыня",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-090",
+          "sk": "hruška",
+          "ru": "груша",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-091",
+          "sk": "ananás",
+          "ru": "ананас",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-092",
+          "sk": "hrach",
+          "ru": "горох",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-093",
+          "sk": "paprika",
+          "ru": "перец (овощ)",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-094",
+          "sk": "uhorka",
+          "ru": "огурец",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-095",
+          "sk": "zemiak",
+          "ru": "картофелина",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-096",
+          "sk": "kukurica",
+          "ru": "кукуруза",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-097",
+          "sk": "oliva",
+          "ru": "оливка",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-098",
+          "sk": "hnedá",
+          "ru": "коричневая",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-099",
+          "sk": "ružová",
+          "ru": "розовая",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-100",
+          "sk": "čierna",
+          "ru": "чёрная",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-101",
+          "sk": "zelená",
+          "ru": "зелёная",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-102",
+          "sk": "modrá",
+          "ru": "синяя",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-103",
+          "sk": "fialová",
+          "ru": "фиолетовая",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-104",
+          "sk": "sivá",
+          "ru": "серая",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-105",
+          "sk": "biela",
+          "ru": "белая",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-106",
+          "sk": "žltá",
+          "ru": "жёлтая",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-107",
+          "sk": "oranžová",
+          "ru": "оранжевая",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-108",
+          "sk": "červená",
+          "ru": "красная",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-109",
+          "sk": "svetlomodrá",
+          "ru": "светло-синяя, голубая",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-110",
+          "sk": "tmavomodrá",
+          "ru": "тёмно-синяя",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-111",
+          "sk": "čierno-biely",
+          "ru": "чёрно-белый",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-112",
+          "sk": "bielo-modro-červená",
+          "ru": "бело-сине-красная",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-113",
+          "sk": "taliansko-slovenský",
+          "ru": "итальянско-словацкий",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-114",
+          "sk": "slovensko-taliansky",
+          "ru": "словацко-итальянский",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-115",
+          "sk": "narodeniny",
+          "ru": "день рождения",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-116",
+          "sk": "narodeninová oslava",
+          "ru": "празднование дня рождения",
+          "type": "phrase"
+        },
+        {
+          "id": "l6-word-117",
+          "sk": "darček",
+          "ru": "подарок",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-118",
+          "sk": "prekvapenie",
+          "ru": "сюрприз",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-119",
+          "sk": "torta",
+          "ru": "торт",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-120",
+          "sk": "koncert",
+          "ru": "концерт",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-121",
+          "sk": "pripravovať",
+          "ru": "готовить, подготавливать",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-122",
+          "sk": "potrebovať",
+          "ru": "нуждаться, требоваться",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-123",
+          "sk": "kupovať",
+          "ru": "покупать",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-124",
+          "sk": "pozývať",
+          "ru": "приглашать",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-125",
+          "sk": "ďakovať",
+          "ru": "благодарить",
+          "type": "word"
+        },
+        {
+          "id": "l6-word-126",
+          "sk": "šoférovať",
+          "ru": "водить автомобиль",
+          "type": "word"
+        }
+      ],
+      "rules": [
+        {
+          "id": "l6-rule-acc",
+          "title": "Akuzatív — кого? что?",
+          "text": "Таблица со слайда относится к неодушевлённым существительным мужского рода, женскому и среднему роду. Мужской личный род требует других форм: Vidím muža.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Род",
+              "Исходная форма",
+              "Винительный ед.",
+              "Винительный мн."
+            ],
+            "rows": [
+              [
+                "Мужской неодуш.",
+                "ten pekný plán",
+                "ten pekný plán",
+                "tie pekné plány"
+              ],
+              [
+                "Мужской неодуш.",
+                "ten pekný počítač",
+                "ten pekný počítač",
+                "tie pekné počítače"
+              ],
+              [
+                "Женский",
+                "tá pekná žena",
+                "tú peknú ženu",
+                "tie pekné ženy"
+              ],
+              [
+                "Женский",
+                "tá pekná stanica",
+                "tú peknú stanicu",
+                "tie pekné stanice"
+              ],
+              [
+                "Средний",
+                "to pekné mesto",
+                "to pekné mesto",
+                "tie pekné mestá"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l6-rule-models",
+          "title": "Особые модели и изменения основы",
+          "text": "Не каждое существительное женского рода меняет окончание в единственном числе: miestnosť остаётся miestnosť.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Модель",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "loď",
+                "Spievam peknú pieseň. / pekné piesne."
+              ],
+              [
+                "miestnosť",
+                "Hľadáme voľnú miestnosť. / voľné miestnosti."
+              ],
+              [
+                "námestie",
+                "Máte krátke cvičenie. / krátke cvičenia."
+              ],
+              [
+                "Выпадает гласная",
+                "lekáreň → lekárne; týždeň → týždne; lístok → lístky"
+              ],
+              [
+                "ô → o",
+                "stôl → stoly; kôš → koše"
+              ],
+              [
+                "Расширение основы",
+                "dievča → dievčatá"
+              ],
+              [
+                "Особые формы",
+                "dieťa → deti; deň → dni"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l6-rule-colors",
+          "title": "Farby — цвета",
+          "text": "На слайде названия цветов даны в женском роде: farba. Для других существительных согласуйте окончание: modrý sveter, modrá košeľa, modré tričko. Biela и čierna — с кратким a.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Мужской",
+              "Женский",
+              "Средний"
+            ],
+            "rows": [
+              [
+                "hnedý",
+                "hnedá",
+                "hnedé"
+              ],
+              [
+                "ružový",
+                "ružová",
+                "ružové"
+              ],
+              [
+                "čierny",
+                "čierna",
+                "čierne"
+              ],
+              [
+                "zelený",
+                "zelená",
+                "zelené"
+              ],
+              [
+                "modrý",
+                "modrá",
+                "modré"
+              ],
+              [
+                "fialový",
+                "fialová",
+                "fialové"
+              ],
+              [
+                "sivý",
+                "sivá",
+                "sivé"
+              ],
+              [
+                "biely",
+                "biela",
+                "biele"
+              ],
+              [
+                "žltý",
+                "žltá",
+                "žlté"
+              ],
+              [
+                "oranžový",
+                "oranžová",
+                "oranžové"
+              ],
+              [
+                "červený",
+                "červená",
+                "červené"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l6-rule-compound",
+          "title": "Оттенки и составные прилагательные",
+          "text": "Светлый/тёмный оттенок пишется слитно. Равноправные цвета или языки в этих примерах соединяются дефисом.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Пример",
+              "Значение"
+            ],
+            "rows": [
+              [
+                "svetlomodrá / tmavomodrá",
+                "светло-синяя / тёмно-синяя"
+              ],
+              [
+                "čierno-biely televízor",
+                "чёрно-белый телевизор"
+              ],
+              [
+                "bielo-modro-červená vlajka",
+                "бело-сине-красный флаг"
+              ],
+              [
+                "taliansko-slovenský slovník",
+                "итальянско-словацкий словарь"
+              ],
+              [
+                "slovensko-taliansky slovník",
+                "словацко-итальянский словарь"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l6-rule-verbs",
+          "title": "Глаголы и предлоги с винительным",
+          "text": "Примеры построены по списку на слайде. После ďakovať za благодарят за что-то; адресат благодарности требует дательного.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Конструкция",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "mať / potrebovať / kupovať",
+                "Mám knihu. Potrebujem chlieb. Kupujem kávu."
+              ],
+              [
+                "hľadať / vidieť",
+                "Hľadám stanicu. Vidím auto."
+              ],
+              [
+                "čakať na / pozerať sa na",
+                "Čakám na vlak. Pozerám sa na televízor."
+              ],
+              [
+                "platiť za / ďakovať za",
+                "Platím za lístok. Ďakujem za darček."
+              ],
+              [
+                "pozývať na / tešiť sa na",
+                "Pozývam vás na koncert. Teším sa na oslavu."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l6-rule-reading",
+          "title": "Narodeninová oslava — чтение",
+          "text": "Текст со слайда передан по смыслу; вопросы относятся только к явно указанным фактам.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Текст",
+              "Перевод"
+            ],
+            "rows": [
+              [
+                "Carlo má dnes narodeniny. Zuzana a Johanna pripravujú narodeninovú oslavu.",
+                "У Карло сегодня день рождения. Зузана и Йоханна готовят праздник."
+              ],
+              [
+                "Potrebujú čerstvý chlieb, červenú papriku a maslo.",
+                "Им нужны свежий хлеб, красный перец и масло."
+              ],
+              [
+                "Johanna kupuje pomarančový džús, dobrú kávu a nealkoholické pivo.",
+                "Йоханна покупает апельсиновый сок, хороший кофе и безалкогольное пиво."
+              ],
+              [
+                "Hľadá mydlo, toaletný papier a svetlé sviečky na tortu. Kupuje aj optickú myš ako darček.",
+                "Она ищет мыло, туалетную бумагу и светлые свечи для торта. Также покупает оптическую мышь в подарок."
+              ],
+              [
+                "Carlo pozýva Johannu a Zuzanu na koncert. Má štyri lístky. Nepije alkohol, lebo šoféruje firemné auto.",
+                "Карло приглашает Йоханну и Зузану на концерт. У него четыре билета. Он не пьёт алкоголь, потому что ведёт служебный автомобиль."
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "l6-task-001",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (dom).",
+          "answers": [
+            "dom"
+          ],
+          "explanation": "Mám dom."
+        },
+        {
+          "id": "l6-task-002",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (jablko).",
+          "answers": [
+            "jablko"
+          ],
+          "explanation": "Mám jablko."
+        },
+        {
+          "id": "l6-task-003",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (voda).",
+          "answers": [
+            "vodu"
+          ],
+          "explanation": "Mám vodu."
+        },
+        {
+          "id": "l6-task-004",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (auto).",
+          "answers": [
+            "auto"
+          ],
+          "explanation": "Mám auto."
+        },
+        {
+          "id": "l6-task-005",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (posteľ).",
+          "answers": [
+            "posteľ"
+          ],
+          "explanation": "Mám posteľ."
+        },
+        {
+          "id": "l6-task-006",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (káva).",
+          "answers": [
+            "kávu"
+          ],
+          "explanation": "Mám kávu."
+        },
+        {
+          "id": "l6-task-007",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (kniha).",
+          "answers": [
+            "knihu"
+          ],
+          "explanation": "Mám knihu."
+        },
+        {
+          "id": "l6-task-008",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (žena).",
+          "answers": [
+            "ženu"
+          ],
+          "explanation": "Mám ženu."
+        },
+        {
+          "id": "l6-task-009",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (stanica).",
+          "answers": [
+            "stanicu"
+          ],
+          "explanation": "Mám stanicu."
+        },
+        {
+          "id": "l6-task-010",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (mesto).",
+          "answers": [
+            "mesto"
+          ],
+          "explanation": "Mám mesto."
+        },
+        {
+          "id": "l6-task-011",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (plán).",
+          "answers": [
+            "plán"
+          ],
+          "explanation": "Mám plán."
+        },
+        {
+          "id": "l6-task-012",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (počítač).",
+          "answers": [
+            "počítač"
+          ],
+          "explanation": "Mám počítač."
+        },
+        {
+          "id": "l6-task-013",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (košeľa).",
+          "answers": [
+            "košeľu"
+          ],
+          "explanation": "Mám košeľu."
+        },
+        {
+          "id": "l6-task-014",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (sukňa).",
+          "answers": [
+            "sukňu"
+          ],
+          "explanation": "Mám sukňu."
+        },
+        {
+          "id": "l6-task-015",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (čiapka).",
+          "answers": [
+            "čiapku"
+          ],
+          "explanation": "Mám čiapku."
+        },
+        {
+          "id": "l6-task-016",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (čokoláda).",
+          "answers": [
+            "čokoládu"
+          ],
+          "explanation": "Mám čokoládu."
+        },
+        {
+          "id": "l6-task-017",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (hruška).",
+          "answers": [
+            "hrušku"
+          ],
+          "explanation": "Mám hrušku."
+        },
+        {
+          "id": "l6-task-018",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (uhorka).",
+          "answers": [
+            "uhorku"
+          ],
+          "explanation": "Mám uhorku."
+        },
+        {
+          "id": "l6-task-019",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (paprika).",
+          "answers": [
+            "papriku"
+          ],
+          "explanation": "Mám papriku."
+        },
+        {
+          "id": "l6-task-020",
+          "type": "gap",
+          "section": "accusative",
+          "sectionTitle": "Вставьте форму: винительный падеж",
+          "context": "Вставьте форму: винительный падеж",
+          "prompt": "Mám ___ (mydlo).",
+          "answers": [
+            "mydlo"
+          ],
+          "explanation": "Mám mydlo."
+        },
+        {
+          "id": "l6-task-021",
+          "type": "gap",
+          "section": "acc-phrases",
+          "sectionTitle": "Вставьте форму: прилагательное и существительное",
+          "context": "Вставьте форму: прилагательное и существительное",
+          "prompt": "Potrebujem ___ (pekná žena).",
+          "answers": [
+            "peknú ženu"
+          ],
+          "explanation": "Potrebujem peknú ženu."
+        },
+        {
+          "id": "l6-task-022",
+          "type": "gap",
+          "section": "acc-phrases",
+          "sectionTitle": "Вставьте форму: прилагательное и существительное",
+          "context": "Вставьте форму: прилагательное и существительное",
+          "prompt": "Potrebujem ___ (pekná stanica).",
+          "answers": [
+            "peknú stanicu"
+          ],
+          "explanation": "Potrebujem peknú stanicu."
+        },
+        {
+          "id": "l6-task-023",
+          "type": "gap",
+          "section": "acc-phrases",
+          "sectionTitle": "Вставьте форму: прилагательное и существительное",
+          "context": "Вставьте форму: прилагательное и существительное",
+          "prompt": "Potrebujem ___ (červená paprika).",
+          "answers": [
+            "červenú papriku"
+          ],
+          "explanation": "Potrebujem červenú papriku."
+        },
+        {
+          "id": "l6-task-024",
+          "type": "gap",
+          "section": "acc-phrases",
+          "sectionTitle": "Вставьте форму: прилагательное и существительное",
+          "context": "Вставьте форму: прилагательное и существительное",
+          "prompt": "Potrebujem ___ (dobrá káva).",
+          "answers": [
+            "dobrú kávu"
+          ],
+          "explanation": "Potrebujem dobrú kávu."
+        },
+        {
+          "id": "l6-task-025",
+          "type": "gap",
+          "section": "acc-phrases",
+          "sectionTitle": "Вставьте форму: прилагательное и существительное",
+          "context": "Вставьте форму: прилагательное и существительное",
+          "prompt": "Potrebujem ___ (optická myš).",
+          "answers": [
+            "optickú myš"
+          ],
+          "explanation": "Potrebujem optickú myš."
+        },
+        {
+          "id": "l6-task-026",
+          "type": "gap",
+          "section": "acc-phrases",
+          "sectionTitle": "Вставьте форму: прилагательное и существительное",
+          "context": "Вставьте форму: прилагательное и существительное",
+          "prompt": "Potrebujem ___ (modrá košeľa).",
+          "answers": [
+            "modrú košeľu"
+          ],
+          "explanation": "Potrebujem modrú košeľu."
+        },
+        {
+          "id": "l6-task-027",
+          "type": "gap",
+          "section": "acc-phrases",
+          "sectionTitle": "Вставьте форму: прилагательное и существительное",
+          "context": "Вставьте форму: прилагательное и существительное",
+          "prompt": "Potrebujem ___ (biela blúzka).",
+          "answers": [
+            "bielu blúzku"
+          ],
+          "explanation": "Potrebujem bielu blúzku."
+        },
+        {
+          "id": "l6-task-028",
+          "type": "gap",
+          "section": "acc-phrases",
+          "sectionTitle": "Вставьте форму: прилагательное и существительное",
+          "context": "Вставьте форму: прилагательное и существительное",
+          "prompt": "Potrebujem ___ (voľná miestnosť).",
+          "answers": [
+            "voľnú miestnosť"
+          ],
+          "explanation": "Potrebujem voľnú miestnosť."
+        },
+        {
+          "id": "l6-task-029",
+          "type": "gap",
+          "section": "acc-phrases",
+          "sectionTitle": "Вставьте форму: прилагательное и существительное",
+          "context": "Вставьте форму: прилагательное и существительное",
+          "prompt": "Potrebujem ___ (čerstvý chlieb).",
+          "answers": [
+            "čerstvý chlieb"
+          ],
+          "explanation": "Potrebujem čerstvý chlieb."
+        },
+        {
+          "id": "l6-task-030",
+          "type": "gap",
+          "section": "acc-phrases",
+          "sectionTitle": "Вставьте форму: прилагательное и существительное",
+          "context": "Вставьте форму: прилагательное и существительное",
+          "prompt": "Potrebujem ___ (krátke cvičenie).",
+          "answers": [
+            "krátke cvičenie"
+          ],
+          "explanation": "Potrebujem krátke cvičenie."
+        },
+        {
+          "id": "l6-task-031",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму указательного слова",
+          "context": "Определите форму указательного слова",
+          "prompt": "Vidím ___ ženu. (tá)",
+          "answers": [
+            "tú"
+          ],
+          "explanation": "Выберите форму винительного падежа.",
+          "options": [
+            "ten",
+            "tá",
+            "tú",
+            "to",
+            "tie"
+          ]
+        },
+        {
+          "id": "l6-task-032",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму указательного слова",
+          "context": "Определите форму указательного слова",
+          "prompt": "Mám ___ knihu. (tá)",
+          "answers": [
+            "tú"
+          ],
+          "explanation": "Выберите форму винительного падежа.",
+          "options": [
+            "ten",
+            "tá",
+            "tú",
+            "to",
+            "tie"
+          ]
+        },
+        {
+          "id": "l6-task-033",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму указательного слова",
+          "context": "Определите форму указательного слова",
+          "prompt": "Vidím ___ auto. (to)",
+          "answers": [
+            "to"
+          ],
+          "explanation": "Выберите форму винительного падежа.",
+          "options": [
+            "ten",
+            "tá",
+            "tú",
+            "to",
+            "tie"
+          ]
+        },
+        {
+          "id": "l6-task-034",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму указательного слова",
+          "context": "Определите форму указательного слова",
+          "prompt": "Vidím ___ počítač. (ten)",
+          "answers": [
+            "ten"
+          ],
+          "explanation": "Выберите форму винительного падежа.",
+          "options": [
+            "ten",
+            "tá",
+            "tú",
+            "to",
+            "tie"
+          ]
+        },
+        {
+          "id": "l6-task-035",
+          "type": "choice",
+          "section": "identify",
+          "sectionTitle": "Определите форму указательного слова",
+          "context": "Определите форму указательного слова",
+          "prompt": "Vidím ___ mestá. (tie)",
+          "answers": [
+            "tie"
+          ],
+          "explanation": "Выберите форму винительного падежа.",
+          "options": [
+            "ten",
+            "tá",
+            "tú",
+            "to",
+            "tie"
+          ]
+        },
+        {
+          "id": "l6-task-036",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "коричневая (женский род)",
+          "answers": [
+            "hnedá"
+          ],
+          "explanation": "hnedá"
+        },
+        {
+          "id": "l6-task-037",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "розовая (женский род)",
+          "answers": [
+            "ružová"
+          ],
+          "explanation": "ružová"
+        },
+        {
+          "id": "l6-task-038",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "чёрная (женский род)",
+          "answers": [
+            "čierna"
+          ],
+          "explanation": "čierna"
+        },
+        {
+          "id": "l6-task-039",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "зелёная (женский род)",
+          "answers": [
+            "zelená"
+          ],
+          "explanation": "zelená"
+        },
+        {
+          "id": "l6-task-040",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "синяя (женский род)",
+          "answers": [
+            "modrá"
+          ],
+          "explanation": "modrá"
+        },
+        {
+          "id": "l6-task-041",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "фиолетовая (женский род)",
+          "answers": [
+            "fialová"
+          ],
+          "explanation": "fialová"
+        },
+        {
+          "id": "l6-task-042",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "серая (женский род)",
+          "answers": [
+            "sivá"
+          ],
+          "explanation": "sivá"
+        },
+        {
+          "id": "l6-task-043",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "белая (женский род)",
+          "answers": [
+            "biela"
+          ],
+          "explanation": "biela"
+        },
+        {
+          "id": "l6-task-044",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "жёлтая (женский род)",
+          "answers": [
+            "žltá"
+          ],
+          "explanation": "žltá"
+        },
+        {
+          "id": "l6-task-045",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "оранжевая (женский род)",
+          "answers": [
+            "oranžová"
+          ],
+          "explanation": "oranžová"
+        },
+        {
+          "id": "l6-task-046",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "красная (женский род)",
+          "answers": [
+            "červená"
+          ],
+          "explanation": "červená"
+        },
+        {
+          "id": "l6-task-047",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "светло-синяя, голубая (женский род)",
+          "answers": [
+            "svetlomodrá"
+          ],
+          "explanation": "svetlomodrá"
+        },
+        {
+          "id": "l6-task-048",
+          "type": "translation",
+          "section": "colors",
+          "sectionTitle": "Цвета: напишите по-словацки",
+          "context": "Цвета: напишите по-словацки",
+          "prompt": "тёмно-синяя (женский род)",
+          "answers": [
+            "tmavomodrá"
+          ],
+          "explanation": "tmavomodrá"
+        },
+        {
+          "id": "l6-task-049",
+          "type": "gap",
+          "section": "color-forms",
+          "sectionTitle": "Цвета: вставьте форму",
+          "context": "Цвета: вставьте форму",
+          "prompt": "Kupujem ___ košeľu. (modrý)",
+          "answers": [
+            "modrú"
+          ],
+          "explanation": "Košeľa → košeľu: женский род, винительный падеж."
+        },
+        {
+          "id": "l6-task-050",
+          "type": "gap",
+          "section": "color-forms",
+          "sectionTitle": "Цвета: вставьте форму",
+          "context": "Цвета: вставьте форму",
+          "prompt": "Kupujem ___ košeľu. (červený)",
+          "answers": [
+            "červenú"
+          ],
+          "explanation": "Košeľa → košeľu: женский род, винительный падеж."
+        },
+        {
+          "id": "l6-task-051",
+          "type": "gap",
+          "section": "color-forms",
+          "sectionTitle": "Цвета: вставьте форму",
+          "context": "Цвета: вставьте форму",
+          "prompt": "Kupujem ___ košeľu. (biely)",
+          "answers": [
+            "bielu"
+          ],
+          "explanation": "Košeľa → košeľu: женский род, винительный падеж."
+        },
+        {
+          "id": "l6-task-052",
+          "type": "gap",
+          "section": "color-forms",
+          "sectionTitle": "Цвета: вставьте форму",
+          "context": "Цвета: вставьте форму",
+          "prompt": "Kupujem ___ košeľu. (čierny)",
+          "answers": [
+            "čiernu"
+          ],
+          "explanation": "Košeľa → košeľu: женский род, винительный падеж."
+        },
+        {
+          "id": "l6-task-053",
+          "type": "gap",
+          "section": "color-forms",
+          "sectionTitle": "Цвета: вставьте форму",
+          "context": "Цвета: вставьте форму",
+          "prompt": "Kupujem ___ košeľu. (zelený)",
+          "answers": [
+            "zelenú"
+          ],
+          "explanation": "Košeľa → košeľu: женский род, винительный падеж."
+        },
+        {
+          "id": "l6-task-054",
+          "type": "gap",
+          "section": "color-forms",
+          "sectionTitle": "Цвета: вставьте форму",
+          "context": "Цвета: вставьте форму",
+          "prompt": "Kupujem ___ košeľu. (žltý)",
+          "answers": [
+            "žltú"
+          ],
+          "explanation": "Košeľa → košeľu: женский род, винительный падеж."
+        },
+        {
+          "id": "l6-task-055",
+          "type": "gap",
+          "section": "plural",
+          "sectionTitle": "Вставьте форму: множественное число",
+          "context": "Вставьте форму: множественное число",
+          "prompt": "Напишите множественное число: čižma",
+          "answers": [
+            "čižmy"
+          ],
+          "explanation": "čižma → čižmy."
+        },
+        {
+          "id": "l6-task-056",
+          "type": "gap",
+          "section": "plural",
+          "sectionTitle": "Вставьте форму: множественное число",
+          "context": "Вставьте форму: множественное число",
+          "prompt": "Напишите множественное число: papuča",
+          "answers": [
+            "papuče"
+          ],
+          "explanation": "papuča → papuče."
+        },
+        {
+          "id": "l6-task-057",
+          "type": "gap",
+          "section": "plural",
+          "sectionTitle": "Вставьте форму: множественное число",
+          "context": "Вставьте форму: множественное число",
+          "prompt": "Напишите множественное число: topánka",
+          "answers": [
+            "topánky"
+          ],
+          "explanation": "topánka → topánky."
+        },
+        {
+          "id": "l6-task-058",
+          "type": "gap",
+          "section": "plural",
+          "sectionTitle": "Вставьте форму: множественное число",
+          "context": "Вставьте форму: множественное число",
+          "prompt": "Напишите множественное число: lodička",
+          "answers": [
+            "lodičky"
+          ],
+          "explanation": "lodička → lodičky."
+        },
+        {
+          "id": "l6-task-059",
+          "type": "gap",
+          "section": "plural",
+          "sectionTitle": "Вставьте форму: множественное число",
+          "context": "Вставьте форму: множественное число",
+          "prompt": "Напишите множественное число: teniska",
+          "answers": [
+            "tenisky"
+          ],
+          "explanation": "teniska → tenisky."
+        },
+        {
+          "id": "l6-task-060",
+          "type": "gap",
+          "section": "plural",
+          "sectionTitle": "Вставьте форму: множественное число",
+          "context": "Вставьте форму: множественное число",
+          "prompt": "Напишите множественное число: sandála",
+          "answers": [
+            "sandále"
+          ],
+          "explanation": "sandála → sandále."
+        },
+        {
+          "id": "l6-task-061",
+          "type": "gap",
+          "section": "plural",
+          "sectionTitle": "Вставьте форму: множественное число",
+          "context": "Вставьте форму: множественное число",
+          "prompt": "Напишите множественное число: párok",
+          "answers": [
+            "párky"
+          ],
+          "explanation": "párok → párky."
+        },
+        {
+          "id": "l6-task-062",
+          "type": "gap",
+          "section": "plural",
+          "sectionTitle": "Вставьте форму: множественное число",
+          "context": "Вставьте форму: множественное число",
+          "prompt": "Напишите множественное число: servítka",
+          "answers": [
+            "servítky"
+          ],
+          "explanation": "servítka → servítky."
+        },
+        {
+          "id": "l6-task-063",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Я покупаю кофе.",
+          "answers": [
+            "Kupujem kávu."
+          ],
+          "explanation": "Kupujem kávu."
+        },
+        {
+          "id": "l6-task-064",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Мне нужен хлеб.",
+          "answers": [
+            "Potrebujem chlieb."
+          ],
+          "explanation": "Potrebujem chlieb."
+        },
+        {
+          "id": "l6-task-065",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "У меня есть книга.",
+          "answers": [
+            "Mám knihu."
+          ],
+          "explanation": "Mám knihu."
+        },
+        {
+          "id": "l6-task-066",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Я ищу свободную комнату.",
+          "answers": [
+            "Hľadám voľnú miestnosť."
+          ],
+          "explanation": "Hľadám voľnú miestnosť."
+        },
+        {
+          "id": "l6-task-067",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Я плачу за билет.",
+          "answers": [
+            "Platím za lístok."
+          ],
+          "explanation": "Platím za lístok."
+        },
+        {
+          "id": "l6-task-068",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите фразу",
+          "context": "Напишите фразу",
+          "prompt": "Спасибо за подарок.",
+          "answers": [
+            "Ďakujem za darček."
+          ],
+          "explanation": "Ďakujem za darček."
+        },
+        {
+          "id": "l6-task-069",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Kto má dnes narodeniny?",
+          "answers": [
+            "Carlo"
+          ],
+          "explanation": "Ответ указан в таблице «Narodeninová oslava».",
+          "options": [
+            "Carlo",
+            "Johanna",
+            "Zuzana"
+          ]
+        },
+        {
+          "id": "l6-task-070",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Čo kupuje Johanna ako darček?",
+          "answers": [
+            "optickú myš"
+          ],
+          "explanation": "Ответ указан в таблице «Narodeninová oslava».",
+          "options": [
+            "optickú myš",
+            "košeľu",
+            "knihu"
+          ]
+        },
+        {
+          "id": "l6-task-071",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Koľko lístkov má Carlo?",
+          "answers": [
+            "štyri"
+          ],
+          "explanation": "Ответ указан в таблице «Narodeninová oslava».",
+          "options": [
+            "dva",
+            "tri",
+            "štyri"
+          ]
+        },
+        {
+          "id": "l6-task-072",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Prečo Carlo nepije alkohol?",
+          "answers": [
+            "Šoféruje auto."
+          ],
+          "explanation": "Ответ указан в таблице «Narodeninová oslava».",
+          "options": [
+            "Šoféruje auto.",
+            "Nemá lístok.",
+            "Kupuje kávu."
+          ]
+        },
+        {
+          "id": "l6-task-073",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "blúzka",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "blúzka → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-074",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "čiapka",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "čiapka → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-075",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "sveter",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "sveter → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-076",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "pulóver",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "pulóver → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-077",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "kabát",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "kabát → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-078",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "šál",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "šál → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-079",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "sako",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "sako → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-080",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "kravata",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "kravata → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-081",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "košeľa",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "košeľa → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-082",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "tričko",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "tričko → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-083",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "sukňa",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "sukňa → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-084",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "opasok",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "opasok → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-085",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "oblek",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "oblek → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-086",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "nohavice",
+          "answers": [
+            "Одежда"
+          ],
+          "explanation": "nohavice → Одежда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-087",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "čižma",
+          "answers": [
+            "Обувь"
+          ],
+          "explanation": "čižma → Обувь.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-088",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "papuča",
+          "answers": [
+            "Обувь"
+          ],
+          "explanation": "papuča → Обувь.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-089",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "topánka",
+          "answers": [
+            "Обувь"
+          ],
+          "explanation": "topánka → Обувь.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-090",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "lodička",
+          "answers": [
+            "Обувь"
+          ],
+          "explanation": "lodička → Обувь.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-091",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "teniska",
+          "answers": [
+            "Обувь"
+          ],
+          "explanation": "teniska → Обувь.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-092",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "sandála",
+          "answers": [
+            "Обувь"
+          ],
+          "explanation": "sandála → Обувь.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-093",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "maslo",
+          "answers": [
+            "Еда"
+          ],
+          "explanation": "maslo → Еда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-094",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "šunka",
+          "answers": [
+            "Еда"
+          ],
+          "explanation": "šunka → Еда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-095",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "med",
+          "answers": [
+            "Еда"
+          ],
+          "explanation": "med → Еда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-096",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "saláma",
+          "answers": [
+            "Еда"
+          ],
+          "explanation": "saláma → Еда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-097",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "džem",
+          "answers": [
+            "Еда"
+          ],
+          "explanation": "džem → Еда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-098",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "párok",
+          "answers": [
+            "Еда"
+          ],
+          "explanation": "párok → Еда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-099",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "chlieb",
+          "answers": [
+            "Еда"
+          ],
+          "explanation": "chlieb → Еда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-100",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "čokoláda",
+          "answers": [
+            "Еда"
+          ],
+          "explanation": "čokoláda → Еда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-101",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "jogurt",
+          "answers": [
+            "Еда"
+          ],
+          "explanation": "jogurt → Еда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-102",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "syr",
+          "answers": [
+            "Еда"
+          ],
+          "explanation": "syr → Еда.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-103",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "minerálka",
+          "answers": [
+            "Напитки"
+          ],
+          "explanation": "minerálka → Напитки.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-104",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "pivo",
+          "answers": [
+            "Напитки"
+          ],
+          "explanation": "pivo → Напитки.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-105",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "kola",
+          "answers": [
+            "Напитки"
+          ],
+          "explanation": "kola → Напитки.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-106",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "džús",
+          "answers": [
+            "Напитки"
+          ],
+          "explanation": "džús → Напитки.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-107",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "čaj",
+          "answers": [
+            "Напитки"
+          ],
+          "explanation": "čaj → Напитки.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-108",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "káva",
+          "answers": [
+            "Напитки"
+          ],
+          "explanation": "káva → Напитки.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-109",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "víno",
+          "answers": [
+            "Напитки"
+          ],
+          "explanation": "víno → Напитки.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-110",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "limonáda",
+          "answers": [
+            "Напитки"
+          ],
+          "explanation": "limonáda → Напитки.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
+        },
+        {
+          "id": "l6-task-111",
+          "type": "choice",
+          "section": "categories",
+          "sectionTitle": "Определите раздел магазина",
+          "context": "Определите раздел магазина",
+          "prompt": "mlieko",
+          "answers": [
+            "Напитки"
+          ],
+          "explanation": "mlieko → Напитки.",
+          "options": [
+            "Одежда",
+            "Обувь",
+            "Еда",
+            "Напитки"
+          ]
         }
       ]
     }
