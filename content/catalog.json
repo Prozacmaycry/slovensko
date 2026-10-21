@@ -1,5 +1,5 @@
 {
-  "revision": 12,
+  "revision": 13,
   "packages": [
     {
       "schemaVersion": 1,
@@ -12381,6 +12381,2652 @@
             "Обувь",
             "Еда",
             "Напитки"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "lesson-2026-10-21",
+      "title": "Могу, умею и хочу: дома и в ресторане",
+      "description": "Модальные глаголы, творительный падеж, местоимения и заказ в ресторане.",
+      "status": "published",
+      "words": [
+        {
+          "id": "l7-word-001",
+          "sk": "chcieť",
+          "ru": "хотеть",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-002",
+          "sk": "môcť",
+          "ru": "мочь, иметь возможность",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-003",
+          "sk": "vedieť",
+          "ru": "знать, уметь",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-004",
+          "sk": "musieť",
+          "ru": "быть обязанным, быть должным",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-005",
+          "sk": "smieť",
+          "ru": "иметь разрешение",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-006",
+          "sk": "nemusieť",
+          "ru": "не быть обязанным",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-007",
+          "sk": "nesmieť",
+          "ru": "не иметь разрешения",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-008",
+          "sk": "poznať",
+          "ru": "знать, быть знакомым",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-009",
+          "sk": "priať si",
+          "ru": "желать себе, хотеть",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-010",
+          "sk": "dať si",
+          "ru": "взять себе, заказать",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-011",
+          "sk": "želať si",
+          "ru": "желать, хотеть",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-012",
+          "sk": "prosiť si",
+          "ru": "просить себе, заказывать",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-013",
+          "sk": "pozývať",
+          "ru": "приглашать",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-014",
+          "sk": "pozvať",
+          "ru": "пригласить",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-015",
+          "sk": "jesť",
+          "ru": "есть",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-016",
+          "sk": "piť",
+          "ru": "пить",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-017",
+          "sk": "tringelt",
+          "ru": "чаевые",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-018",
+          "sk": "platiť spolu",
+          "ru": "платить вместе",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-019",
+          "sk": "platiť osobitne",
+          "ru": "платить отдельно",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-020",
+          "sk": "Na zdravie! Na úspechy!",
+          "ru": "За здоровье! За успехи!",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-021",
+          "sk": "Chutí ti?",
+          "ru": "Тебе вкусно?",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-022",
+          "sk": "Chutí mi.",
+          "ru": "Мне вкусно, мне нравится вкус.",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-023",
+          "sk": "Nechutí mi.",
+          "ru": "Мне невкусно, мне не нравится вкус.",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-024",
+          "sk": "Prepáčte, prosím, môžete na chvíľu?",
+          "ru": "Простите, пожалуйста, можно вас на минутку?",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-025",
+          "sk": "Môžem hovoriť s kuchárom?",
+          "ru": "Могу я поговорить с поваром?",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-026",
+          "sk": "Ďakujeme za pozvanie.",
+          "ru": "Спасибо за приглашение.",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-027",
+          "sk": "Prosím si účet.",
+          "ru": "Счёт, пожалуйста.",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-028",
+          "sk": "Zaplatíme.",
+          "ru": "Мы заплатим.",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-029",
+          "sk": "obývačka",
+          "ru": "гостиная",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-030",
+          "sk": "kuchyňa",
+          "ru": "кухня",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-031",
+          "sk": "jedáleň",
+          "ru": "столовая",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-032",
+          "sk": "detská izba",
+          "ru": "детская комната",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-033",
+          "sk": "pracovňa",
+          "ru": "кабинет",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-034",
+          "sk": "noviny",
+          "ru": "газета, газеты",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-035",
+          "sk": "počúvať hudbu",
+          "ru": "слушать музыку",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-036",
+          "sk": "pozerať televíziu",
+          "ru": "смотреть телевизор",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-037",
+          "sk": "komédia",
+          "ru": "комедия",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-038",
+          "sk": "romantický film",
+          "ru": "романтический фильм",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-039",
+          "sk": "stacionárny bicykel",
+          "ru": "велотренажёр",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-040",
+          "sk": "bicyklovať sa",
+          "ru": "кататься на велосипеде",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-041",
+          "sk": "cvičiť",
+          "ru": "заниматься физическими упражнениями",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-042",
+          "sk": "raňajkovať",
+          "ru": "завтракать",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-043",
+          "sk": "obedovať",
+          "ru": "обедать",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-044",
+          "sk": "rozprávať sa",
+          "ru": "разговаривать",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-045",
+          "sk": "hrať sa",
+          "ru": "играть",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-046",
+          "sk": "spať",
+          "ru": "спать",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-047",
+          "sk": "surfovať po internete",
+          "ru": "сидеть в интернете",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-048",
+          "sk": "pripravovať dokumenty",
+          "ru": "готовить документы",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-049",
+          "sk": "električka",
+          "ru": "трамвай",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-050",
+          "sk": "autobus",
+          "ru": "автобус",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-051",
+          "sk": "trolejbus",
+          "ru": "троллейбус",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-052",
+          "sk": "taxík",
+          "ru": "такси",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-053",
+          "sk": "pero",
+          "ru": "ручка",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-054",
+          "sk": "ceruzka",
+          "ru": "карандаш",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-055",
+          "sk": "fixka",
+          "ru": "фломастер",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-056",
+          "sk": "teplá voda",
+          "ru": "тёплая вода",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-057",
+          "sk": "studená voda",
+          "ru": "холодная вода",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-058",
+          "sk": "umývať sa",
+          "ru": "умываться",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-059",
+          "sk": "stať sa",
+          "ru": "стать",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-060",
+          "sk": "očný lekár",
+          "ru": "окулист",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-061",
+          "sk": "operný spevák",
+          "ru": "оперный певец",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-062",
+          "sk": "učiteľka",
+          "ru": "учительница",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-063",
+          "sk": "detská psychologička",
+          "ru": "детский психолог (женщина)",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-064",
+          "sk": "kapustnica",
+          "ru": "капустный суп",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-065",
+          "sk": "kvasená kapusta",
+          "ru": "квашеная капуста",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-066",
+          "sk": "bryndzové halušky",
+          "ru": "галушки с брынзой",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-067",
+          "sk": "múka",
+          "ru": "мука",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-068",
+          "sk": "bryndza",
+          "ru": "брынза",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-069",
+          "sk": "slanina",
+          "ru": "сало, бекон",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-070",
+          "sk": "tvaroh",
+          "ru": "творог",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-071",
+          "sk": "koláč",
+          "ru": "пирог, сладкая выпечка",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-072",
+          "sk": "citrón",
+          "ru": "лимон",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-073",
+          "sk": "dovolenka",
+          "ru": "отпуск",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-074",
+          "sk": "pršať",
+          "ru": "идти (о дожде)",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-075",
+          "sk": "vnútri",
+          "ru": "внутри",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-076",
+          "sk": "zostať",
+          "ru": "остаться",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-077",
+          "sk": "alergia",
+          "ru": "аллергия",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-078",
+          "sk": "jahoda",
+          "ru": "клубника",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-079",
+          "sk": "nudiť sa",
+          "ru": "скучать",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-080",
+          "sk": "po grécky",
+          "ru": "по-гречески",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-081",
+          "sk": "po anglicky",
+          "ru": "по-английски",
+          "type": "phrase"
+        },
+        {
+          "id": "l7-word-082",
+          "sk": "okuliare",
+          "ru": "очки",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-083",
+          "sk": "chladnička",
+          "ru": "холодильник",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-084",
+          "sk": "prázdny",
+          "ru": "пустой",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-085",
+          "sk": "prať",
+          "ru": "стирать",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-086",
+          "sk": "práčka",
+          "ru": "стиральная машина",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-087",
+          "sk": "zapnúť",
+          "ru": "включить",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-088",
+          "sk": "chorý",
+          "ru": "больной",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-089",
+          "sk": "zošit",
+          "ru": "тетрадь",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-090",
+          "sk": "mapa",
+          "ru": "карта",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-091",
+          "sk": "spolu",
+          "ru": "вместе",
+          "type": "word"
+        },
+        {
+          "id": "l7-word-092",
+          "sk": "osobitne",
+          "ru": "отдельно",
+          "type": "word"
+        }
+      ],
+      "rules": [
+        {
+          "id": "l7-rule-modal",
+          "title": "Модальные глаголы: формы",
+          "text": "После модального глагола действие обычно стоит в инфинитиве: Chcem pracovať. Viem plávať. Mať + инфинитив может обозначать намеченное или ожидаемое действие: Mám ísť na nákup.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Лицо",
+              "chcieť",
+              "smieť",
+              "vedieť",
+              "môcť",
+              "musieť",
+              "mať"
+            ],
+            "rows": [
+              [
+                "ja",
+                "chcem",
+                "smiem",
+                "viem",
+                "môžem",
+                "musím",
+                "mám"
+              ],
+              [
+                "ty",
+                "chceš",
+                "smieš",
+                "vieš",
+                "môžeš",
+                "musíš",
+                "máš"
+              ],
+              [
+                "on / ona",
+                "chce",
+                "smie",
+                "vie",
+                "môže",
+                "musí",
+                "má"
+              ],
+              [
+                "my",
+                "chceme",
+                "smieme",
+                "vieme",
+                "môžeme",
+                "musíme",
+                "máme"
+              ],
+              [
+                "vy",
+                "chcete",
+                "smiete",
+                "viete",
+                "môžete",
+                "musíte",
+                "máte"
+              ],
+              [
+                "oni / ony",
+                "chcú",
+                "smú",
+                "vedia",
+                "môžu",
+                "musia",
+                "majú"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l7-rule-meaning",
+          "title": "Мочь, уметь, быть должным",
+          "text": "Nemusím — не обязан; nesmiem — нельзя. Neviem — не умею или не знаю; nemôžem — не могу из-за обстоятельств.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Глагол",
+              "Значение",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "chcem",
+                "хочу",
+                "Chcem relaxovať."
+              ],
+              [
+                "viem",
+                "умею",
+                "Viem plávať."
+              ],
+              [
+                "môžem",
+                "могу, есть возможность",
+                "Môžem ísť von."
+              ],
+              [
+                "musím",
+                "должен",
+                "Musím pracovať."
+              ],
+              [
+                "smiem",
+                "мне разрешено",
+                "Smiem ísť do kina."
+              ],
+              [
+                "nemusím",
+                "не обязан",
+                "Nemusím pracovať."
+              ],
+              [
+                "nesmiem",
+                "мне запрещено",
+                "Nesmiem jesť jahody."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l7-rule-instrumental",
+          "title": "Inštrumentál — кем? чем?",
+          "text": "В показанных моделях: мужской и средний род -om; женский -ou; прилагательное мужского рода -ým, женского -ou. Это формы единственного числа, не все исключения творительного падежа.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Исходная форма",
+              "Творительный",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "vlak, lietadlo, auto, autobus, metro",
+                "vlakom, lietadlom, autom, autobusom, metrom",
+                "Cestujem vlakom."
+              ],
+              [
+                "električka, trolejbus, taxík",
+                "električkou, trolejbusom, taxíkom",
+                "Chodím električkou."
+              ],
+              [
+                "pero, ceruzka, fixka",
+                "perom, ceruzkou, fixkou",
+                "Píšem perom."
+              ],
+              [
+                "teplá voda, studená voda, mydlo",
+                "teplou vodou, studenou vodou, mydlom",
+                "Umývam sa teplou vodou."
+              ],
+              [
+                "očný lekár, operný spevák",
+                "očným lekárom, operným spevákom",
+                "Chcem sa stať očným lekárom."
+              ],
+              [
+                "dobrá učiteľka, detská psychologička",
+                "dobrou učiteľkou, detskou psychologičkou",
+                "Chcem sa stať dobrou učiteľkou."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l7-rule-pronouns",
+          "title": "Местоимения после глагола и предлога",
+          "text": "После предлога используются полные формы: za ňu, pre neho. Для смешанной группы людей Roman a Kamila нормативно na nich; в EdVibe показано na ne — это исправлено.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Существительное",
+              "Пример"
+            ],
+            "rows": [
+              [
+                "kniha",
+                "Máš ju?"
+              ],
+              [
+                "darček",
+                "Kupujem ho."
+              ],
+              [
+                "káva",
+                "Ďakujem za ňu."
+              ],
+              [
+                "teta Anna",
+                "Staráte sa o ňu?"
+              ],
+              [
+                "Iveta",
+                "Tá káva nie je pre ňu."
+              ],
+              [
+                "brat",
+                "Nie je pre neho."
+              ],
+              [
+                "Roman a Kamila",
+                "Čakáš na nich?"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l7-rule-order",
+          "title": "Заказ и еда: формы глаголов",
+          "text": "Формулы для заказа: Prosím si kávu. Dám si čaj. Prajem si... / Želám si...",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Лицо",
+              "priať si",
+              "dať si",
+              "želať si",
+              "prosiť si",
+              "jesť",
+              "piť"
+            ],
+            "rows": [
+              [
+                "ja",
+                "prajem si",
+                "dám si",
+                "želám si",
+                "prosím si",
+                "jem",
+                "pijem"
+              ],
+              [
+                "ty",
+                "praješ si",
+                "dáš si",
+                "želáš si",
+                "prosíš si",
+                "ješ",
+                "piješ"
+              ],
+              [
+                "on / ona",
+                "praje si",
+                "dá si",
+                "želá si",
+                "prosí si",
+                "je",
+                "pije"
+              ],
+              [
+                "my",
+                "prajeme si",
+                "dáme si",
+                "želáme si",
+                "prosíme si",
+                "jeme",
+                "pijeme"
+              ],
+              [
+                "vy",
+                "prajete si",
+                "dáte si",
+                "želáte si",
+                "prosíte si",
+                "jete",
+                "pijete"
+              ],
+              [
+                "oni / ony",
+                "prajú si",
+                "dajú si",
+                "želajú si",
+                "prosia si",
+                "jedia",
+                "pijú"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l7-rule-restaurant",
+          "title": "В ресторане",
+          "text": "Chutí ti? — вопрос о вкусе; Chutí mi / Nechutí mi — ответ.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Ситуация",
+              "Фраза"
+            ],
+            "rows": [
+              [
+                "Подозвать официанта",
+                "Prepáčte, prosím, môžete na chvíľu?"
+              ],
+              [
+                "Спросить о вкусе",
+                "Chutí ti?"
+              ],
+              [
+                "Попросить счёт",
+                "Prosím si účet."
+              ],
+              [
+                "Оплатить",
+                "Zaplatíme."
+              ],
+              [
+                "Вместе / отдельно",
+                "Platíme spolu / osobitne."
+              ],
+              [
+                "Благодарность",
+                "Ďakujeme za pozvanie."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l7-rule-food",
+          "title": "Čo jedia Slováci?",
+          "text": "Материал о блюдах из урока.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Блюдо",
+              "Описание"
+            ],
+            "rows": [
+              [
+                "Kapustnica",
+                "Суп из квашеной капусты. Рецепты различаются по региону и случаю."
+              ],
+              [
+                "Bryndzové halušky",
+                "Картофельные галушки: zemiaky, múka, soľ, bryndza, slanina."
+              ],
+              [
+                "Moravské koláče",
+                "Сладкая выпечка с творогом, повидлом и хрустящей посыпкой."
+              ],
+              [
+                "Voda s citrónom",
+                "Вода с лимоном."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l7-rule-home",
+          "title": "Что делают дома — чтение",
+          "text": "Краткое изложение текста EdVibe.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Комната",
+              "Действия"
+            ],
+            "rows": [
+              [
+                "V obývačke",
+                "Muž číta noviny, počúva hudbu a pozerá televíziu. Manželka pozerá filmy a niekedy sa bicykluje na stacionárnom bicykli."
+              ],
+              [
+                "V kuchyni",
+                "Rodina varí a raňajkuje."
+              ],
+              [
+                "V jedálni",
+                "Rodina obeduje. Po obede pijú víno alebo džús a rozprávajú sa."
+              ],
+              [
+                "V detskej izbe",
+                "Synovia čítajú, píšu úlohy, hrajú sa a spia."
+              ],
+              [
+                "V pracovni",
+                "Muž číta, píše e-maily, surfuje po internete, telefonuje a pripravuje dokumenty."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l7-rule-robert",
+          "title": "Róbert na dovolenke — чтение",
+          "text": "Краткое изложение доступного текста; аудио не переносилось.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Событие",
+              "Текст"
+            ],
+            "rows": [
+              [
+                "Отпуск",
+                "Róbert ide na Krétu. Nemusí pracovať. Vie dobre plávať a chce sa učiť surfovať."
+              ],
+              [
+                "Дождь",
+                "Dnes prší. Nemôže plávať a musí zostať vnútri."
+              ],
+              [
+                "Еда",
+                "Obeduje ovocie a zeleninu. Nesmie jesť jahody, má alergiu."
+              ],
+              [
+                "Разговор",
+                "Nevie hovoriť po grécky. Ženy nevedia hovoriť po anglicky. Nemôžu sa spolu rozprávať."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l7-rule-talk",
+          "title": "Разговорная практика",
+          "text": "Открытые вопросы: ответьте своими словами. Здесь нет единственного правильного ответа.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Тема",
+              "Вопрос"
+            ],
+            "rows": [
+              [
+                "Дом",
+                "Čo robíš v obývačke / v kuchyni / v pracovni?"
+              ],
+              [
+                "Транспорт",
+                "Čím cestuješ domov? Čím chodíš na fakultu?"
+              ],
+              [
+                "Повседневность",
+                "Čím píšeš domácu úlohu? Čím sa ráno umývaš?"
+              ],
+              [
+                "Планы",
+                "Čím sa chceš stať?"
+              ],
+              [
+                "Обязанности",
+                "Čo musí / nesmie robiť dobrý priateľ, učiteľ alebo kuchár?"
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "l7-task-001",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ja ___ (chcieť)",
+          "answers": [
+            "chcem"
+          ],
+          "explanation": "ja → chcem."
+        },
+        {
+          "id": "l7-task-002",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ty ___ (chcieť)",
+          "answers": [
+            "chceš"
+          ],
+          "explanation": "ty → chceš."
+        },
+        {
+          "id": "l7-task-003",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "on / ona ___ (chcieť)",
+          "answers": [
+            "chce"
+          ],
+          "explanation": "on / ona → chce."
+        },
+        {
+          "id": "l7-task-004",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "my ___ (chcieť)",
+          "answers": [
+            "chceme"
+          ],
+          "explanation": "my → chceme."
+        },
+        {
+          "id": "l7-task-005",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "vy ___ (chcieť)",
+          "answers": [
+            "chcete"
+          ],
+          "explanation": "vy → chcete."
+        },
+        {
+          "id": "l7-task-006",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "oni / ony ___ (chcieť)",
+          "answers": [
+            "chcú"
+          ],
+          "explanation": "oni / ony → chcú."
+        },
+        {
+          "id": "l7-task-007",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ja ___ (smieť)",
+          "answers": [
+            "smiem"
+          ],
+          "explanation": "ja → smiem."
+        },
+        {
+          "id": "l7-task-008",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ty ___ (smieť)",
+          "answers": [
+            "smieš"
+          ],
+          "explanation": "ty → smieš."
+        },
+        {
+          "id": "l7-task-009",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "on / ona ___ (smieť)",
+          "answers": [
+            "smie"
+          ],
+          "explanation": "on / ona → smie."
+        },
+        {
+          "id": "l7-task-010",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "my ___ (smieť)",
+          "answers": [
+            "smieme"
+          ],
+          "explanation": "my → smieme."
+        },
+        {
+          "id": "l7-task-011",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "vy ___ (smieť)",
+          "answers": [
+            "smiete"
+          ],
+          "explanation": "vy → smiete."
+        },
+        {
+          "id": "l7-task-012",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "oni / ony ___ (smieť)",
+          "answers": [
+            "smú"
+          ],
+          "explanation": "oni / ony → smú."
+        },
+        {
+          "id": "l7-task-013",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ja ___ (vedieť)",
+          "answers": [
+            "viem"
+          ],
+          "explanation": "ja → viem."
+        },
+        {
+          "id": "l7-task-014",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ty ___ (vedieť)",
+          "answers": [
+            "vieš"
+          ],
+          "explanation": "ty → vieš."
+        },
+        {
+          "id": "l7-task-015",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "on / ona ___ (vedieť)",
+          "answers": [
+            "vie"
+          ],
+          "explanation": "on / ona → vie."
+        },
+        {
+          "id": "l7-task-016",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "my ___ (vedieť)",
+          "answers": [
+            "vieme"
+          ],
+          "explanation": "my → vieme."
+        },
+        {
+          "id": "l7-task-017",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "vy ___ (vedieť)",
+          "answers": [
+            "viete"
+          ],
+          "explanation": "vy → viete."
+        },
+        {
+          "id": "l7-task-018",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "oni / ony ___ (vedieť)",
+          "answers": [
+            "vedia"
+          ],
+          "explanation": "oni / ony → vedia."
+        },
+        {
+          "id": "l7-task-019",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ja ___ (môcť)",
+          "answers": [
+            "môžem"
+          ],
+          "explanation": "ja → môžem."
+        },
+        {
+          "id": "l7-task-020",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ty ___ (môcť)",
+          "answers": [
+            "môžeš"
+          ],
+          "explanation": "ty → môžeš."
+        },
+        {
+          "id": "l7-task-021",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "on / ona ___ (môcť)",
+          "answers": [
+            "môže"
+          ],
+          "explanation": "on / ona → môže."
+        },
+        {
+          "id": "l7-task-022",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "my ___ (môcť)",
+          "answers": [
+            "môžeme"
+          ],
+          "explanation": "my → môžeme."
+        },
+        {
+          "id": "l7-task-023",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "vy ___ (môcť)",
+          "answers": [
+            "môžete"
+          ],
+          "explanation": "vy → môžete."
+        },
+        {
+          "id": "l7-task-024",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "oni / ony ___ (môcť)",
+          "answers": [
+            "môžu"
+          ],
+          "explanation": "oni / ony → môžu."
+        },
+        {
+          "id": "l7-task-025",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ja ___ (musieť)",
+          "answers": [
+            "musím"
+          ],
+          "explanation": "ja → musím."
+        },
+        {
+          "id": "l7-task-026",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ty ___ (musieť)",
+          "answers": [
+            "musíš"
+          ],
+          "explanation": "ty → musíš."
+        },
+        {
+          "id": "l7-task-027",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "on / ona ___ (musieť)",
+          "answers": [
+            "musí"
+          ],
+          "explanation": "on / ona → musí."
+        },
+        {
+          "id": "l7-task-028",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "my ___ (musieť)",
+          "answers": [
+            "musíme"
+          ],
+          "explanation": "my → musíme."
+        },
+        {
+          "id": "l7-task-029",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "vy ___ (musieť)",
+          "answers": [
+            "musíte"
+          ],
+          "explanation": "vy → musíte."
+        },
+        {
+          "id": "l7-task-030",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "oni / ony ___ (musieť)",
+          "answers": [
+            "musia"
+          ],
+          "explanation": "oni / ony → musia."
+        },
+        {
+          "id": "l7-task-031",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ja ___ (mať)",
+          "answers": [
+            "mám"
+          ],
+          "explanation": "ja → mám."
+        },
+        {
+          "id": "l7-task-032",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "ty ___ (mať)",
+          "answers": [
+            "máš"
+          ],
+          "explanation": "ty → máš."
+        },
+        {
+          "id": "l7-task-033",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "on / ona ___ (mať)",
+          "answers": [
+            "má"
+          ],
+          "explanation": "on / ona → má."
+        },
+        {
+          "id": "l7-task-034",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "my ___ (mať)",
+          "answers": [
+            "máme"
+          ],
+          "explanation": "my → máme."
+        },
+        {
+          "id": "l7-task-035",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "vy ___ (mať)",
+          "answers": [
+            "máte"
+          ],
+          "explanation": "vy → máte."
+        },
+        {
+          "id": "l7-task-036",
+          "type": "gap",
+          "section": "modal-forms",
+          "sectionTitle": "Вставьте форму модального глагола",
+          "context": "Вставьте форму модального глагола",
+          "prompt": "oni / ony ___ (mať)",
+          "answers": [
+            "majú"
+          ],
+          "explanation": "oni / ony → majú."
+        },
+        {
+          "id": "l7-task-037",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ja ___ (priať si)",
+          "answers": [
+            "prajem si"
+          ],
+          "explanation": "ja → prajem si."
+        },
+        {
+          "id": "l7-task-038",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ty ___ (priať si)",
+          "answers": [
+            "praješ si"
+          ],
+          "explanation": "ty → praješ si."
+        },
+        {
+          "id": "l7-task-039",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "on / ona ___ (priať si)",
+          "answers": [
+            "praje si"
+          ],
+          "explanation": "on / ona → praje si."
+        },
+        {
+          "id": "l7-task-040",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "my ___ (priať si)",
+          "answers": [
+            "prajeme si"
+          ],
+          "explanation": "my → prajeme si."
+        },
+        {
+          "id": "l7-task-041",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "vy ___ (priať si)",
+          "answers": [
+            "prajete si"
+          ],
+          "explanation": "vy → prajete si."
+        },
+        {
+          "id": "l7-task-042",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "oni / ony ___ (priať si)",
+          "answers": [
+            "prajú si"
+          ],
+          "explanation": "oni / ony → prajú si."
+        },
+        {
+          "id": "l7-task-043",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ja ___ (dať si)",
+          "answers": [
+            "dám si"
+          ],
+          "explanation": "ja → dám si."
+        },
+        {
+          "id": "l7-task-044",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ty ___ (dať si)",
+          "answers": [
+            "dáš si"
+          ],
+          "explanation": "ty → dáš si."
+        },
+        {
+          "id": "l7-task-045",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "on / ona ___ (dať si)",
+          "answers": [
+            "dá si"
+          ],
+          "explanation": "on / ona → dá si."
+        },
+        {
+          "id": "l7-task-046",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "my ___ (dať si)",
+          "answers": [
+            "dáme si"
+          ],
+          "explanation": "my → dáme si."
+        },
+        {
+          "id": "l7-task-047",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "vy ___ (dať si)",
+          "answers": [
+            "dáte si"
+          ],
+          "explanation": "vy → dáte si."
+        },
+        {
+          "id": "l7-task-048",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "oni / ony ___ (dať si)",
+          "answers": [
+            "dajú si"
+          ],
+          "explanation": "oni / ony → dajú si."
+        },
+        {
+          "id": "l7-task-049",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ja ___ (želať si)",
+          "answers": [
+            "želám si"
+          ],
+          "explanation": "ja → želám si."
+        },
+        {
+          "id": "l7-task-050",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ty ___ (želať si)",
+          "answers": [
+            "želáš si"
+          ],
+          "explanation": "ty → želáš si."
+        },
+        {
+          "id": "l7-task-051",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "on / ona ___ (želať si)",
+          "answers": [
+            "želá si"
+          ],
+          "explanation": "on / ona → želá si."
+        },
+        {
+          "id": "l7-task-052",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "my ___ (želať si)",
+          "answers": [
+            "želáme si"
+          ],
+          "explanation": "my → želáme si."
+        },
+        {
+          "id": "l7-task-053",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "vy ___ (želať si)",
+          "answers": [
+            "želáte si"
+          ],
+          "explanation": "vy → želáte si."
+        },
+        {
+          "id": "l7-task-054",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "oni / ony ___ (želať si)",
+          "answers": [
+            "želajú si"
+          ],
+          "explanation": "oni / ony → želajú si."
+        },
+        {
+          "id": "l7-task-055",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ja ___ (prosiť si)",
+          "answers": [
+            "prosím si"
+          ],
+          "explanation": "ja → prosím si."
+        },
+        {
+          "id": "l7-task-056",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ty ___ (prosiť si)",
+          "answers": [
+            "prosíš si"
+          ],
+          "explanation": "ty → prosíš si."
+        },
+        {
+          "id": "l7-task-057",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "on / ona ___ (prosiť si)",
+          "answers": [
+            "prosí si"
+          ],
+          "explanation": "on / ona → prosí si."
+        },
+        {
+          "id": "l7-task-058",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "my ___ (prosiť si)",
+          "answers": [
+            "prosíme si"
+          ],
+          "explanation": "my → prosíme si."
+        },
+        {
+          "id": "l7-task-059",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "vy ___ (prosiť si)",
+          "answers": [
+            "prosíte si"
+          ],
+          "explanation": "vy → prosíte si."
+        },
+        {
+          "id": "l7-task-060",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "oni / ony ___ (prosiť si)",
+          "answers": [
+            "prosia si"
+          ],
+          "explanation": "oni / ony → prosia si."
+        },
+        {
+          "id": "l7-task-061",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ja ___ (jesť)",
+          "answers": [
+            "jem"
+          ],
+          "explanation": "ja → jem."
+        },
+        {
+          "id": "l7-task-062",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ty ___ (jesť)",
+          "answers": [
+            "ješ"
+          ],
+          "explanation": "ty → ješ."
+        },
+        {
+          "id": "l7-task-063",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "on / ona ___ (jesť)",
+          "answers": [
+            "je"
+          ],
+          "explanation": "on / ona → je."
+        },
+        {
+          "id": "l7-task-064",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "my ___ (jesť)",
+          "answers": [
+            "jeme"
+          ],
+          "explanation": "my → jeme."
+        },
+        {
+          "id": "l7-task-065",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "vy ___ (jesť)",
+          "answers": [
+            "jete"
+          ],
+          "explanation": "vy → jete."
+        },
+        {
+          "id": "l7-task-066",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "oni / ony ___ (jesť)",
+          "answers": [
+            "jedia"
+          ],
+          "explanation": "oni / ony → jedia."
+        },
+        {
+          "id": "l7-task-067",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ja ___ (piť)",
+          "answers": [
+            "pijem"
+          ],
+          "explanation": "ja → pijem."
+        },
+        {
+          "id": "l7-task-068",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "ty ___ (piť)",
+          "answers": [
+            "piješ"
+          ],
+          "explanation": "ty → piješ."
+        },
+        {
+          "id": "l7-task-069",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "on / ona ___ (piť)",
+          "answers": [
+            "pije"
+          ],
+          "explanation": "on / ona → pije."
+        },
+        {
+          "id": "l7-task-070",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "my ___ (piť)",
+          "answers": [
+            "pijeme"
+          ],
+          "explanation": "my → pijeme."
+        },
+        {
+          "id": "l7-task-071",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "vy ___ (piť)",
+          "answers": [
+            "pijete"
+          ],
+          "explanation": "vy → pijete."
+        },
+        {
+          "id": "l7-task-072",
+          "type": "gap",
+          "section": "order-forms",
+          "sectionTitle": "Вставьте форму: заказ и еда",
+          "context": "Вставьте форму: заказ и еда",
+          "prompt": "oni / ony ___ (piť)",
+          "answers": [
+            "pijú"
+          ],
+          "explanation": "oni / ony → pijú."
+        },
+        {
+          "id": "l7-task-073",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Má osem rokov, ale ešte ___ čítať.",
+          "answers": [
+            "nevie"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nevie",
+            "nemôže"
+          ]
+        },
+        {
+          "id": "l7-task-074",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Nemá okuliare, ___ čítať noviny.",
+          "answers": [
+            "nemôže"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nemôže",
+            "nevie"
+          ]
+        },
+        {
+          "id": "l7-task-075",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "___ písať mail, má vybitý mobil i počítač.",
+          "answers": [
+            "Nemôže"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "Nemôže",
+            "nevie"
+          ]
+        },
+        {
+          "id": "l7-task-076",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Môj syn ___ nič uvariť, ešte sa to nenaučil.",
+          "answers": [
+            "nevie"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nevie",
+            "nemôže"
+          ]
+        },
+        {
+          "id": "l7-task-077",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Otec ___ uvariť večeru, chladnička je prázdna.",
+          "answers": [
+            "nemôže"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nemôže",
+            "nevie"
+          ]
+        },
+        {
+          "id": "l7-task-078",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Mama ___ prať, práčka je pokazená.",
+          "answers": [
+            "nemôže"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nemôže",
+            "nevie"
+          ]
+        },
+        {
+          "id": "l7-task-079",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Dcéra ___ zapnúť práčku, ešte sa to nenaučila.",
+          "answers": [
+            "nevie"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nevie",
+            "nemôže"
+          ]
+        },
+        {
+          "id": "l7-task-080",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Deti ___ spievať, sú choré.",
+          "answers": [
+            "nemôžu"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nemôžu",
+            "nevie"
+          ]
+        },
+        {
+          "id": "l7-task-081",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Deti ___ spievať operné piesne, neučili sa to.",
+          "answers": [
+            "nevedia"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nevedia",
+            "nemôže"
+          ]
+        },
+        {
+          "id": "l7-task-082",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "___ hrať hokej, nikdy som ho nehral.",
+          "answers": [
+            "Neviem"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "Neviem",
+            "nemôže"
+          ]
+        },
+        {
+          "id": "l7-task-083",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Dnes ___ trénovať hokej, bolí ma noha.",
+          "answers": [
+            "nemôžem"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nemôžem",
+            "nevie"
+          ]
+        },
+        {
+          "id": "l7-task-084",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Igor sa ___ bicyklovať, má pokazený bicykel.",
+          "answers": [
+            "nemôže"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nemôže",
+            "nevie"
+          ]
+        },
+        {
+          "id": "l7-task-085",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Dedko sa ___ bicyklovať, nikdy nemal bicykel.",
+          "answers": [
+            "nevie"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nevie",
+            "nemôže"
+          ]
+        },
+        {
+          "id": "l7-task-086",
+          "type": "choice",
+          "section": "modal-choice",
+          "sectionTitle": "Определите форму: nemôcť / nevedieť",
+          "context": "Определите форму: nemôcť / nevedieť",
+          "prompt": "Moji priatelia ___ hovoriť po slovensky, ešte sa to nenaučili.",
+          "answers": [
+            "nevedia"
+          ],
+          "explanation": "Nevedieť — нет навыка; nemôcť — мешают обстоятельства.",
+          "options": [
+            "nevedia",
+            "nemôže"
+          ]
+        },
+        {
+          "id": "l7-task-087",
+          "type": "choice",
+          "section": "modal-meaning",
+          "sectionTitle": "Определите значение: обязанность и запрет",
+          "context": "Определите значение: обязанность и запрет",
+          "prompt": "Nemám povinnosť pracovať. ___ pracovať.",
+          "answers": [
+            "Nemusím"
+          ],
+          "explanation": "Nemusím — не обязан; nesmiem — нельзя; musím — обязан.",
+          "options": [
+            "Musím",
+            "Nemusím",
+            "Nesmiem"
+          ]
+        },
+        {
+          "id": "l7-task-088",
+          "type": "choice",
+          "section": "modal-meaning",
+          "sectionTitle": "Определите значение: обязанность и запрет",
+          "context": "Определите значение: обязанность и запрет",
+          "prompt": "Mám zákaz jesť jahody. ___ jesť jahody.",
+          "answers": [
+            "Nesmiem"
+          ],
+          "explanation": "Nemusím — не обязан; nesmiem — нельзя; musím — обязан.",
+          "options": [
+            "Musím",
+            "Nemusím",
+            "Nesmiem"
+          ]
+        },
+        {
+          "id": "l7-task-089",
+          "type": "choice",
+          "section": "modal-meaning",
+          "sectionTitle": "Определите значение: обязанность и запрет",
+          "context": "Определите значение: обязанность и запрет",
+          "prompt": "Je to moja povinnosť. ___ pracovať.",
+          "answers": [
+            "Musím"
+          ],
+          "explanation": "Nemusím — не обязан; nesmiem — нельзя; musím — обязан.",
+          "options": [
+            "Musím",
+            "Nemusím",
+            "Nesmiem"
+          ]
+        },
+        {
+          "id": "l7-task-090",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем еду",
+          "context": "Вставьте форму: чем еду",
+          "prompt": "Cestujem ___ (vlak).",
+          "answers": [
+            "vlakom"
+          ],
+          "explanation": "Чем? Творительный падеж."
+        },
+        {
+          "id": "l7-task-091",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем еду",
+          "context": "Вставьте форму: чем еду",
+          "prompt": "Cestujem ___ (lietadlo).",
+          "answers": [
+            "lietadlom"
+          ],
+          "explanation": "Чем? Творительный падеж."
+        },
+        {
+          "id": "l7-task-092",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем еду",
+          "context": "Вставьте форму: чем еду",
+          "prompt": "Cestujem ___ (auto).",
+          "answers": [
+            "autom"
+          ],
+          "explanation": "Чем? Творительный падеж."
+        },
+        {
+          "id": "l7-task-093",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем еду",
+          "context": "Вставьте форму: чем еду",
+          "prompt": "Cestujem ___ (autobus).",
+          "answers": [
+            "autobusom"
+          ],
+          "explanation": "Чем? Творительный падеж."
+        },
+        {
+          "id": "l7-task-094",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем еду",
+          "context": "Вставьте форму: чем еду",
+          "prompt": "Cestujem ___ (metro).",
+          "answers": [
+            "metrom"
+          ],
+          "explanation": "Чем? Творительный падеж."
+        },
+        {
+          "id": "l7-task-095",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем еду",
+          "context": "Вставьте форму: чем еду",
+          "prompt": "Cestujem ___ (električka).",
+          "answers": [
+            "električkou"
+          ],
+          "explanation": "Чем? Творительный падеж."
+        },
+        {
+          "id": "l7-task-096",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем еду",
+          "context": "Вставьте форму: чем еду",
+          "prompt": "Cestujem ___ (trolejbus).",
+          "answers": [
+            "trolejbusom"
+          ],
+          "explanation": "Чем? Творительный падеж."
+        },
+        {
+          "id": "l7-task-097",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем еду",
+          "context": "Вставьте форму: чем еду",
+          "prompt": "Cestujem ___ (taxík).",
+          "answers": [
+            "taxíkom"
+          ],
+          "explanation": "Чем? Творительный падеж."
+        },
+        {
+          "id": "l7-task-098",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем пишу",
+          "context": "Вставьте форму: чем пишу",
+          "prompt": "Píšem ___ (pero).",
+          "answers": [
+            "perom"
+          ],
+          "explanation": "Творительный: -om / -ou."
+        },
+        {
+          "id": "l7-task-099",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем пишу",
+          "context": "Вставьте форму: чем пишу",
+          "prompt": "Píšem ___ (ceruzka).",
+          "answers": [
+            "ceruzkou"
+          ],
+          "explanation": "Творительный: -om / -ou."
+        },
+        {
+          "id": "l7-task-100",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем пишу",
+          "context": "Вставьте форму: чем пишу",
+          "prompt": "Píšem ___ (fixka).",
+          "answers": [
+            "fixkou"
+          ],
+          "explanation": "Творительный: -om / -ou."
+        },
+        {
+          "id": "l7-task-101",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем умываюсь",
+          "context": "Вставьте форму: чем умываюсь",
+          "prompt": "Umývam sa ___ (teplá voda).",
+          "answers": [
+            "teplou vodou"
+          ],
+          "explanation": "Согласуйте прилагательное и существительное."
+        },
+        {
+          "id": "l7-task-102",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем умываюсь",
+          "context": "Вставьте форму: чем умываюсь",
+          "prompt": "Umývam sa ___ (studená voda).",
+          "answers": [
+            "studenou vodou"
+          ],
+          "explanation": "Согласуйте прилагательное и существительное."
+        },
+        {
+          "id": "l7-task-103",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: чем умываюсь",
+          "context": "Вставьте форму: чем умываюсь",
+          "prompt": "Umývam sa ___ (mydlo).",
+          "answers": [
+            "mydlom"
+          ],
+          "explanation": "Согласуйте прилагательное и существительное."
+        },
+        {
+          "id": "l7-task-104",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: кем хочу стать",
+          "context": "Вставьте форму: кем хочу стать",
+          "prompt": "Chcem sa stať ___ (očný lekár).",
+          "answers": [
+            "očným lekárom"
+          ],
+          "explanation": "Stať sa kým? Творительный падеж."
+        },
+        {
+          "id": "l7-task-105",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: кем хочу стать",
+          "context": "Вставьте форму: кем хочу стать",
+          "prompt": "Chcem sa stať ___ (operný spevák).",
+          "answers": [
+            "operným spevákom"
+          ],
+          "explanation": "Stať sa kým? Творительный падеж."
+        },
+        {
+          "id": "l7-task-106",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: кем хочу стать",
+          "context": "Вставьте форму: кем хочу стать",
+          "prompt": "Chcem sa stať ___ (dobrá učiteľka).",
+          "answers": [
+            "dobrou učiteľkou"
+          ],
+          "explanation": "Stať sa kým? Творительный падеж."
+        },
+        {
+          "id": "l7-task-107",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: кем хочу стать",
+          "context": "Вставьте форму: кем хочу стать",
+          "prompt": "Chcem sa stať ___ (detská psychologička).",
+          "answers": [
+            "detskou psychologičkou"
+          ],
+          "explanation": "Stať sa kým? Творительный падеж."
+        },
+        {
+          "id": "l7-task-108",
+          "type": "gap",
+          "section": "pronouns",
+          "sectionTitle": "Вставьте форму местоимения",
+          "context": "Вставьте форму местоимения",
+          "prompt": "Káva je výborná. Ďakujem ti za ___. (káva)",
+          "answers": [
+            "ňu"
+          ],
+          "explanation": "После предлога нужна полная форма: ňu / neho / nich."
+        },
+        {
+          "id": "l7-task-109",
+          "type": "gap",
+          "section": "pronouns",
+          "sectionTitle": "Вставьте форму местоимения",
+          "context": "Вставьте форму местоимения",
+          "prompt": "Staráte sa o ___? (teta Anna)",
+          "answers": [
+            "ňu"
+          ],
+          "explanation": "После предлога нужна полная форма: ňu / neho / nich."
+        },
+        {
+          "id": "l7-task-110",
+          "type": "gap",
+          "section": "pronouns",
+          "sectionTitle": "Вставьте форму местоимения",
+          "context": "Вставьте форму местоимения",
+          "prompt": "Tá káva nie je pre ___. (Iveta)",
+          "answers": [
+            "ňu"
+          ],
+          "explanation": "После предлога нужна полная форма: ňu / neho / nich."
+        },
+        {
+          "id": "l7-task-111",
+          "type": "gap",
+          "section": "pronouns",
+          "sectionTitle": "Вставьте форму местоимения",
+          "context": "Вставьте форму местоимения",
+          "prompt": "Kupujem darček. Kupujem ___ pre Ondreja.",
+          "answers": [
+            "ho"
+          ],
+          "explanation": "После предлога нужна полная форма: ňu / neho / nich."
+        },
+        {
+          "id": "l7-task-112",
+          "type": "gap",
+          "section": "pronouns",
+          "sectionTitle": "Вставьте форму местоимения",
+          "context": "Вставьте форму местоимения",
+          "prompt": "Čakáš na ___? (Roman a Kamila)",
+          "answers": [
+            "nich"
+          ],
+          "explanation": "После предлога нужна полная форма: ňu / neho / nich."
+        },
+        {
+          "id": "l7-task-113",
+          "type": "gap",
+          "section": "pronouns",
+          "sectionTitle": "Вставьте форму местоимения",
+          "context": "Вставьте форму местоимения",
+          "prompt": "Tá kniha nie je pre ___. (brat)",
+          "answers": [
+            "neho"
+          ],
+          "explanation": "После предлога нужна полная форма: ňu / neho / nich."
+        },
+        {
+          "id": "l7-task-114",
+          "type": "gap",
+          "section": "pronouns",
+          "sectionTitle": "Вставьте форму местоимения",
+          "context": "Вставьте форму местоимения",
+          "prompt": "Máš knihu? Máš ___?",
+          "answers": [
+            "ju"
+          ],
+          "explanation": "После предлога нужна полная форма: ňu / neho / nich."
+        },
+        {
+          "id": "l7-task-115",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Счёт, пожалуйста.",
+          "answers": [
+            "Prosím si účet."
+          ],
+          "explanation": "Prosím si účet."
+        },
+        {
+          "id": "l7-task-116",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Спасибо за приглашение.",
+          "answers": [
+            "Ďakujeme za pozvanie."
+          ],
+          "explanation": "Ďakujeme za pozvanie."
+        },
+        {
+          "id": "l7-task-117",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Тебе вкусно?",
+          "answers": [
+            "Chutí ti?"
+          ],
+          "explanation": "Chutí ti?"
+        },
+        {
+          "id": "l7-task-118",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Мне вкусно.",
+          "answers": [
+            "Chutí mi."
+          ],
+          "explanation": "Chutí mi."
+        },
+        {
+          "id": "l7-task-119",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Мне невкусно.",
+          "answers": [
+            "Nechutí mi."
+          ],
+          "explanation": "Nechutí mi."
+        },
+        {
+          "id": "l7-task-120",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Мы заплатим.",
+          "answers": [
+            "Zaplatíme."
+          ],
+          "explanation": "Zaplatíme."
+        },
+        {
+          "id": "l7-task-121",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Мы платим отдельно.",
+          "answers": [
+            "Platíme osobitne."
+          ],
+          "explanation": "Platíme osobitne."
+        },
+        {
+          "id": "l7-task-122",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Мы платим вместе.",
+          "answers": [
+            "Platíme spolu."
+          ],
+          "explanation": "Platíme spolu."
+        },
+        {
+          "id": "l7-task-123",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Могу я поговорить с поваром?",
+          "answers": [
+            "Môžem hovoriť s kuchárom?"
+          ],
+          "explanation": "Môžem hovoriť s kuchárom?"
+        },
+        {
+          "id": "l7-task-124",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Čo robia synovia v detskej izbe?",
+          "answers": [
+            "Čítajú, píšu úlohy, hrajú sa a spia."
+          ],
+          "explanation": "Ответ следует из таблиц чтения.",
+          "options": [
+            "Čítajú, píšu úlohy, hrajú sa a spia.",
+            "Varia večeru.",
+            "Šoférujú."
+          ]
+        },
+        {
+          "id": "l7-task-125",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Kde rodina varí a raňajkuje?",
+          "answers": [
+            "V kuchyni."
+          ],
+          "explanation": "Ответ следует из таблиц чтения.",
+          "options": [
+            "V kuchyni.",
+            "V pracovni.",
+            "V detskej izbe."
+          ]
+        },
+        {
+          "id": "l7-task-126",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Prečo Róbert nesmie jesť jahody?",
+          "answers": [
+            "Má alergiu."
+          ],
+          "explanation": "Ответ следует из таблиц чтения.",
+          "options": [
+            "Má alergiu.",
+            "Musí pracovať.",
+            "Nevie plávať."
+          ]
+        },
+        {
+          "id": "l7-task-127",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Prečo dnes nemôže plávať?",
+          "answers": [
+            "Prší."
+          ],
+          "explanation": "Ответ следует из таблиц чтения.",
+          "options": [
+            "Prší.",
+            "Nemá alergiu.",
+            "Musí šoférovať."
+          ]
+        },
+        {
+          "id": "l7-task-128",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Z čoho sa pripravuje kapustnica?",
+          "answers": [
+            "Z kvasenej kapusty."
+          ],
+          "explanation": "Ответ следует из таблиц чтения.",
+          "options": [
+            "Z kvasenej kapusty.",
+            "Z jahôd.",
+            "Z kávy."
           ]
         }
       ]
