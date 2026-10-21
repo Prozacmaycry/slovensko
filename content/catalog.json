@@ -1,5 +1,5 @@
 {
-  "revision": 13,
+  "revision": 14,
   "packages": [
     {
       "schemaVersion": 1,
@@ -15027,6 +15027,2737 @@
             "Z kvasenej kapusty.",
             "Z jahôd.",
             "Z kávy."
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "lesson-2026-10-21-time",
+      "title": "Предлоги, неправильные глаголы и время",
+      "description": "S / so, pred, za, pod, nad, medzi; спряжение глаголов; Koľko je hodín? / O koľkej?",
+      "status": "published",
+      "words": [
+        {
+          "id": "l8-word-001",
+          "sk": "aperitív",
+          "ru": "аперитив",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-002",
+          "sk": "predjedlo",
+          "ru": "закуска перед основным блюдом",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-003",
+          "sk": "zeleninová polievka",
+          "ru": "овощной суп",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-004",
+          "sk": "kaviareň",
+          "ru": "кофейня",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-005",
+          "sk": "osobitne",
+          "ru": "отдельно",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-006",
+          "sk": "tringelt",
+          "ru": "чаевые",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-007",
+          "sk": "prepitné",
+          "ru": "чаевые",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-008",
+          "sk": "palacinky",
+          "ru": "блинчики",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-009",
+          "sk": "šľahačka",
+          "ru": "взбитые сливки",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-010",
+          "sk": "pomarančový džús",
+          "ru": "апельсиновый сок",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-011",
+          "sk": "Čo si prajete?",
+          "ru": "Что вы желаете?",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-012",
+          "sk": "A na pitie?",
+          "ru": "А что будете пить?",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-013",
+          "sk": "Koľko platím?",
+          "ru": "Сколько я должен заплатить?",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-014",
+          "sk": "s",
+          "ru": "с",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-015",
+          "sk": "so",
+          "ru": "с (вариант предлога s)",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-016",
+          "sk": "pred",
+          "ru": "перед, до",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-017",
+          "sk": "za",
+          "ru": "за, позади",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-018",
+          "sk": "pod",
+          "ru": "под",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-019",
+          "sk": "nad",
+          "ru": "над",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-020",
+          "sk": "medzi",
+          "ru": "между",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-021",
+          "sk": "riaditeľka",
+          "ru": "директор (женщина)",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-022",
+          "sk": "oslavovať",
+          "ru": "праздновать",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-023",
+          "sk": "manžel",
+          "ru": "муж",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-024",
+          "sk": "stôl",
+          "ru": "стол",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-025",
+          "sk": "kvet",
+          "ru": "цветок",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-026",
+          "sk": "lampa",
+          "ru": "лампа",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-027",
+          "sk": "okno",
+          "ru": "окно",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-028",
+          "sk": "objednať si",
+          "ru": "заказать себе",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-029",
+          "sk": "špagety",
+          "ru": "спагетти",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-030",
+          "sk": "grilovaný steak",
+          "ru": "стейк на гриле",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-031",
+          "sk": "zemiaky",
+          "ru": "картофель",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-032",
+          "sk": "jahoda",
+          "ru": "клубника",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-033",
+          "sk": "čokoláda",
+          "ru": "шоколад",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-034",
+          "sk": "kreditná karta",
+          "ru": "кредитная карта",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-035",
+          "sk": "čašník",
+          "ru": "официант",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-036",
+          "sk": "šofér",
+          "ru": "водитель",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-037",
+          "sk": "rieka",
+          "ru": "река",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-038",
+          "sk": "most",
+          "ru": "мост",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-039",
+          "sk": "brána",
+          "ru": "ворота",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-040",
+          "sk": "parkovisko",
+          "ru": "парковка",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-041",
+          "sk": "vzadu",
+          "ru": "сзади",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-042",
+          "sk": "skúška",
+          "ru": "экзамен",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-043",
+          "sk": "tvár",
+          "ru": "лицо",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-044",
+          "sk": "voňavka",
+          "ru": "духи, парфюм",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-045",
+          "sk": "baňa",
+          "ru": "шахта",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-046",
+          "sk": "pohánka",
+          "ru": "гречка",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-047",
+          "sk": "električka",
+          "ru": "трамвай",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-048",
+          "sk": "ovocie",
+          "ru": "фрукты",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-049",
+          "sk": "osada",
+          "ru": "поселение",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-050",
+          "sk": "balvan",
+          "ru": "валун",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-051",
+          "sk": "bránka",
+          "ru": "калитка, небольшие ворота",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-052",
+          "sk": "odmena",
+          "ru": "награда, вознаграждение",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-053",
+          "sk": "sáčok",
+          "ru": "пакетик",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-054",
+          "sk": "pozvať",
+          "ru": "пригласить",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-055",
+          "sk": "žiť",
+          "ru": "жить",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-056",
+          "sk": "písať",
+          "ru": "писать",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-057",
+          "sk": "piť",
+          "ru": "пить",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-058",
+          "sk": "viesť",
+          "ru": "вести",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-059",
+          "sk": "česať",
+          "ru": "причёсывать",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-060",
+          "sk": "vedieť",
+          "ru": "знать, уметь",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-061",
+          "sk": "šiť",
+          "ru": "шить",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-062",
+          "sk": "jesť",
+          "ru": "есть",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-063",
+          "sk": "stať sa",
+          "ru": "стать",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-064",
+          "sk": "niesť",
+          "ru": "нести",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-065",
+          "sk": "viezť",
+          "ru": "везти",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-066",
+          "sk": "nežiť",
+          "ru": "не жить",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-067",
+          "sk": "hodina",
+          "ru": "час",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-068",
+          "sk": "minúta",
+          "ru": "минута",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-069",
+          "sk": "štvrť",
+          "ru": "четверть",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-070",
+          "sk": "pol",
+          "ru": "половина",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-071",
+          "sk": "trištvrte",
+          "ru": "три четверти",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-072",
+          "sk": "ráno",
+          "ru": "утром",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-073",
+          "sk": "dopoludnia",
+          "ru": "до полудня",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-074",
+          "sk": "popoludní",
+          "ru": "после полудня",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-075",
+          "sk": "večer",
+          "ru": "вечером",
+          "type": "word"
+        },
+        {
+          "id": "l8-word-076",
+          "sk": "v noci",
+          "ru": "ночью",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-077",
+          "sk": "Koľko je hodín?",
+          "ru": "Который час?",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-078",
+          "sk": "O koľkej?",
+          "ru": "Во сколько?",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-079",
+          "sk": "Je sedem hodín.",
+          "ru": "Сейчас семь часов.",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-080",
+          "sk": "O siedmej.",
+          "ru": "В семь.",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-081",
+          "sk": "Je štvrť na deväť.",
+          "ru": "Сейчас четверть девятого (8:15).",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-082",
+          "sk": "Je pol desiatej.",
+          "ru": "Сейчас половина десятого (9:30).",
+          "type": "phrase"
+        },
+        {
+          "id": "l8-word-083",
+          "sk": "Je trištvrte na jedenásť.",
+          "ru": "Сейчас без четверти одиннадцать (10:45).",
+          "type": "phrase"
+        }
+      ],
+      "rules": [
+        {
+          "id": "l8-rule-prep",
+          "title": "Предлоги с творительным падежом",
+          "text": "Для положения где? pred, za, pod, nad, medzi употребляются здесь с творительным. При направлении некоторые из них могут требовать винительного. S / so — с кем? с чем?",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Предлог",
+              "Пример",
+              "Перевод"
+            ],
+            "rows": [
+              [
+                "s / so",
+                "s manželom; so syrom",
+                "с мужем; с сыром"
+              ],
+              [
+                "pred",
+                "pred reštauráciou; pred večerou",
+                "перед рестораном; до ужина"
+              ],
+              [
+                "za",
+                "za stolom; za hotelom",
+                "за столом; позади отеля"
+              ],
+              [
+                "pod",
+                "pod stolom",
+                "под столом"
+              ],
+              [
+                "nad",
+                "nad stolom; nad riekou",
+                "над столом; над рекой"
+              ],
+              [
+                "medzi",
+                "medzi stanicou a obchodom",
+                "между вокзалом и магазином"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l8-rule-forms",
+          "title": "Творительный: формы из текста",
+          "text": "Окончания зависят от рода, числа и модели. Во множественном числе здесь встречаются -mi / -ami.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Исходная форма",
+              "Творительный"
+            ],
+            "rows": [
+              [
+                "manžel Jakub",
+                "s manželom Jakubom"
+              ],
+              [
+                "pes Félix",
+                "so psom Félixom"
+              ],
+              [
+                "stôl",
+                "nad stolom"
+              ],
+              [
+                "kvety",
+                "s kvetmi"
+              ],
+              [
+                "syr",
+                "so syrom"
+              ],
+              [
+                "zemiaky",
+                "so zemiakmi"
+              ],
+              [
+                "jahody a čokoláda",
+                "s jahodami a čokoládou"
+              ],
+              [
+                "kreditná karta",
+                "kreditnou kartou"
+              ],
+              [
+                "čašník",
+                "s čašníkom"
+              ],
+              [
+                "reštaurácia",
+                "pred reštauráciou"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l8-rule-verbs0",
+          "title": "Глаголы: pozvať, žiť, písať, piť",
+          "text": "Формы pozvať и stať sa обозначают будущее действие: приглашу, стану. Остальные положительные глаголы в таблице — настоящее время. Viesť — вести; viezť — везти.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Лицо",
+              "pozvať",
+              "žiť",
+              "písať",
+              "piť"
+            ],
+            "rows": [
+              [
+                "ja",
+                "pozvem",
+                "žijem",
+                "píšem",
+                "pijem"
+              ],
+              [
+                "ty",
+                "pozveš",
+                "žiješ",
+                "píšeš",
+                "piješ"
+              ],
+              [
+                "on / ona",
+                "pozve",
+                "žije",
+                "píše",
+                "pije"
+              ],
+              [
+                "my",
+                "pozveme",
+                "žijeme",
+                "píšeme",
+                "pijeme"
+              ],
+              [
+                "vy",
+                "pozvete",
+                "žijete",
+                "píšete",
+                "pijete"
+              ],
+              [
+                "oni / ony",
+                "pozvú",
+                "žijú",
+                "píšu",
+                "pijú"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l8-rule-verbs4",
+          "title": "Глаголы: viesť, česať, vedieť, šiť",
+          "text": "Формы pozvať и stať sa обозначают будущее действие: приглашу, стану. Остальные положительные глаголы в таблице — настоящее время. Viesť — вести; viezť — везти.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Лицо",
+              "viesť",
+              "česať",
+              "vedieť",
+              "šiť"
+            ],
+            "rows": [
+              [
+                "ja",
+                "vediem",
+                "češem",
+                "viem",
+                "šijem"
+              ],
+              [
+                "ty",
+                "vedieš",
+                "češeš",
+                "vieš",
+                "šiješ"
+              ],
+              [
+                "on / ona",
+                "vedie",
+                "češe",
+                "vie",
+                "šije"
+              ],
+              [
+                "my",
+                "vedieme",
+                "češeme",
+                "vieme",
+                "šijeme"
+              ],
+              [
+                "vy",
+                "vediete",
+                "češete",
+                "viete",
+                "šijete"
+              ],
+              [
+                "oni / ony",
+                "vedú",
+                "češú",
+                "vedia",
+                "šijú"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l8-rule-verbs8",
+          "title": "Глаголы: jesť, stať sa, niesť, viezť",
+          "text": "Формы pozvať и stať sa обозначают будущее действие: приглашу, стану. Остальные положительные глаголы в таблице — настоящее время. Viesť — вести; viezť — везти.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Лицо",
+              "jesť",
+              "stať sa",
+              "niesť",
+              "viezť"
+            ],
+            "rows": [
+              [
+                "ja",
+                "jem",
+                "stanem sa",
+                "nesiem",
+                "veziem"
+              ],
+              [
+                "ty",
+                "ješ",
+                "staneš sa",
+                "nesieš",
+                "vezieš"
+              ],
+              [
+                "on / ona",
+                "je",
+                "stane sa",
+                "nesie",
+                "vezie"
+              ],
+              [
+                "my",
+                "jeme",
+                "staneme sa",
+                "nesieme",
+                "vezieme"
+              ],
+              [
+                "vy",
+                "jete",
+                "stanete sa",
+                "nesiete",
+                "veziete"
+              ],
+              [
+                "oni / ony",
+                "jedia",
+                "stanú sa",
+                "nesú",
+                "vezú"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l8-rule-verbs12",
+          "title": "Глаголы: nežiť",
+          "text": "Формы pozvať и stať sa обозначают будущее действие: приглашу, стану. Остальные положительные глаголы в таблице — настоящее время. Viesť — вести; viezť — везти.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Лицо",
+              "nežiť"
+            ],
+            "rows": [
+              [
+                "ja",
+                "nežijem"
+              ],
+              [
+                "ty",
+                "nežiješ"
+              ],
+              [
+                "on / ona",
+                "nežije"
+              ],
+              [
+                "my",
+                "nežijeme"
+              ],
+              [
+                "vy",
+                "nežijete"
+              ],
+              [
+                "oni / ony",
+                "nežijú"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l8-rule-time",
+          "title": "Koľko je hodín? / O koľkej?",
+          "text": "Штврть и три четверти относятся к следующему часу: štvrť na deväť = 8:15. Pol desiatej = 9:30. Числовое обозначение времени — однозначная альтернатива.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Время",
+              "Который час?",
+              "Во сколько?"
+            ],
+            "rows": [
+              [
+                "7:00",
+                "Je sedem hodín.",
+                "O siedmej."
+              ],
+              [
+                "8:15",
+                "Je štvrť na deväť.",
+                "O štvrť na deväť."
+              ],
+              [
+                "9:30",
+                "Je pol desiatej.",
+                "O pol desiatej."
+              ],
+              [
+                "10:45",
+                "Je trištvrte na jedenásť.",
+                "O trištvrte na jedenásť."
+              ],
+              [
+                "11:50",
+                "Je jedenásť hodín päťdesiat minút.",
+                "O jedenástej hodine a päťdesiatej minúte."
+              ],
+              [
+                "14:00",
+                "Sú dve hodiny popoludní. / Je štrnásť hodín.",
+                "O druhej popoludní. / O štrnástej."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l8-rule-ordinals",
+          "title": "Порядковые числительные",
+          "text": "Для времени o jednej, o druhej... используются женские формы, согласованные с подразумеваемым hodine.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Число",
+              "Мужская форма"
+            ],
+            "rows": [
+              [
+                "0.",
+                "nultý"
+              ],
+              [
+                "1.",
+                "prvý"
+              ],
+              [
+                "2.",
+                "druhý"
+              ],
+              [
+                "3.",
+                "tretí"
+              ],
+              [
+                "4.",
+                "štvrtý"
+              ],
+              [
+                "5.",
+                "piaty"
+              ],
+              [
+                "6.",
+                "šiesty"
+              ],
+              [
+                "7.",
+                "siedmy"
+              ],
+              [
+                "8.",
+                "ôsmy"
+              ],
+              [
+                "9.",
+                "deviaty"
+              ],
+              [
+                "10.",
+                "desiaty"
+              ],
+              [
+                "11.",
+                "jedenásty"
+              ],
+              [
+                "12.",
+                "dvanásty"
+              ],
+              [
+                "13.",
+                "trinásty"
+              ],
+              [
+                "14.",
+                "štrnásty"
+              ],
+              [
+                "15.",
+                "pätnásty"
+              ],
+              [
+                "16.",
+                "šestnásty"
+              ],
+              [
+                "17.",
+                "sedemnásty"
+              ],
+              [
+                "18.",
+                "osemnásty"
+              ],
+              [
+                "19.",
+                "devätnásty"
+              ],
+              [
+                "20.",
+                "dvadsiaty"
+              ],
+              [
+                "21.",
+                "dvadsiaty prvý"
+              ],
+              [
+                "22.",
+                "dvadsiaty druhý"
+              ],
+              [
+                "30.",
+                "tridsiaty"
+              ],
+              [
+                "100.",
+                "stý"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l8-rule-reading",
+          "title": "В ресторане Pod hradom — чтение",
+          "text": "Краткое изложение исходного текста.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Событие",
+              "Текст"
+            ],
+            "rows": [
+              [
+                "Праздник",
+                "Zdenka je výbornou učiteľkou. Zajtra sa stane riaditeľkou školy. Dnes oslavuje s manželom Jakubom a psom Félixom."
+              ],
+              [
+                "Стол",
+                "Majú stôl s kvetmi. Nad stolom je žltá lampa a za stolom okno."
+              ],
+              [
+                "Заказ",
+                "Zdenka si objedná špagety so syrom. Jakub si objedná steak so zemiakmi. Dajú si tortu s jahodami a čokoládou."
+              ],
+              [
+                "Оплата",
+                "Zdenka platí kreditnou kartou a rozpráva sa s čašníkom."
+              ],
+              [
+                "Домой",
+                "Idú domov taxíkom. Šofér čaká pred reštauráciou."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "l8-rule-dialog",
+          "title": "Заказ в ресторане",
+          "text": "Правильная последовательность реплик; исходное переставление адаптировано в письменные ситуации.",
+          "visual": {
+            "format": "reference-table",
+            "headers": [
+              "Кто",
+              "Реплика"
+            ],
+            "rows": [
+              [
+                "Официант",
+                "Dobrý deň!"
+              ],
+              [
+                "Гость",
+                "Dobrý deň!"
+              ],
+              [
+                "Официант",
+                "Čo si prajete?"
+              ],
+              [
+                "Гость",
+                "Palacinky so šľahačkou."
+              ],
+              [
+                "Официант",
+                "A na pitie?"
+              ],
+              [
+                "Гость",
+                "Pomarančový džús."
+              ]
+            ]
+          }
+        }
+      ],
+      "exercises": [
+        {
+          "id": "l8-task-001",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (pozvať)",
+          "answers": [
+            "pozvem"
+          ],
+          "explanation": "ja → pozvem."
+        },
+        {
+          "id": "l8-task-002",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (pozvať)",
+          "answers": [
+            "pozveš"
+          ],
+          "explanation": "ty → pozveš."
+        },
+        {
+          "id": "l8-task-003",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (pozvať)",
+          "answers": [
+            "pozve"
+          ],
+          "explanation": "on / ona → pozve."
+        },
+        {
+          "id": "l8-task-004",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (pozvať)",
+          "answers": [
+            "pozveme"
+          ],
+          "explanation": "my → pozveme."
+        },
+        {
+          "id": "l8-task-005",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (pozvať)",
+          "answers": [
+            "pozvete"
+          ],
+          "explanation": "vy → pozvete."
+        },
+        {
+          "id": "l8-task-006",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (pozvať)",
+          "answers": [
+            "pozvú"
+          ],
+          "explanation": "oni / ony → pozvú."
+        },
+        {
+          "id": "l8-task-007",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (žiť)",
+          "answers": [
+            "žijem"
+          ],
+          "explanation": "ja → žijem."
+        },
+        {
+          "id": "l8-task-008",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (žiť)",
+          "answers": [
+            "žiješ"
+          ],
+          "explanation": "ty → žiješ."
+        },
+        {
+          "id": "l8-task-009",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (žiť)",
+          "answers": [
+            "žije"
+          ],
+          "explanation": "on / ona → žije."
+        },
+        {
+          "id": "l8-task-010",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (žiť)",
+          "answers": [
+            "žijeme"
+          ],
+          "explanation": "my → žijeme."
+        },
+        {
+          "id": "l8-task-011",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (žiť)",
+          "answers": [
+            "žijete"
+          ],
+          "explanation": "vy → žijete."
+        },
+        {
+          "id": "l8-task-012",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (žiť)",
+          "answers": [
+            "žijú"
+          ],
+          "explanation": "oni / ony → žijú."
+        },
+        {
+          "id": "l8-task-013",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (písať)",
+          "answers": [
+            "píšem"
+          ],
+          "explanation": "ja → píšem."
+        },
+        {
+          "id": "l8-task-014",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (písať)",
+          "answers": [
+            "píšeš"
+          ],
+          "explanation": "ty → píšeš."
+        },
+        {
+          "id": "l8-task-015",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (písať)",
+          "answers": [
+            "píše"
+          ],
+          "explanation": "on / ona → píše."
+        },
+        {
+          "id": "l8-task-016",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (písať)",
+          "answers": [
+            "píšeme"
+          ],
+          "explanation": "my → píšeme."
+        },
+        {
+          "id": "l8-task-017",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (písať)",
+          "answers": [
+            "píšete"
+          ],
+          "explanation": "vy → píšete."
+        },
+        {
+          "id": "l8-task-018",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (písať)",
+          "answers": [
+            "píšu"
+          ],
+          "explanation": "oni / ony → píšu."
+        },
+        {
+          "id": "l8-task-019",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (piť)",
+          "answers": [
+            "pijem"
+          ],
+          "explanation": "ja → pijem."
+        },
+        {
+          "id": "l8-task-020",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (piť)",
+          "answers": [
+            "piješ"
+          ],
+          "explanation": "ty → piješ."
+        },
+        {
+          "id": "l8-task-021",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (piť)",
+          "answers": [
+            "pije"
+          ],
+          "explanation": "on / ona → pije."
+        },
+        {
+          "id": "l8-task-022",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (piť)",
+          "answers": [
+            "pijeme"
+          ],
+          "explanation": "my → pijeme."
+        },
+        {
+          "id": "l8-task-023",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (piť)",
+          "answers": [
+            "pijete"
+          ],
+          "explanation": "vy → pijete."
+        },
+        {
+          "id": "l8-task-024",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (piť)",
+          "answers": [
+            "pijú"
+          ],
+          "explanation": "oni / ony → pijú."
+        },
+        {
+          "id": "l8-task-025",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (viesť)",
+          "answers": [
+            "vediem"
+          ],
+          "explanation": "ja → vediem."
+        },
+        {
+          "id": "l8-task-026",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (viesť)",
+          "answers": [
+            "vedieš"
+          ],
+          "explanation": "ty → vedieš."
+        },
+        {
+          "id": "l8-task-027",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (viesť)",
+          "answers": [
+            "vedie"
+          ],
+          "explanation": "on / ona → vedie."
+        },
+        {
+          "id": "l8-task-028",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (viesť)",
+          "answers": [
+            "vedieme"
+          ],
+          "explanation": "my → vedieme."
+        },
+        {
+          "id": "l8-task-029",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (viesť)",
+          "answers": [
+            "vediete"
+          ],
+          "explanation": "vy → vediete."
+        },
+        {
+          "id": "l8-task-030",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (viesť)",
+          "answers": [
+            "vedú"
+          ],
+          "explanation": "oni / ony → vedú."
+        },
+        {
+          "id": "l8-task-031",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (česať)",
+          "answers": [
+            "češem"
+          ],
+          "explanation": "ja → češem."
+        },
+        {
+          "id": "l8-task-032",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (česať)",
+          "answers": [
+            "češeš"
+          ],
+          "explanation": "ty → češeš."
+        },
+        {
+          "id": "l8-task-033",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (česať)",
+          "answers": [
+            "češe"
+          ],
+          "explanation": "on / ona → češe."
+        },
+        {
+          "id": "l8-task-034",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (česať)",
+          "answers": [
+            "češeme"
+          ],
+          "explanation": "my → češeme."
+        },
+        {
+          "id": "l8-task-035",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (česať)",
+          "answers": [
+            "češete"
+          ],
+          "explanation": "vy → češete."
+        },
+        {
+          "id": "l8-task-036",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (česať)",
+          "answers": [
+            "češú"
+          ],
+          "explanation": "oni / ony → češú."
+        },
+        {
+          "id": "l8-task-037",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (vedieť)",
+          "answers": [
+            "viem"
+          ],
+          "explanation": "ja → viem."
+        },
+        {
+          "id": "l8-task-038",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (vedieť)",
+          "answers": [
+            "vieš"
+          ],
+          "explanation": "ty → vieš."
+        },
+        {
+          "id": "l8-task-039",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (vedieť)",
+          "answers": [
+            "vie"
+          ],
+          "explanation": "on / ona → vie."
+        },
+        {
+          "id": "l8-task-040",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (vedieť)",
+          "answers": [
+            "vieme"
+          ],
+          "explanation": "my → vieme."
+        },
+        {
+          "id": "l8-task-041",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (vedieť)",
+          "answers": [
+            "viete"
+          ],
+          "explanation": "vy → viete."
+        },
+        {
+          "id": "l8-task-042",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (vedieť)",
+          "answers": [
+            "vedia"
+          ],
+          "explanation": "oni / ony → vedia."
+        },
+        {
+          "id": "l8-task-043",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (šiť)",
+          "answers": [
+            "šijem"
+          ],
+          "explanation": "ja → šijem."
+        },
+        {
+          "id": "l8-task-044",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (šiť)",
+          "answers": [
+            "šiješ"
+          ],
+          "explanation": "ty → šiješ."
+        },
+        {
+          "id": "l8-task-045",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (šiť)",
+          "answers": [
+            "šije"
+          ],
+          "explanation": "on / ona → šije."
+        },
+        {
+          "id": "l8-task-046",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (šiť)",
+          "answers": [
+            "šijeme"
+          ],
+          "explanation": "my → šijeme."
+        },
+        {
+          "id": "l8-task-047",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (šiť)",
+          "answers": [
+            "šijete"
+          ],
+          "explanation": "vy → šijete."
+        },
+        {
+          "id": "l8-task-048",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (šiť)",
+          "answers": [
+            "šijú"
+          ],
+          "explanation": "oni / ony → šijú."
+        },
+        {
+          "id": "l8-task-049",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (jesť)",
+          "answers": [
+            "jem"
+          ],
+          "explanation": "ja → jem."
+        },
+        {
+          "id": "l8-task-050",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (jesť)",
+          "answers": [
+            "ješ"
+          ],
+          "explanation": "ty → ješ."
+        },
+        {
+          "id": "l8-task-051",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (jesť)",
+          "answers": [
+            "je"
+          ],
+          "explanation": "on / ona → je."
+        },
+        {
+          "id": "l8-task-052",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (jesť)",
+          "answers": [
+            "jeme"
+          ],
+          "explanation": "my → jeme."
+        },
+        {
+          "id": "l8-task-053",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (jesť)",
+          "answers": [
+            "jete"
+          ],
+          "explanation": "vy → jete."
+        },
+        {
+          "id": "l8-task-054",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (jesť)",
+          "answers": [
+            "jedia"
+          ],
+          "explanation": "oni / ony → jedia."
+        },
+        {
+          "id": "l8-task-055",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (stať sa)",
+          "answers": [
+            "stanem sa"
+          ],
+          "explanation": "ja → stanem sa."
+        },
+        {
+          "id": "l8-task-056",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (stať sa)",
+          "answers": [
+            "staneš sa"
+          ],
+          "explanation": "ty → staneš sa."
+        },
+        {
+          "id": "l8-task-057",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (stať sa)",
+          "answers": [
+            "stane sa"
+          ],
+          "explanation": "on / ona → stane sa."
+        },
+        {
+          "id": "l8-task-058",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (stať sa)",
+          "answers": [
+            "staneme sa"
+          ],
+          "explanation": "my → staneme sa."
+        },
+        {
+          "id": "l8-task-059",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (stať sa)",
+          "answers": [
+            "stanete sa"
+          ],
+          "explanation": "vy → stanete sa."
+        },
+        {
+          "id": "l8-task-060",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (stať sa)",
+          "answers": [
+            "stanú sa"
+          ],
+          "explanation": "oni / ony → stanú sa."
+        },
+        {
+          "id": "l8-task-061",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (niesť)",
+          "answers": [
+            "nesiem"
+          ],
+          "explanation": "ja → nesiem."
+        },
+        {
+          "id": "l8-task-062",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (niesť)",
+          "answers": [
+            "nesieš"
+          ],
+          "explanation": "ty → nesieš."
+        },
+        {
+          "id": "l8-task-063",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (niesť)",
+          "answers": [
+            "nesie"
+          ],
+          "explanation": "on / ona → nesie."
+        },
+        {
+          "id": "l8-task-064",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (niesť)",
+          "answers": [
+            "nesieme"
+          ],
+          "explanation": "my → nesieme."
+        },
+        {
+          "id": "l8-task-065",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (niesť)",
+          "answers": [
+            "nesiete"
+          ],
+          "explanation": "vy → nesiete."
+        },
+        {
+          "id": "l8-task-066",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (niesť)",
+          "answers": [
+            "nesú"
+          ],
+          "explanation": "oni / ony → nesú."
+        },
+        {
+          "id": "l8-task-067",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (viezť)",
+          "answers": [
+            "veziem"
+          ],
+          "explanation": "ja → veziem."
+        },
+        {
+          "id": "l8-task-068",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (viezť)",
+          "answers": [
+            "vezieš"
+          ],
+          "explanation": "ty → vezieš."
+        },
+        {
+          "id": "l8-task-069",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (viezť)",
+          "answers": [
+            "vezie"
+          ],
+          "explanation": "on / ona → vezie."
+        },
+        {
+          "id": "l8-task-070",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (viezť)",
+          "answers": [
+            "vezieme"
+          ],
+          "explanation": "my → vezieme."
+        },
+        {
+          "id": "l8-task-071",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (viezť)",
+          "answers": [
+            "veziete"
+          ],
+          "explanation": "vy → veziete."
+        },
+        {
+          "id": "l8-task-072",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (viezť)",
+          "answers": [
+            "vezú"
+          ],
+          "explanation": "oni / ony → vezú."
+        },
+        {
+          "id": "l8-task-073",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ja ___ (nežiť)",
+          "answers": [
+            "nežijem"
+          ],
+          "explanation": "ja → nežijem."
+        },
+        {
+          "id": "l8-task-074",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "ty ___ (nežiť)",
+          "answers": [
+            "nežiješ"
+          ],
+          "explanation": "ty → nežiješ."
+        },
+        {
+          "id": "l8-task-075",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "on / ona ___ (nežiť)",
+          "answers": [
+            "nežije"
+          ],
+          "explanation": "on / ona → nežije."
+        },
+        {
+          "id": "l8-task-076",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "my ___ (nežiť)",
+          "answers": [
+            "nežijeme"
+          ],
+          "explanation": "my → nežijeme."
+        },
+        {
+          "id": "l8-task-077",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "vy ___ (nežiť)",
+          "answers": [
+            "nežijete"
+          ],
+          "explanation": "vy → nežijete."
+        },
+        {
+          "id": "l8-task-078",
+          "type": "gap",
+          "section": "verbs",
+          "sectionTitle": "Вставьте форму глагола",
+          "context": "Вставьте форму глагола",
+          "prompt": "oni / ony ___ (nežiť)",
+          "answers": [
+            "nežijú"
+          ],
+          "explanation": "oni / ony → nežijú."
+        },
+        {
+          "id": "l8-task-079",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Определите предлог",
+          "context": "Определите предлог",
+          "prompt": "Pes leží ___ stolom. (под)",
+          "answers": [
+            "pod"
+          ],
+          "explanation": "Pod stolom — под столом.",
+          "options": [
+            "pod",
+            "s",
+            "so",
+            "pred",
+            "za",
+            "nad",
+            "medzi"
+          ]
+        },
+        {
+          "id": "l8-task-080",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Определите предлог",
+          "context": "Определите предлог",
+          "prompt": "Aperitív pijeme ___ večerou. (до)",
+          "answers": [
+            "pred"
+          ],
+          "explanation": "Pred večerou — до ужина.",
+          "options": [
+            "pred",
+            "s",
+            "so",
+            "za",
+            "pod",
+            "nad",
+            "medzi"
+          ]
+        },
+        {
+          "id": "l8-task-081",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Определите предлог",
+          "context": "Определите предлог",
+          "prompt": "Čašník nesie kávu ___ šľahačkou.",
+          "answers": [
+            "so"
+          ],
+          "explanation": "So šľahačkou — со взбитыми сливками.",
+          "options": [
+            "so",
+            "s",
+            "pred",
+            "za",
+            "pod",
+            "nad",
+            "medzi"
+          ]
+        },
+        {
+          "id": "l8-task-082",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Определите предлог",
+          "context": "Определите предлог",
+          "prompt": "Polievka je studená, idem ___ čašníkom. (к официанту)",
+          "answers": [
+            "za"
+          ],
+          "explanation": "Ísť za niekým — идти к кому-то.",
+          "options": [
+            "za",
+            "s",
+            "so",
+            "pred",
+            "pod",
+            "nad",
+            "medzi"
+          ]
+        },
+        {
+          "id": "l8-task-083",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Определите предлог",
+          "context": "Определите предлог",
+          "prompt": "Banka stojí ___ stanicou a obchodom.",
+          "answers": [
+            "medzi"
+          ],
+          "explanation": "Medzi — между.",
+          "options": [
+            "medzi",
+            "s",
+            "so",
+            "pred",
+            "za",
+            "pod",
+            "nad"
+          ]
+        },
+        {
+          "id": "l8-task-084",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Определите предлог",
+          "context": "Определите предлог",
+          "prompt": "Most je ___ riekou. (над)",
+          "answers": [
+            "nad"
+          ],
+          "explanation": "Nad riekou — над рекой.",
+          "options": [
+            "nad",
+            "s",
+            "so",
+            "pred",
+            "za",
+            "pod",
+            "medzi"
+          ]
+        },
+        {
+          "id": "l8-task-085",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Определите предлог",
+          "context": "Определите предлог",
+          "prompt": "___ hotelom nesmiete parkovať. (перед)",
+          "answers": [
+            "Pred"
+          ],
+          "explanation": "Pred — перед.",
+          "options": [
+            "Pred",
+            "s",
+            "so",
+            "pred",
+            "za",
+            "pod",
+            "nad",
+            "medzi"
+          ]
+        },
+        {
+          "id": "l8-task-086",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Определите предлог",
+          "context": "Определите предлог",
+          "prompt": "Parkovisko je vzadu ___ hotelom.",
+          "answers": [
+            "za"
+          ],
+          "explanation": "Za — позади.",
+          "options": [
+            "za",
+            "s",
+            "so",
+            "pred",
+            "pod",
+            "nad",
+            "medzi"
+          ]
+        },
+        {
+          "id": "l8-task-087",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Определите предлог",
+          "context": "Определите предлог",
+          "prompt": "Mám skúšku. Idem ___ profesorom. (к профессору)",
+          "answers": [
+            "za"
+          ],
+          "explanation": "Ísť za profesorom — идти к профессору.",
+          "options": [
+            "za",
+            "s",
+            "so",
+            "pred",
+            "pod",
+            "nad",
+            "medzi"
+          ]
+        },
+        {
+          "id": "l8-task-088",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "s / so ___ (manžel)",
+          "answers": [
+            "manželom"
+          ],
+          "explanation": "Творительный: manželom."
+        },
+        {
+          "id": "l8-task-089",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "s / so ___ (pes)",
+          "answers": [
+            "psom"
+          ],
+          "explanation": "Творительный: psom."
+        },
+        {
+          "id": "l8-task-090",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "s / so ___ (syr)",
+          "answers": [
+            "syrom"
+          ],
+          "explanation": "Творительный: syrom."
+        },
+        {
+          "id": "l8-task-091",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "s / so ___ (zemiaky)",
+          "answers": [
+            "zemiakmi"
+          ],
+          "explanation": "Творительный: zemiakmi."
+        },
+        {
+          "id": "l8-task-092",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "s / so ___ (kvety)",
+          "answers": [
+            "kvetmi"
+          ],
+          "explanation": "Творительный: kvetmi."
+        },
+        {
+          "id": "l8-task-093",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "s / so ___ (jahody)",
+          "answers": [
+            "jahodami"
+          ],
+          "explanation": "Творительный: jahodami."
+        },
+        {
+          "id": "l8-task-094",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "s / so ___ (čokoláda)",
+          "answers": [
+            "čokoládou"
+          ],
+          "explanation": "Творительный: čokoládou."
+        },
+        {
+          "id": "l8-task-095",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "s / so ___ (čašník)",
+          "answers": [
+            "čašníkom"
+          ],
+          "explanation": "Творительный: čašníkom."
+        },
+        {
+          "id": "l8-task-096",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "Platím ___ (kreditná karta).",
+          "answers": [
+            "kreditnou kartou"
+          ],
+          "explanation": "В этом предложении нужен творительный падеж."
+        },
+        {
+          "id": "l8-task-097",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "Šofér čaká pred ___ (reštaurácia).",
+          "answers": [
+            "reštauráciou"
+          ],
+          "explanation": "В этом предложении нужен творительный падеж."
+        },
+        {
+          "id": "l8-task-098",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "Lampa je nad ___ (stôl).",
+          "answers": [
+            "stolom"
+          ],
+          "explanation": "В этом предложении нужен творительный падеж."
+        },
+        {
+          "id": "l8-task-099",
+          "type": "gap",
+          "section": "instrumental",
+          "sectionTitle": "Вставьте форму: творительный падеж",
+          "context": "Вставьте форму: творительный падеж",
+          "prompt": "Zdenka sa stane ___ (riaditeľka).",
+          "answers": [
+            "riaditeľkou"
+          ],
+          "explanation": "В этом предложении нужен творительный падеж."
+        },
+        {
+          "id": "l8-task-100",
+          "type": "gap",
+          "section": "time-write",
+          "sectionTitle": "Напишите время: который час?",
+          "context": "Напишите время: который час?",
+          "prompt": "7:00 — Koľko je hodín? Напишите по образцу таблицы.",
+          "answers": [
+            "Je sedem hodín."
+          ],
+          "explanation": "Je sedem hodín."
+        },
+        {
+          "id": "l8-task-101",
+          "type": "gap",
+          "section": "time-write",
+          "sectionTitle": "Напишите время: который час?",
+          "context": "Напишите время: который час?",
+          "prompt": "8:15 — Koľko je hodín? Напишите по образцу таблицы.",
+          "answers": [
+            "Je štvrť na deväť."
+          ],
+          "explanation": "Je štvrť na deväť."
+        },
+        {
+          "id": "l8-task-102",
+          "type": "gap",
+          "section": "time-write",
+          "sectionTitle": "Напишите время: который час?",
+          "context": "Напишите время: который час?",
+          "prompt": "9:30 — Koľko je hodín? Напишите по образцу таблицы.",
+          "answers": [
+            "Je pol desiatej."
+          ],
+          "explanation": "Je pol desiatej."
+        },
+        {
+          "id": "l8-task-103",
+          "type": "gap",
+          "section": "time-write",
+          "sectionTitle": "Напишите время: который час?",
+          "context": "Напишите время: который час?",
+          "prompt": "10:45 — Koľko je hodín? Напишите по образцу таблицы.",
+          "answers": [
+            "Je trištvrte na jedenásť."
+          ],
+          "explanation": "Je trištvrte na jedenásť."
+        },
+        {
+          "id": "l8-task-104",
+          "type": "gap",
+          "section": "time-write",
+          "sectionTitle": "Напишите время: который час?",
+          "context": "Напишите время: который час?",
+          "prompt": "11:50 — Koľko je hodín? Напишите по образцу таблицы.",
+          "answers": [
+            "Je jedenásť hodín päťdesiat minút."
+          ],
+          "explanation": "Je jedenásť hodín päťdesiat minút."
+        },
+        {
+          "id": "l8-task-105",
+          "type": "gap",
+          "section": "time-at",
+          "sectionTitle": "Напишите время: во сколько?",
+          "context": "Напишите время: во сколько?",
+          "prompt": "7:00 — O koľkej? Напишите по образцу таблицы.",
+          "answers": [
+            "O siedmej."
+          ],
+          "explanation": "O siedmej."
+        },
+        {
+          "id": "l8-task-106",
+          "type": "gap",
+          "section": "time-at",
+          "sectionTitle": "Напишите время: во сколько?",
+          "context": "Напишите время: во сколько?",
+          "prompt": "8:15 — O koľkej? Напишите по образцу таблицы.",
+          "answers": [
+            "O štvrť na deväť."
+          ],
+          "explanation": "O štvrť na deväť."
+        },
+        {
+          "id": "l8-task-107",
+          "type": "gap",
+          "section": "time-at",
+          "sectionTitle": "Напишите время: во сколько?",
+          "context": "Напишите время: во сколько?",
+          "prompt": "9:30 — O koľkej? Напишите по образцу таблицы.",
+          "answers": [
+            "O pol desiatej."
+          ],
+          "explanation": "O pol desiatej."
+        },
+        {
+          "id": "l8-task-108",
+          "type": "gap",
+          "section": "time-at",
+          "sectionTitle": "Напишите время: во сколько?",
+          "context": "Напишите время: во сколько?",
+          "prompt": "10:45 — O koľkej? Напишите по образцу таблицы.",
+          "answers": [
+            "O trištvrte na jedenásť."
+          ],
+          "explanation": "O trištvrte na jedenásť."
+        },
+        {
+          "id": "l8-task-109",
+          "type": "gap",
+          "section": "time-at",
+          "sectionTitle": "Напишите время: во сколько?",
+          "context": "Напишите время: во сколько?",
+          "prompt": "11:50 — O koľkej? Напишите по образцу таблицы.",
+          "answers": [
+            "O jedenástej hodine a päťdesiatej minúte."
+          ],
+          "explanation": "O jedenástej hodine a päťdesiatej minúte."
+        },
+        {
+          "id": "l8-task-110",
+          "type": "choice",
+          "section": "time-choice",
+          "sectionTitle": "Определите время",
+          "context": "Определите время",
+          "prompt": "Je pol ôsmej.",
+          "answers": [
+            "7:30 / 19:30"
+          ],
+          "explanation": "Без указания времени суток возможны утро и вечер.",
+          "options": [
+            "7:30 / 19:30",
+            "2:45 / 14:45",
+            "7:00 / 19:00",
+            "8:15 / 20:15",
+            "10:30 / 22:30"
+          ]
+        },
+        {
+          "id": "l8-task-111",
+          "type": "choice",
+          "section": "time-choice",
+          "sectionTitle": "Определите время",
+          "context": "Определите время",
+          "prompt": "Je trištvrte na tri.",
+          "answers": [
+            "2:45 / 14:45"
+          ],
+          "explanation": "Без указания времени суток возможны утро и вечер.",
+          "options": [
+            "2:45 / 14:45",
+            "7:30 / 19:30",
+            "7:00 / 19:00",
+            "8:15 / 20:15",
+            "10:30 / 22:30"
+          ]
+        },
+        {
+          "id": "l8-task-112",
+          "type": "choice",
+          "section": "time-choice",
+          "sectionTitle": "Определите время",
+          "context": "Определите время",
+          "prompt": "Je sedem hodín.",
+          "answers": [
+            "7:00 / 19:00"
+          ],
+          "explanation": "Без указания времени суток возможны утро и вечер.",
+          "options": [
+            "7:00 / 19:00",
+            "7:30 / 19:30",
+            "2:45 / 14:45",
+            "8:15 / 20:15",
+            "10:30 / 22:30"
+          ]
+        },
+        {
+          "id": "l8-task-113",
+          "type": "choice",
+          "section": "time-choice",
+          "sectionTitle": "Определите время",
+          "context": "Определите время",
+          "prompt": "Je štvrť na deväť.",
+          "answers": [
+            "8:15 / 20:15"
+          ],
+          "explanation": "Без указания времени суток возможны утро и вечер.",
+          "options": [
+            "8:15 / 20:15",
+            "7:30 / 19:30",
+            "2:45 / 14:45",
+            "7:00 / 19:00",
+            "10:30 / 22:30"
+          ]
+        },
+        {
+          "id": "l8-task-114",
+          "type": "choice",
+          "section": "time-choice",
+          "sectionTitle": "Определите время",
+          "context": "Определите время",
+          "prompt": "Je pol jedenástej.",
+          "answers": [
+            "10:30 / 22:30"
+          ],
+          "explanation": "Без указания времени суток возможны утро и вечер.",
+          "options": [
+            "10:30 / 22:30",
+            "7:30 / 19:30",
+            "2:45 / 14:45",
+            "7:00 / 19:00",
+            "8:15 / 20:15"
+          ]
+        },
+        {
+          "id": "l8-task-115",
+          "type": "gap",
+          "section": "words-write",
+          "sectionTitle": "Вспомните слово",
+          "context": "Вспомните слово",
+          "prompt": "Ako sa volá nápoj pred jedlom?",
+          "answers": [
+            "aperitív"
+          ],
+          "explanation": "Ответ: aperitív"
+        },
+        {
+          "id": "l8-task-116",
+          "type": "gap",
+          "section": "words-write",
+          "sectionTitle": "Вспомните слово",
+          "context": "Вспомните слово",
+          "prompt": "Ako sa volá prvé jedlo v menu?",
+          "answers": [
+            "predjedlo"
+          ],
+          "explanation": "Ответ: predjedlo"
+        },
+        {
+          "id": "l8-task-117",
+          "type": "gap",
+          "section": "words-write",
+          "sectionTitle": "Вспомните слово",
+          "context": "Вспомните слово",
+          "prompt": "Ako sa volá polievka zo zeleniny?",
+          "answers": [
+            "zeleninová",
+            "zeleninová polievka"
+          ],
+          "explanation": "Ответ: zeleninová / zeleninová polievka"
+        },
+        {
+          "id": "l8-task-118",
+          "type": "gap",
+          "section": "words-write",
+          "sectionTitle": "Вспомните слово",
+          "context": "Вспомните слово",
+          "prompt": "Ako sa volá miesto, kde predávajú kávu?",
+          "answers": [
+            "kaviareň"
+          ],
+          "explanation": "Ответ: kaviareň"
+        },
+        {
+          "id": "l8-task-119",
+          "type": "gap",
+          "section": "words-write",
+          "sectionTitle": "Вспомните слово",
+          "context": "Вспомните слово",
+          "prompt": "Ako platíme, keď neplatíme spolu?",
+          "answers": [
+            "osobitne"
+          ],
+          "explanation": "Ответ: osobitne"
+        },
+        {
+          "id": "l8-task-120",
+          "type": "gap",
+          "section": "words-write",
+          "sectionTitle": "Вспомните слово",
+          "context": "Вспомните слово",
+          "prompt": "Ako sa volajú peniaze pre čašníka?",
+          "answers": [
+            "tringelt",
+            "prepitné"
+          ],
+          "explanation": "Ответ: tringelt / prepitné"
+        },
+        {
+          "id": "l8-task-121",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Блинчики со взбитыми сливками.",
+          "answers": [
+            "Palacinky so šľahačkou."
+          ],
+          "explanation": "Palacinky so šľahačkou."
+        },
+        {
+          "id": "l8-task-122",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Апельсиновый сок.",
+          "answers": [
+            "Pomarančový džús."
+          ],
+          "explanation": "Pomarančový džús."
+        },
+        {
+          "id": "l8-task-123",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "А что будете пить?",
+          "answers": [
+            "A na pitie?"
+          ],
+          "explanation": "A na pitie?"
+        },
+        {
+          "id": "l8-task-124",
+          "type": "translation",
+          "section": "phrases",
+          "sectionTitle": "Напишите ресторанную фразу",
+          "context": "Напишите ресторанную фразу",
+          "prompt": "Что вы желаете?",
+          "answers": [
+            "Čo si prajete?"
+          ],
+          "explanation": "Čo si prajete?"
+        },
+        {
+          "id": "l8-task-125",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Čím platí Zdenka?",
+          "answers": [
+            "Kreditnou kartou."
+          ],
+          "explanation": "Ответ есть в таблице о Зденке.",
+          "options": [
+            "Kreditnou kartou.",
+            "Hotovosťou.",
+            "Neplatí."
+          ]
+        },
+        {
+          "id": "l8-task-126",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "S kým oslavuje Zdenka?",
+          "answers": [
+            "S manželom Jakubom a psom Félixom."
+          ],
+          "explanation": "Ответ есть в таблице о Зденке.",
+          "options": [
+            "S manželom Jakubom a psom Félixom.",
+            "S riaditeľom.",
+            "S profesorom Novákom."
+          ]
+        },
+        {
+          "id": "l8-task-127",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Čo si objedná Zdenka?",
+          "answers": [
+            "Špagety so syrom."
+          ],
+          "explanation": "Ответ есть в таблице о Зденке.",
+          "options": [
+            "Špagety so syrom.",
+            "Steak so zemiakmi.",
+            "Palacinky."
+          ]
+        },
+        {
+          "id": "l8-task-128",
+          "type": "choice",
+          "section": "reading",
+          "sectionTitle": "Чтение: ответьте по тексту",
+          "context": "Чтение: ответьте по тексту",
+          "prompt": "Kde čaká šofér?",
+          "answers": [
+            "Pred reštauráciou."
+          ],
+          "explanation": "Ответ есть в таблице о Зденке.",
+          "options": [
+            "Pred reštauráciou.",
+            "Pod stolom.",
+            "Za oknom."
           ]
         }
       ]
