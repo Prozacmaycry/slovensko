@@ -1,5 +1,5 @@
 {
-  "revision": 15,
+  "revision": 16,
   "packages": [
     {
       "schemaVersion": 1,
@@ -17769,110 +17769,162 @@
       "description": "Месяцы и даты, модальные глаголы в прошедшем времени, офисная лексика и неопределённые местоимения.",
       "status": "published",
       "words": [
-        [
-          "január",
-          "январь"
-        ],
-        [
-          "február",
-          "февраль"
-        ],
-        [
-          "marec",
-          "март"
-        ],
-        [
-          "apríl",
-          "апрель"
-        ],
-        [
-          "máj",
-          "май"
-        ],
-        [
-          "jún",
-          "июнь"
-        ],
-        [
-          "júl",
-          "июль"
-        ],
-        [
-          "august",
-          "август"
-        ],
-        [
-          "september",
-          "сентябрь"
-        ],
-        [
-          "október",
-          "октябрь"
-        ],
-        [
-          "november",
-          "ноябрь"
-        ],
-        [
-          "december",
-          "декабрь"
-        ],
-        [
-          "dátum",
-          "дата"
-        ],
-        [
-          "kalendár",
-          "календарь"
-        ],
-        [
-          "kancelária",
-          "офис"
-        ],
-        [
-          "schôdzka",
-          "встреча"
-        ],
-        [
-          "kolega",
-          "коллега"
-        ],
-        [
-          "kolegyňa",
-          "коллега (жен.)"
-        ],
-        [
-          "formulár",
-          "бланк, форма"
-        ],
-        [
-          "niekto",
-          "кто-то"
-        ],
-        [
-          "niečo",
-          "что-то"
-        ],
-        [
-          "nikto",
-          "никто"
-        ],
-        [
-          "nič",
-          "ничто"
-        ],
-        [
-          "mohol som",
-          "я мог"
-        ],
-        [
-          "musel som",
-          "я должен был"
-        ],
-        [
-          "chcel som",
-          "я хотел"
-        ]
+        {
+          "id": "lesson-18-word-01",
+          "sk": "január",
+          "ru": "январь",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-02",
+          "sk": "február",
+          "ru": "февраль",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-03",
+          "sk": "marec",
+          "ru": "март",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-04",
+          "sk": "apríl",
+          "ru": "апрель",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-05",
+          "sk": "máj",
+          "ru": "май",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-06",
+          "sk": "jún",
+          "ru": "июнь",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-07",
+          "sk": "júl",
+          "ru": "июль",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-08",
+          "sk": "august",
+          "ru": "август",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-09",
+          "sk": "september",
+          "ru": "сентябрь",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-10",
+          "sk": "október",
+          "ru": "октябрь",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-11",
+          "sk": "november",
+          "ru": "ноябрь",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-12",
+          "sk": "december",
+          "ru": "декабрь",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-13",
+          "sk": "dátum",
+          "ru": "дата",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-14",
+          "sk": "kalendár",
+          "ru": "календарь",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-15",
+          "sk": "kancelária",
+          "ru": "офис",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-16",
+          "sk": "schôdzka",
+          "ru": "встреча",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-17",
+          "sk": "kolega",
+          "ru": "коллега",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-18",
+          "sk": "kolegyňa",
+          "ru": "коллега (жен.)",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-19",
+          "sk": "formulár",
+          "ru": "бланк, форма",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-20",
+          "sk": "niekto",
+          "ru": "кто-то",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-21",
+          "sk": "niečo",
+          "ru": "что-то",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-22",
+          "sk": "nikto",
+          "ru": "никто",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-23",
+          "sk": "nič",
+          "ru": "ничто",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-24",
+          "sk": "mohol som",
+          "ru": "я мог",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-25",
+          "sk": "musel som",
+          "ru": "я должен был",
+          "type": "word"
+        },
+        {
+          "id": "lesson-18-word-26",
+          "sk": "chcel som",
+          "ru": "я хотел",
+          "type": "word"
+        }
       ],
       "rules": [
         {
@@ -17959,82 +18011,120 @@
       "description": "Предлоги v / na / pri / po / o, местный падеж, отрицательные местоимения и чтение о выходном и работе.",
       "status": "published",
       "words": [
-        [
-          "víkend",
-          "выходные"
-        ],
-        [
-          "voľno",
-          "свободное время, выходной"
-        ],
-        [
-          "výlet",
-          "поездка, экскурсия"
-        ],
-        [
-          "návšteva",
-          "визит"
-        ],
-        [
-          "kino",
-          "кинотеатр"
-        ],
-        [
-          "park",
-          "парк"
-        ],
-        [
-          "mesto",
-          "город"
-        ],
-        [
-          "škola",
-          "школа"
-        ],
-        [
-          "stanica",
-          "станция"
-        ],
-        [
-          "hotel",
-          "отель"
-        ],
-        [
-          "firma",
-          "фирма"
-        ],
-        [
-          "práca",
-          "работа"
-        ],
-        [
-          "kolega",
-          "коллега"
-        ],
-        [
-          "nikto",
-          "никто"
-        ],
-        [
-          "nič",
-          "ничто"
-        ],
-        [
-          "nikde",
-          "нигде"
-        ],
-        [
-          "nikam",
-          "никуда"
-        ],
-        [
-          "s nikým",
-          "ни с кем"
-        ],
-        [
-          "o ničom",
-          "ни о чём"
-        ]
+        {
+          "id": "lesson-19-word-01",
+          "sk": "víkend",
+          "ru": "выходные",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-02",
+          "sk": "voľno",
+          "ru": "свободное время, выходной",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-03",
+          "sk": "výlet",
+          "ru": "поездка, экскурсия",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-04",
+          "sk": "návšteva",
+          "ru": "визит",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-05",
+          "sk": "kino",
+          "ru": "кинотеатр",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-06",
+          "sk": "park",
+          "ru": "парк",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-07",
+          "sk": "mesto",
+          "ru": "город",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-08",
+          "sk": "škola",
+          "ru": "школа",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-09",
+          "sk": "stanica",
+          "ru": "станция",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-10",
+          "sk": "hotel",
+          "ru": "отель",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-11",
+          "sk": "firma",
+          "ru": "фирма",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-12",
+          "sk": "práca",
+          "ru": "работа",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-13",
+          "sk": "kolega",
+          "ru": "коллега",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-14",
+          "sk": "nikto",
+          "ru": "никто",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-15",
+          "sk": "nič",
+          "ru": "ничто",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-16",
+          "sk": "nikde",
+          "ru": "нигде",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-17",
+          "sk": "nikam",
+          "ru": "никуда",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-18",
+          "sk": "s nikým",
+          "ru": "ни с кем",
+          "type": "word"
+        },
+        {
+          "id": "lesson-19-word-19",
+          "sk": "o ničom",
+          "ru": "ни о чём",
+          "type": "word"
+        }
       ],
       "rules": [
         {
@@ -18126,90 +18216,132 @@
       "description": "Глаголы с sa / si, предлоги v / vo / na, анкета, вакансии, транспорт и интернет.",
       "status": "published",
       "words": [
-        [
-          "volať sa",
-          "называться"
-        ],
-        [
-          "tešiť sa",
-          "радоваться; ждать с нетерпением"
-        ],
-        [
-          "učiť sa",
-          "учиться"
-        ],
-        [
-          "spýtať sa",
-          "спросить"
-        ],
-        [
-          "kúpiť si",
-          "купить себе"
-        ],
-        [
-          "objednať si",
-          "заказать себе"
-        ],
-        [
-          "meno",
-          "имя"
-        ],
-        [
-          "priezvisko",
-          "фамилия"
-        ],
-        [
-          "adresa",
-          "адрес"
-        ],
-        [
-          "telefónne číslo",
-          "номер телефона"
-        ],
-        [
-          "životopis",
-          "резюме"
-        ],
-        [
-          "pracovná ponuka",
-          "вакансия"
-        ],
-        [
-          "pohovor",
-          "собеседование"
-        ],
-        [
-          "zastávka",
-          "остановка"
-        ],
-        [
-          "autobus",
-          "автобус"
-        ],
-        [
-          "vlak",
-          "поезд"
-        ],
-        [
-          "lístok",
-          "билет"
-        ],
-        [
-          "internet",
-          "интернет"
-        ],
-        [
-          "stránka",
-          "страница, сайт"
-        ],
-        [
-          "heslo",
-          "пароль"
-        ],
-        [
-          "e-mail",
-          "электронная почта"
-        ]
+        {
+          "id": "lesson-20-word-01",
+          "sk": "volať sa",
+          "ru": "называться",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-02",
+          "sk": "tešiť sa",
+          "ru": "радоваться; ждать с нетерпением",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-03",
+          "sk": "učiť sa",
+          "ru": "учиться",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-04",
+          "sk": "spýtať sa",
+          "ru": "спросить",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-05",
+          "sk": "kúpiť si",
+          "ru": "купить себе",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-06",
+          "sk": "objednať si",
+          "ru": "заказать себе",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-07",
+          "sk": "meno",
+          "ru": "имя",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-08",
+          "sk": "priezvisko",
+          "ru": "фамилия",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-09",
+          "sk": "adresa",
+          "ru": "адрес",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-10",
+          "sk": "telefónne číslo",
+          "ru": "номер телефона",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-11",
+          "sk": "životopis",
+          "ru": "резюме",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-12",
+          "sk": "pracovná ponuka",
+          "ru": "вакансия",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-13",
+          "sk": "pohovor",
+          "ru": "собеседование",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-14",
+          "sk": "zastávka",
+          "ru": "остановка",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-15",
+          "sk": "autobus",
+          "ru": "автобус",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-16",
+          "sk": "vlak",
+          "ru": "поезд",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-17",
+          "sk": "lístok",
+          "ru": "билет",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-18",
+          "sk": "internet",
+          "ru": "интернет",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-19",
+          "sk": "stránka",
+          "ru": "страница, сайт",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-20",
+          "sk": "heslo",
+          "ru": "пароль",
+          "type": "word"
+        },
+        {
+          "id": "lesson-20-word-21",
+          "sk": "e-mail",
+          "ru": "электронная почта",
+          "type": "word"
+        }
       ],
       "rules": [
         {
