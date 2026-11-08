@@ -1,6 +1,12 @@
-import { mkdir, copyFile, cp } from 'node:fs/promises';
+import { mkdir, copyFile, cp, readdir, rm } from 'node:fs/promises';
+await rm('dist',{recursive:true,force:true});
 await mkdir('dist',{recursive:true});
-for(const name of ['index.html','style.css','app.js','data.js','exercises.js']) await copyFile(name,`dist/${name}`);
-await cp('assets','dist/assets',{recursive:true});
-
-await cp('src/assets', 'dist/src/assets', {recursive:true});
+for(const name of ['index.html','style.css','reference.css','app.js','data.js','exercises.js','audio.js','audio-data.js','content-store.js','lesson-manager.js','rule-cards.js','practice-motion.js','a1.js','a1-data.js','settings.json','_redirects','vercel.json']) await copyFile(name,`dist/${name}`);
+await mkdir('dist/assets/audio',{recursive:true});
+await mkdir('dist/assets/icons',{recursive:true});
+await cp('assets/audio','dist/assets/audio',{recursive:true});
+for(const name of await readdir('assets/icons')) if(name.endsWith('.webp')&&!name.includes(' ')) await copyFile(`assets/icons/${name}`,`dist/assets/icons/${name}`);
+for(const name of ['logo-s.webp','reference-confetti.webp']) await copyFile(`assets/${name}`,`dist/assets/${name}`);
+await mkdir('dist/src/assets/illustrations',{recursive:true});
+for(const name of await readdir('src/assets/illustrations')) if(name.endsWith('.webp')) await copyFile(`src/assets/illustrations/${name}`,`dist/src/assets/illustrations/${name}`);
+await cp('content','dist/content',{recursive:true});
