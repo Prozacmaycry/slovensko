@@ -1,5 +1,5 @@
 {
-  "revision": 14,
+  "revision": 15,
   "packages": [
     {
       "schemaVersion": 1,
@@ -17759,6 +17759,533 @@
             "Pod stolom.",
             "Za oknom."
           ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "lesson-18",
+      "title": "Урок 18",
+      "description": "Месяцы и даты, модальные глаголы в прошедшем времени, офисная лексика и неопределённые местоимения.",
+      "status": "published",
+      "words": [
+        [
+          "január",
+          "январь"
+        ],
+        [
+          "február",
+          "февраль"
+        ],
+        [
+          "marec",
+          "март"
+        ],
+        [
+          "apríl",
+          "апрель"
+        ],
+        [
+          "máj",
+          "май"
+        ],
+        [
+          "jún",
+          "июнь"
+        ],
+        [
+          "júl",
+          "июль"
+        ],
+        [
+          "august",
+          "август"
+        ],
+        [
+          "september",
+          "сентябрь"
+        ],
+        [
+          "október",
+          "октябрь"
+        ],
+        [
+          "november",
+          "ноябрь"
+        ],
+        [
+          "december",
+          "декабрь"
+        ],
+        [
+          "dátum",
+          "дата"
+        ],
+        [
+          "kalendár",
+          "календарь"
+        ],
+        [
+          "kancelária",
+          "офис"
+        ],
+        [
+          "schôdzka",
+          "встреча"
+        ],
+        [
+          "kolega",
+          "коллега"
+        ],
+        [
+          "kolegyňa",
+          "коллега (жен.)"
+        ],
+        [
+          "formulár",
+          "бланк, форма"
+        ],
+        [
+          "niekto",
+          "кто-то"
+        ],
+        [
+          "niečo",
+          "что-то"
+        ],
+        [
+          "nikto",
+          "никто"
+        ],
+        [
+          "nič",
+          "ничто"
+        ],
+        [
+          "mohol som",
+          "я мог"
+        ],
+        [
+          "musel som",
+          "я должен был"
+        ],
+        [
+          "chcel som",
+          "я хотел"
+        ]
+      ],
+      "rules": [
+        {
+          "id": "l18-rule-1",
+          "title": "Модальные глаголы в прошедшем времени",
+          "text": "В прошедшем времени форма согласуется с родом и числом: muž mohol, žena mohla, mesto mohlo; во множественном числе mohli. С личным местоимением: mohol som, mohla som; musel/musela som; chcel/chcela som."
+        },
+        {
+          "id": "l18-rule-2",
+          "title": "Неопределённые местоимения",
+          "text": "Niekto — кто-то, niečo — что-то. Отрицательные формы: nikto — никто, nič — ничто. В отрицательном предложении отрицание обычно сохраняется и в глаголе: Nikto neprišiel."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "l18-ex-1",
+          "type": "gap",
+          "section": "grammar",
+          "sectionTitle": "Модальные глаголы в прошедшем",
+          "prompt": "Včera som ___ pracovať. (musieť)",
+          "answers": [
+            "musel"
+          ],
+          "explanation": "Говорящий мужского рода: musel som."
+        },
+        {
+          "id": "l18-ex-2",
+          "type": "gap",
+          "section": "grammar",
+          "sectionTitle": "Модальные глаголы в прошедшем",
+          "prompt": "Zuzana ___ ísť do kancelárie. (chcieť)",
+          "answers": [
+            "chcela"
+          ],
+          "explanation": "Zuzana — женский род: chcela."
+        },
+        {
+          "id": "l18-ex-3",
+          "type": "choice",
+          "section": "vocabulary",
+          "sectionTitle": "Слова и даты",
+          "prompt": "Ako sa povie „встреча“?",
+          "answers": [
+            "schôdzka"
+          ],
+          "options": [
+            "schôdzka",
+            "kancelária",
+            "formulár"
+          ]
+        },
+        {
+          "id": "l18-ex-4",
+          "type": "choice",
+          "section": "pronouns",
+          "sectionTitle": "Неопределённые местоимения",
+          "prompt": "___ mi dnes volal. — Мне сегодня кто-то звонил.",
+          "answers": [
+            "Niekto"
+          ],
+          "options": [
+            "Niekto",
+            "Nikto",
+            "Nič"
+          ]
+        },
+        {
+          "id": "l18-ex-5",
+          "type": "gap",
+          "section": "pronouns",
+          "sectionTitle": "Неопределённые местоимения",
+          "prompt": "___ tomu nerozumel. — Никто этого не понял.",
+          "answers": [
+            "Nikto"
+          ],
+          "explanation": "Nikto означает «никто»."
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "lesson-19",
+      "title": "Урок 19",
+      "description": "Предлоги v / na / pri / po / o, местный падеж, отрицательные местоимения и чтение о выходном и работе.",
+      "status": "published",
+      "words": [
+        [
+          "víkend",
+          "выходные"
+        ],
+        [
+          "voľno",
+          "свободное время, выходной"
+        ],
+        [
+          "výlet",
+          "поездка, экскурсия"
+        ],
+        [
+          "návšteva",
+          "визит"
+        ],
+        [
+          "kino",
+          "кинотеатр"
+        ],
+        [
+          "park",
+          "парк"
+        ],
+        [
+          "mesto",
+          "город"
+        ],
+        [
+          "škola",
+          "школа"
+        ],
+        [
+          "stanica",
+          "станция"
+        ],
+        [
+          "hotel",
+          "отель"
+        ],
+        [
+          "firma",
+          "фирма"
+        ],
+        [
+          "práca",
+          "работа"
+        ],
+        [
+          "kolega",
+          "коллега"
+        ],
+        [
+          "nikto",
+          "никто"
+        ],
+        [
+          "nič",
+          "ничто"
+        ],
+        [
+          "nikde",
+          "нигде"
+        ],
+        [
+          "nikam",
+          "никуда"
+        ],
+        [
+          "s nikým",
+          "ни с кем"
+        ],
+        [
+          "o ničom",
+          "ни о чём"
+        ]
+      ],
+      "rules": [
+        {
+          "id": "l19-rule-1",
+          "title": "Местный падеж после предлогов",
+          "text": "Место часто выражается сочетаниями v/vo + местный падеж (v meste, vo firme), na + местный (na stanici) и pri + местный (pri hoteli). Форму существительного нужно запоминать вместе с предлогом."
+        },
+        {
+          "id": "l19-rule-2",
+          "title": "Po и o",
+          "text": "Po + местный может обозначать движение или распределение по месту: po meste. O + местный используется в значении «о чём»: hovoriť o práci, čítať o meste."
+        },
+        {
+          "id": "l19-rule-3",
+          "title": "Отрицательные местоимения",
+          "text": "Nikto, nič, nikde, nikam обычно употребляются с отрицательной формой глагола: Nikto tu nie je. — Здесь никого нет. Nikde nepracuje. — Он нигде не работает."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "l19-ex-1",
+          "type": "gap",
+          "section": "locative",
+          "sectionTitle": "Вставьте форму",
+          "prompt": "Bývam v ___. (mesto)",
+          "answers": [
+            "meste"
+          ],
+          "explanation": "После v в значении места: v meste."
+        },
+        {
+          "id": "l19-ex-2",
+          "type": "gap",
+          "section": "locative",
+          "sectionTitle": "Вставьте форму",
+          "prompt": "Pracuje vo ___. (firma)",
+          "answers": [
+            "firme"
+          ],
+          "explanation": "Vo firme — в фирме."
+        },
+        {
+          "id": "l19-ex-3",
+          "type": "gap",
+          "section": "locative",
+          "sectionTitle": "Вставьте форму",
+          "prompt": "Čakám na ___. (stanica)",
+          "answers": [
+            "stanici"
+          ],
+          "explanation": "На станции: na stanici."
+        },
+        {
+          "id": "l19-ex-4",
+          "type": "choice",
+          "section": "pronouns",
+          "sectionTitle": "Отрицательные местоимения",
+          "prompt": "___ dnes nikde nepracuje. — Никто сегодня нигде не работает.",
+          "answers": [
+            "Nikto"
+          ],
+          "options": [
+            "Nikto",
+            "Niekto",
+            "Nič"
+          ]
+        },
+        {
+          "id": "l19-ex-5",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Выберите предлог",
+          "prompt": "Hovoríme ___ práci. — Мы говорим о работе.",
+          "answers": [
+            "o"
+          ],
+          "options": [
+            "o",
+            "pri",
+            "po"
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "lesson-20",
+      "title": "Урок 20",
+      "description": "Глаголы с sa / si, предлоги v / vo / na, анкета, вакансии, транспорт и интернет.",
+      "status": "published",
+      "words": [
+        [
+          "volať sa",
+          "называться"
+        ],
+        [
+          "tešiť sa",
+          "радоваться; ждать с нетерпением"
+        ],
+        [
+          "učiť sa",
+          "учиться"
+        ],
+        [
+          "spýtať sa",
+          "спросить"
+        ],
+        [
+          "kúpiť si",
+          "купить себе"
+        ],
+        [
+          "objednať si",
+          "заказать себе"
+        ],
+        [
+          "meno",
+          "имя"
+        ],
+        [
+          "priezvisko",
+          "фамилия"
+        ],
+        [
+          "adresa",
+          "адрес"
+        ],
+        [
+          "telefónne číslo",
+          "номер телефона"
+        ],
+        [
+          "životopis",
+          "резюме"
+        ],
+        [
+          "pracovná ponuka",
+          "вакансия"
+        ],
+        [
+          "pohovor",
+          "собеседование"
+        ],
+        [
+          "zastávka",
+          "остановка"
+        ],
+        [
+          "autobus",
+          "автобус"
+        ],
+        [
+          "vlak",
+          "поезд"
+        ],
+        [
+          "lístok",
+          "билет"
+        ],
+        [
+          "internet",
+          "интернет"
+        ],
+        [
+          "stránka",
+          "страница, сайт"
+        ],
+        [
+          "heslo",
+          "пароль"
+        ],
+        [
+          "e-mail",
+          "электронная почта"
+        ]
+      ],
+      "rules": [
+        {
+          "id": "l20-rule-1",
+          "title": "Глаголы с sa и si",
+          "text": "Частицы sa и si входят в устойчивую форму глагола: volať sa — называться, učiť sa — учиться, tešiť sa — радоваться/ждать, kúpiť si — купить себе. В настоящем времени частица ставится после спрягаемого глагола: volám sa, učím sa, kupujem si."
+        },
+        {
+          "id": "l20-rule-2",
+          "title": "V / vo и na: где или куда",
+          "text": "Для места используйте местный падеж: v práci, vo firme, na stanici. Для направления — винительный: idem do firmy, idem na stanicu. Предлог vo используется для удобства произношения перед некоторыми сочетаниями согласных."
+        }
+      ],
+      "exercises": [
+        {
+          "id": "l20-ex-1",
+          "type": "gap",
+          "section": "sa-si",
+          "sectionTitle": "Вставьте sa или si",
+          "prompt": "Volám ___ Alex.",
+          "answers": [
+            "sa"
+          ],
+          "explanation": "Volať sa — называться: volám sa."
+        },
+        {
+          "id": "l20-ex-2",
+          "type": "gap",
+          "section": "sa-si",
+          "sectionTitle": "Вставьте sa или si",
+          "prompt": "Kúpim ___ lístok. — Я куплю себе билет.",
+          "answers": [
+            "si"
+          ],
+          "explanation": "Покупка для себя: kúpiť si."
+        },
+        {
+          "id": "l20-ex-3",
+          "type": "choice",
+          "section": "vocabulary",
+          "sectionTitle": "Слова и ситуации",
+          "prompt": "Ako sa povie „собеседование“?",
+          "answers": [
+            "pohovor"
+          ],
+          "options": [
+            "pohovor",
+            "životopis",
+            "zastávka"
+          ]
+        },
+        {
+          "id": "l20-ex-4",
+          "type": "choice",
+          "section": "prepositions",
+          "sectionTitle": "Выберите форму",
+          "prompt": "Čakám ___ stanici. — Я жду на станции.",
+          "answers": [
+            "na"
+          ],
+          "options": [
+            "na",
+            "do",
+            "o"
+          ]
+        },
+        {
+          "id": "l20-ex-5",
+          "type": "gap",
+          "section": "vocabulary",
+          "sectionTitle": "Слова и ситуации",
+          "prompt": "Pošlem vám svoj ___. — Я пришлю вам своё резюме.",
+          "answers": [
+            "životopis"
+          ],
+          "explanation": "Životopis — резюме."
         }
       ]
     }
