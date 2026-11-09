@@ -23,6 +23,11 @@ const pronounGroups=[['Johana, Carlo, Zuzana, Róbert','oni'],['Carlo, Zuzana','
 export const exerciseItems=[...screenshotGaps,...gaps.filter(i=>i.ru.startsWith('Отрицание')),...pronounGroups,...scenes];
 export const normalizeAnswer=s=>s.normalize('NFC').toLocaleLowerCase('sk').trim().replace(/[.!?,…]+$/u,'').replace(/\s+/g,' ');
 export function slovakVoice(){return window.speechSynthesis?.getVoices().find(v=>/^sk(?:[-_]|$)/i.test(v.lang))||null}
+function shuffle(items){
+ const result=[...items];
+ for(let j=result.length-1;j>0;j--){const k=Math.floor(Math.random()*(j+1));[result[j],result[k]]=[result[k],result[j]]}
+ return result;
+}
 function answersFor(i){
  if(i.answers)return i.answers;
  // Slash groups can contain pronouns sharing a verb: “on / ona / ono je”.
@@ -30,11 +35,18 @@ function answersFor(i){
  if(i.sk==='oni / ony sú')return ['oni sú','ony sú'];
  return i.sk.split(/\s*\/\s*/);
 }
-export function makeQuestion(i,mode,index,pool){
- if(['gender','choice'].includes(i.exercise))return {mode:'categories',prompt:i.prompt,answers:i.answers,title:i.exercise==='gender'?'Распределите по роду':'Выберите ответ',opts:i.options.map(x=>({sk:x,ru:x}))};
+export function makeQuestion(i,mode,index,pool,choiceOffset=0){
+ if(['gender','choice'].includes(i.exercise))return {mode:'categories',prompt:i.prompt,answers:i.answers,title:i.exercise==='gender'?'Распределите по роду':'Выберите ответ',opts:shuffle(i.options.map(x=>({sk:x,ru:x})))};
  if(i.exercise)return {mode:'write',prompt:i.prompt||i.context,context:i.exercise==='situation'?i.scene:i.context,answers:answersFor(i),title:i.sectionTitle||(i.exercise==='gap'?'Вставьте форму глагола':i.exercise==='pronoun'?'Дополните: oni / ony':i.exercise==='translation'?'Напишите перевод':'Ответьте по ситуации')};
  const chosen=mode==='mixed'?(index%3===2?'choice':'write'):mode;
- if(chosen==='choice')return {mode:'choice',prompt:i.sk,answers:[i.sk],title:'Выберите перевод',opts:[i,...pool.filter(x=>!x.exercise&&x.sk!==i.sk&&x.ru!==i.ru).sort(()=>Math.random()-.5).slice(0,3)].sort(()=>Math.random()-.5)};
+ if(chosen==='choice'){
+  const distractors=shuffle(pool.filter(x=>!x.exercise&&x.sk!==i.sk&&x.ru!==i.ru)).slice(0,3);
+  const opts=shuffle([i,...distractors]);
+  const correct=opts.splice(opts.findIndex(x=>x.sk===i.sk),1)[0];
+  // Rotate correct-answer positions across a session so a fixed tap target never works.
+  opts.splice((choiceOffset+index)% (opts.length+1),0,correct);
+  return {mode:'choice',prompt:i.sk,answers:[i.sk],title:'Выберите перевод',opts};
+ }
  return {mode:'write',prompt:i.ru,answers:answersFor(i),title:'Напишите по-словацки',context:'Если указано несколько вариантов, достаточно одного.'};
 }
 function lessonPracticeTiles(lessons,topic){
