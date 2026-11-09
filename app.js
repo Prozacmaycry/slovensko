@@ -5,7 +5,7 @@ import {managerHTML,managerClick,managerSubmit,managerImport,managerError,manage
 import {playAudio, stopAudio,setLessonAudio} from './audio.js';
 import{lessons,emptyState,freshProfiles}from'./data.js';
 import {exerciseItems, makeQuestion, normalizeAnswer, trainingMenu, questionHTML} from './exercises.js?v=mobile-nav-a1-fix';
-import {a1HTML,a1Click,a1Submit,a1Tick} from './a1.js?v=individual-task-status-v1';
+import {a1HTML,a1Click,a1Submit,a1Tick} from './a1.js?v=a1-real-exams-v1';
 const baseLessons=[...lessons];
 let practiceTopic='all';
 function syncContent(){lessons.splice(0,lessons.length,...baseLessons,...runtimeLessons());setLessonAudio(lessons.flatMap(l=>l.items))}

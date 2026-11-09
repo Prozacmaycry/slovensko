@@ -164,3 +164,15 @@ body[data-view=a1] .mobile-nav{grid-template-columns:repeat(4,minmax(0,1fr));gap
 @media(max-width:700px){body[data-view=a1] .mobile-nav{height:76px;grid-template-columns:repeat(4,minmax(0,1fr));gap:2px;padding:5px 8px max(5px,env(safe-area-inset-bottom))}}
 @media(max-width:360px){.topbar{margin:0 11px;gap:4px}.brand{gap:4px}.brand-name{font-size:17px}.brand-mark[src]{width:31px;height:31px}.top-chip{padding:0 5px;font-size:9px}.profile-switch{min-width:78px;padding:0 5px}.profile-switch select{font-size:9px}.screen{margin-left:12px;margin-right:12px}.mobile-nav{padding-left:4px;padding-right:4px}.mobile-nav-item{font-size:9px}.mobile-nav-item .nav-art{width:27px;height:27px}.a1-overview{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.a1-overview-main .a1-progress-track{width:min(43vw,180px)}}
 @media(prefers-reduced-motion:reduce){.a1-home-entry{transition:none}.a1-home-entry:hover{transform:none}}
+
+/* A1 task cards: clearly distinguish untouched, in-progress, and completed topics. */
+.a1-module-card-new{border-color:#e8e1ef;background:linear-gradient(105deg,#fff,#fcfaff)}
+.a1-module-card-new .a1-card-progress{color:#8b7b9d!important}
+.a1-module-card-new .a1-module-count{color:#8b8791}
+.a1-module-card-started{border-color:#d8c3f5;background:linear-gradient(105deg,#fff,#faf6ff)}
+.a1-module-card-started .a1-card-progress{color:#7441bd!important}
+.a1-module-card-started .a1-module-count{color:#7441bd;font-weight:850}
+.a1-module-card-complete{border-color:#b9dfc2;background:linear-gradient(105deg,#fff,#f3fbf5)}
+.a1-module-card-complete .a1-card-progress{color:#35864a!important}
+.a1-module-card-complete .a1-module-count{color:#35864a;font-weight:900}
+.a1-module-card-complete .a1-module-icon{background:#e9f6ec;color:#35864a}
